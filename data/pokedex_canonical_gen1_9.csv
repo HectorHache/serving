@@ -1,0 +1,1026 @@
+national_dex,name,display,genus,generation,generation_index,types,hp,atk,def,spa,spd,spe,bst,abilities,hidden_ability,egg_groups,egg_counter,hatch_cycles,capture_rate,base_happiness,growth_rate,color,shape,habitat,is_legendary,is_mythical,artwork
+1,bulbasaur,bulbasaur,Seed Pokémon,I,1,grass/poison,45,49,49,65,65,45,318,overgrow|chlorophyll,True,monster|plant,,,45,70,medium-slow,green,quadruped,grassland,False,False,assets/dex/bulbasaur.png
+2,ivysaur,ivysaur,Seed Pokémon,I,2,grass/poison,60,62,63,80,80,60,405,overgrow|chlorophyll,True,monster|plant,,,45,70,medium-slow,green,quadruped,grassland,False,False,assets/dex/ivysaur.png
+3,venusaur,venusaur,Seed Pokémon,I,3,grass/poison,80,82,83,100,100,80,525,overgrow|chlorophyll,True,monster|plant,,,45,70,medium-slow,green,quadruped,grassland,False,False,assets/dex/venusaur.png
+4,charmander,charmander,Lizard Pokémon,I,4,fire,39,52,43,60,50,65,309,blaze|solar-power,True,monster|dragon,,,45,70,medium-slow,red,upright,mountain,False,False,assets/dex/charmander.png
+5,charmeleon,charmeleon,Flame Pokémon,I,5,fire,58,64,58,80,65,80,405,blaze|solar-power,True,monster|dragon,,,45,70,medium-slow,red,upright,mountain,False,False,assets/dex/charmeleon.png
+6,charizard,charizard,Flame Pokémon,I,6,fire/flying,78,84,78,109,85,100,534,blaze|solar-power,True,monster|dragon,,,45,70,medium-slow,red,upright,mountain,False,False,assets/dex/charizard.png
+7,squirtle,squirtle,Tiny Turtle Pokémon,I,7,water,44,48,65,50,64,43,314,torrent|rain-dish,True,monster|water1,,,45,70,medium-slow,blue,upright,waters-edge,False,False,assets/dex/squirtle.png
+8,wartortle,wartortle,Turtle Pokémon,I,8,water,59,63,80,65,80,58,405,torrent|rain-dish,True,monster|water1,,,45,70,medium-slow,blue,upright,waters-edge,False,False,assets/dex/wartortle.png
+9,blastoise,blastoise,Shellfish Pokémon,I,9,water,79,83,100,85,105,78,530,torrent|rain-dish,True,monster|water1,,,45,70,medium-slow,blue,upright,waters-edge,False,False,assets/dex/blastoise.png
+10,caterpie,caterpie,Worm Pokémon,I,10,bug,45,30,35,20,20,45,195,shield-dust|run-away,True,bug,,,255,70,medium,green,armor,forest,False,False,assets/dex/caterpie.png
+11,metapod,metapod,Cocoon Pokémon,I,11,bug,50,20,55,25,25,30,205,shed-skin,False,bug,,,120,70,medium,green,squiggle,forest,False,False,assets/dex/metapod.png
+12,butterfree,butterfree,Butterfly Pokémon,I,12,bug/flying,60,45,50,90,80,70,395,compound-eyes|tinted-lens,True,bug,,,45,70,medium,white,bug-wings,forest,False,False,assets/dex/butterfree.png
+13,weedle,weedle,Hairy Bug Pokémon,I,13,bug/poison,40,35,30,20,20,50,195,shield-dust|run-away,True,bug,,,255,70,medium,brown,armor,forest,False,False,assets/dex/weedle.png
+14,kakuna,kakuna,Cocoon Pokémon,I,14,bug/poison,45,25,50,25,25,35,205,shed-skin,False,bug,,,120,70,medium,yellow,squiggle,forest,False,False,assets/dex/kakuna.png
+15,beedrill,beedrill,Poison Bee Pokémon,I,15,bug/poison,65,90,40,45,80,75,395,swarm|sniper,True,bug,,,45,70,medium,yellow,bug-wings,forest,False,False,assets/dex/beedrill.png
+16,pidgey,pidgey,Tiny Bird Pokémon,I,16,normal/flying,40,45,40,35,35,56,251,keen-eye|tangled-feet|big-pecks,True,flying,,,255,70,medium-slow,brown,wings,forest,False,False,assets/dex/pidgey.png
+17,pidgeotto,pidgeotto,Bird Pokémon,I,17,normal/flying,63,60,55,50,50,71,349,keen-eye|tangled-feet|big-pecks,True,flying,,,120,70,medium-slow,brown,wings,forest,False,False,assets/dex/pidgeotto.png
+18,pidgeot,pidgeot,Bird Pokémon,I,18,normal/flying,83,80,75,70,70,101,479,keen-eye|tangled-feet|big-pecks,True,flying,,,45,70,medium-slow,brown,wings,forest,False,False,assets/dex/pidgeot.png
+19,rattata,rattata,Mouse Pokémon,I,19,normal,30,56,35,25,35,72,253,run-away|guts|hustle,True,ground,,,255,70,medium,purple,quadruped,grassland,False,False,assets/dex/rattata.png
+20,raticate,raticate,Mouse Pokémon,I,20,normal,55,81,60,50,70,97,413,run-away|guts|hustle,True,ground,,,127,70,medium,brown,quadruped,grassland,False,False,assets/dex/raticate.png
+21,spearow,spearow,Tiny Bird Pokémon,I,21,normal/flying,40,60,30,31,31,70,262,keen-eye|sniper,True,flying,,,255,70,medium,brown,wings,rough-terrain,False,False,assets/dex/spearow.png
+22,fearow,fearow,Beak Pokémon,I,22,normal/flying,65,90,65,61,61,100,442,keen-eye|sniper,True,flying,,,90,70,medium,brown,wings,rough-terrain,False,False,assets/dex/fearow.png
+23,ekans,ekans,Snake Pokémon,I,23,poison,35,60,44,40,54,55,288,intimidate|shed-skin|unnerve,True,ground|dragon,,,255,70,medium,purple,squiggle,grassland,False,False,assets/dex/ekans.png
+24,arbok,arbok,Cobra Pokémon,I,24,poison,60,95,69,65,79,80,448,intimidate|shed-skin|unnerve,True,ground|dragon,,,90,70,medium,purple,squiggle,grassland,False,False,assets/dex/arbok.png
+25,pikachu,pikachu,Mouse Pokémon,I,25,electric,35,55,40,50,50,90,320,static|lightning-rod,True,ground|fairy,,,190,70,medium,yellow,quadruped,forest,False,False,assets/dex/pikachu.png
+26,raichu,raichu,Mouse Pokémon,I,26,electric,60,90,55,90,80,110,485,static|lightning-rod,True,ground|fairy,,,75,70,medium,yellow,upright,forest,False,False,assets/dex/raichu.png
+27,sandshrew,sandshrew,Mouse Pokémon,I,27,ground,50,75,85,20,30,40,300,sand-veil|sand-rush,True,ground,,,255,70,medium,yellow,upright,rough-terrain,False,False,assets/dex/sandshrew.png
+28,sandslash,sandslash,Mouse Pokémon,I,28,ground,75,100,110,45,55,65,450,sand-veil|sand-rush,True,ground,,,90,70,medium,yellow,upright,rough-terrain,False,False,assets/dex/sandslash.png
+29,nidoran-f,nidoran-f,Poison Pin Pokémon,I,29,poison,55,47,52,40,40,41,275,poison-point|rivalry|hustle,True,monster|ground,,,235,70,medium-slow,blue,quadruped,grassland,False,False,assets/dex/nidoran-f.png
+30,nidorina,nidorina,Poison Pin Pokémon,I,30,poison,70,62,67,55,55,56,365,poison-point|rivalry|hustle,True,no-eggs,,,120,70,medium-slow,blue,quadruped,grassland,False,False,assets/dex/nidorina.png
+31,nidoqueen,nidoqueen,Drill Pokémon,I,31,poison/ground,90,92,87,75,85,76,505,poison-point|rivalry|sheer-force,True,no-eggs,,,45,70,medium-slow,blue,upright,grassland,False,False,assets/dex/nidoqueen.png
+32,nidoran-m,nidoran-m,Poison Pin Pokémon,I,32,poison,46,57,40,40,40,50,273,poison-point|rivalry|hustle,True,monster|ground,,,235,70,medium-slow,purple,quadruped,grassland,False,False,assets/dex/nidoran-m.png
+33,nidorino,nidorino,Poison Pin Pokémon,I,33,poison,61,72,57,55,55,65,365,poison-point|rivalry|hustle,True,monster|ground,,,120,70,medium-slow,purple,quadruped,grassland,False,False,assets/dex/nidorino.png
+34,nidoking,nidoking,Drill Pokémon,I,34,poison/ground,81,102,77,85,75,85,505,poison-point|rivalry|sheer-force,True,monster|ground,,,45,70,medium-slow,purple,upright,grassland,False,False,assets/dex/nidoking.png
+35,clefairy,clefairy,Fairy Pokémon,I,35,fairy,70,45,48,60,65,35,323,cute-charm|magic-guard|friend-guard,True,fairy,,,150,140,fast,pink,upright,mountain,False,False,assets/dex/clefairy.png
+36,clefable,clefable,Fairy Pokémon,I,36,fairy,95,70,73,95,90,60,483,cute-charm|magic-guard|unaware,True,fairy,,,25,140,fast,pink,upright,mountain,False,False,assets/dex/clefable.png
+37,vulpix,vulpix,Fox Pokémon,I,37,fire,38,41,40,50,65,65,299,flash-fire|drought,True,ground,,,190,70,medium,brown,quadruped,grassland,False,False,assets/dex/vulpix.png
+38,ninetales,ninetales,Fox Pokémon,I,38,fire,73,76,75,81,100,100,505,flash-fire|drought,True,ground,,,75,70,medium,yellow,quadruped,grassland,False,False,assets/dex/ninetales.png
+39,jigglypuff,jigglypuff,Balloon Pokémon,I,39,normal/fairy,115,45,20,45,25,20,270,cute-charm|competitive|friend-guard,True,fairy,,,170,70,fast,pink,humanoid,grassland,False,False,assets/dex/jigglypuff.png
+40,wigglytuff,wigglytuff,Balloon Pokémon,I,40,normal/fairy,140,70,45,85,50,45,435,cute-charm|competitive|frisk,True,fairy,,,50,70,fast,pink,humanoid,grassland,False,False,assets/dex/wigglytuff.png
+41,zubat,zubat,Bat Pokémon,I,41,poison/flying,40,45,35,30,40,55,245,inner-focus|infiltrator,True,flying,,,255,70,medium,purple,wings,cave,False,False,assets/dex/zubat.png
+42,golbat,golbat,Bat Pokémon,I,42,poison/flying,75,80,70,65,75,90,455,inner-focus|infiltrator,True,flying,,,90,70,medium,purple,wings,cave,False,False,assets/dex/golbat.png
+43,oddish,oddish,Weed Pokémon,I,43,grass/poison,45,50,55,75,65,30,320,chlorophyll|run-away,True,plant,,,255,70,medium-slow,blue,legs,grassland,False,False,assets/dex/oddish.png
+44,gloom,gloom,Weed Pokémon,I,44,grass/poison,60,65,70,85,75,40,395,chlorophyll|stench,True,plant,,,120,70,medium-slow,blue,humanoid,grassland,False,False,assets/dex/gloom.png
+45,vileplume,vileplume,Flower Pokémon,I,45,grass/poison,75,80,85,110,90,50,490,chlorophyll|effect-spore,True,plant,,,45,70,medium-slow,red,humanoid,grassland,False,False,assets/dex/vileplume.png
+46,paras,paras,Mushroom Pokémon,I,46,bug/grass,35,70,55,45,55,25,285,effect-spore|dry-skin|damp,True,bug|plant,,,190,70,medium,red,armor,forest,False,False,assets/dex/paras.png
+47,parasect,parasect,Mushroom Pokémon,I,47,bug/grass,60,95,80,60,80,30,405,effect-spore|dry-skin|damp,True,bug|plant,,,75,70,medium,red,armor,forest,False,False,assets/dex/parasect.png
+48,venonat,venonat,Insect Pokémon,I,48,bug/poison,60,55,50,40,55,45,305,compound-eyes|tinted-lens|run-away,True,bug,,,190,70,medium,purple,humanoid,forest,False,False,assets/dex/venonat.png
+49,venomoth,venomoth,Poison Moth Pokémon,I,49,bug/poison,70,65,60,90,75,90,450,shield-dust|tinted-lens|wonder-skin,True,bug,,,75,70,medium,purple,bug-wings,forest,False,False,assets/dex/venomoth.png
+50,diglett,diglett,Mole Pokémon,I,50,ground,10,55,25,35,45,95,265,sand-veil|arena-trap|sand-force,True,ground,,,255,70,medium,brown,blob,cave,False,False,assets/dex/diglett.png
+51,dugtrio,dugtrio,Mole Pokémon,I,51,ground,35,100,50,50,70,120,425,sand-veil|arena-trap|sand-force,True,ground,,,50,70,medium,brown,heads,cave,False,False,assets/dex/dugtrio.png
+52,meowth,meowth,Scratch Cat Pokémon,I,52,normal,40,45,35,40,40,90,290,pickup|technician|unnerve,True,ground,,,255,70,medium,yellow,quadruped,urban,False,False,assets/dex/meowth.png
+53,persian,persian,Classy Cat Pokémon,I,53,normal,65,70,60,65,65,115,440,limber|technician|unnerve,True,ground,,,90,70,medium,yellow,quadruped,urban,False,False,assets/dex/persian.png
+54,psyduck,psyduck,Duck Pokémon,I,54,water,50,52,48,65,50,55,320,damp|cloud-nine|swift-swim,True,water1|ground,,,190,70,medium,yellow,upright,waters-edge,False,False,assets/dex/psyduck.png
+55,golduck,golduck,Duck Pokémon,I,55,water,80,82,78,95,80,85,500,damp|cloud-nine|swift-swim,True,water1|ground,,,75,70,medium,blue,upright,waters-edge,False,False,assets/dex/golduck.png
+56,mankey,mankey,Pig Monkey Pokémon,I,56,fighting,40,80,35,35,45,70,305,vital-spirit|anger-point|defiant,True,ground,,,190,70,medium,brown,upright,mountain,False,False,assets/dex/mankey.png
+57,primeape,primeape,Pig Monkey Pokémon,I,57,fighting,65,105,60,60,70,95,455,vital-spirit|anger-point|defiant,True,ground,,,75,70,medium,brown,upright,mountain,False,False,assets/dex/primeape.png
+58,growlithe,growlithe,Puppy Pokémon,I,58,fire,55,70,45,70,50,60,350,intimidate|flash-fire|justified,True,ground,,,190,70,slow,brown,quadruped,grassland,False,False,assets/dex/growlithe.png
+59,arcanine,arcanine,Legendary Pokémon,I,59,fire,90,110,80,100,80,95,555,intimidate|flash-fire|justified,True,ground,,,75,70,slow,brown,quadruped,grassland,False,False,assets/dex/arcanine.png
+60,poliwag,poliwag,Tadpole Pokémon,I,60,water,40,50,40,40,40,90,300,water-absorb|damp|swift-swim,True,water1,,,255,70,medium-slow,blue,legs,waters-edge,False,False,assets/dex/poliwag.png
+61,poliwhirl,poliwhirl,Tadpole Pokémon,I,61,water,65,65,65,50,50,90,385,water-absorb|damp|swift-swim,True,water1,,,120,70,medium-slow,blue,humanoid,waters-edge,False,False,assets/dex/poliwhirl.png
+62,poliwrath,poliwrath,Tadpole Pokémon,I,62,water/fighting,90,95,95,70,90,70,510,water-absorb|damp|swift-swim,True,water1,,,45,70,medium-slow,blue,humanoid,waters-edge,False,False,assets/dex/poliwrath.png
+63,abra,abra,Psi Pokémon,I,63,psychic,25,20,15,105,55,90,310,synchronize|inner-focus|magic-guard,True,humanshape,,,200,70,medium-slow,brown,upright,urban,False,False,assets/dex/abra.png
+64,kadabra,kadabra,Psi Pokémon,I,64,psychic,40,35,30,120,70,105,400,synchronize|inner-focus|magic-guard,True,humanshape,,,100,70,medium-slow,brown,upright,urban,False,False,assets/dex/kadabra.png
+65,alakazam,alakazam,Psi Pokémon,I,65,psychic,55,50,45,135,95,120,500,synchronize|inner-focus|magic-guard,True,humanshape,,,50,70,medium-slow,brown,humanoid,urban,False,False,assets/dex/alakazam.png
+66,machop,machop,Superpower Pokémon,I,66,fighting,70,80,50,35,35,35,305,guts|no-guard|steadfast,True,humanshape,,,180,70,medium-slow,gray,upright,mountain,False,False,assets/dex/machop.png
+67,machoke,machoke,Superpower Pokémon,I,67,fighting,80,100,70,50,60,45,405,guts|no-guard|steadfast,True,humanshape,,,90,70,medium-slow,gray,humanoid,mountain,False,False,assets/dex/machoke.png
+68,machamp,machamp,Superpower Pokémon,I,68,fighting,90,130,80,65,85,55,505,guts|no-guard|steadfast,True,humanshape,,,45,70,medium-slow,gray,humanoid,mountain,False,False,assets/dex/machamp.png
+69,bellsprout,bellsprout,Flower Pokémon,I,69,grass/poison,50,75,35,70,30,40,300,chlorophyll|gluttony,True,plant,,,255,70,medium-slow,green,humanoid,forest,False,False,assets/dex/bellsprout.png
+70,weepinbell,weepinbell,Flycatcher Pokémon,I,70,grass/poison,65,90,50,85,45,55,390,chlorophyll|gluttony,True,plant,,,120,70,medium-slow,green,blob,forest,False,False,assets/dex/weepinbell.png
+71,victreebel,victreebel,Flycatcher Pokémon,I,71,grass/poison,80,105,65,100,70,70,490,chlorophyll|gluttony,True,plant,,,45,70,medium-slow,green,blob,forest,False,False,assets/dex/victreebel.png
+72,tentacool,tentacool,Jellyfish Pokémon,I,72,water/poison,40,40,35,50,100,70,335,clear-body|liquid-ooze|rain-dish,True,water3,,,190,70,slow,blue,tentacles,sea,False,False,assets/dex/tentacool.png
+73,tentacruel,tentacruel,Jellyfish Pokémon,I,73,water/poison,80,70,65,80,120,100,515,clear-body|liquid-ooze|rain-dish,True,water3,,,60,70,slow,blue,tentacles,sea,False,False,assets/dex/tentacruel.png
+74,geodude,geodude,Rock Pokémon,I,74,rock/ground,40,80,100,30,30,20,300,rock-head|sturdy|sand-veil,True,mineral,,,255,70,medium-slow,brown,arms,mountain,False,False,assets/dex/geodude.png
+75,graveler,graveler,Rock Pokémon,I,75,rock/ground,55,95,115,45,45,35,390,rock-head|sturdy|sand-veil,True,mineral,,,120,70,medium-slow,brown,humanoid,mountain,False,False,assets/dex/graveler.png
+76,golem,golem,Megaton Pokémon,I,76,rock/ground,80,120,130,55,65,45,495,rock-head|sturdy|sand-veil,True,mineral,,,45,70,medium-slow,brown,humanoid,mountain,False,False,assets/dex/golem.png
+77,ponyta,ponyta,Fire Horse Pokémon,I,77,fire,50,85,55,65,65,90,410,run-away|flash-fire|flame-body,True,ground,,,190,70,medium,yellow,quadruped,grassland,False,False,assets/dex/ponyta.png
+78,rapidash,rapidash,Fire Horse Pokémon,I,78,fire,65,100,70,80,80,105,500,run-away|flash-fire|flame-body,True,ground,,,60,70,medium,yellow,quadruped,grassland,False,False,assets/dex/rapidash.png
+79,slowpoke,slowpoke,Dopey Pokémon,I,79,water/psychic,90,65,65,40,40,15,315,oblivious|own-tempo|regenerator,True,monster|water1,,,190,70,medium,pink,quadruped,waters-edge,False,False,assets/dex/slowpoke.png
+80,slowbro,slowbro,Hermit Crab Pokémon,I,80,water/psychic,95,75,110,100,80,30,490,oblivious|own-tempo|regenerator,True,monster|water1,,,75,70,medium,pink,upright,waters-edge,False,False,assets/dex/slowbro.png
+81,magnemite,magnemite,Magnet Pokémon,I,81,electric/steel,25,35,70,95,55,45,325,magnet-pull|sturdy|analytic,True,mineral,,,190,70,medium,gray,arms,rough-terrain,False,False,assets/dex/magnemite.png
+82,magneton,magneton,Magnet Pokémon,I,82,electric/steel,50,60,95,120,70,70,465,magnet-pull|sturdy|analytic,True,mineral,,,60,70,medium,gray,heads,rough-terrain,False,False,assets/dex/magneton.png
+83,farfetchd,farfetchd,Wild Duck Pokémon,I,83,normal/flying,52,90,55,58,62,60,377,keen-eye|inner-focus|defiant,True,flying|ground,,,45,70,medium,brown,wings,grassland,False,False,assets/dex/farfetchd.png
+84,doduo,doduo,Twin Bird Pokémon,I,84,normal/flying,35,85,45,35,35,75,310,run-away|early-bird|tangled-feet,True,flying,,,190,70,medium,brown,legs,grassland,False,False,assets/dex/doduo.png
+85,dodrio,dodrio,Triple Bird Pokémon,I,85,normal/flying,60,110,70,60,60,110,470,run-away|early-bird|tangled-feet,True,flying,,,45,70,medium,brown,legs,grassland,False,False,assets/dex/dodrio.png
+86,seel,seel,Sea Lion Pokémon,I,86,water,65,45,55,45,70,45,325,thick-fat|hydration|ice-body,True,water1|ground,,,190,70,medium,white,fish,sea,False,False,assets/dex/seel.png
+87,dewgong,dewgong,Sea Lion Pokémon,I,87,water/ice,90,70,80,70,95,70,475,thick-fat|hydration|ice-body,True,water1|ground,,,75,70,medium,white,fish,sea,False,False,assets/dex/dewgong.png
+88,grimer,grimer,Sludge Pokémon,I,88,poison,80,80,50,40,50,25,325,stench|sticky-hold|poison-touch,True,indeterminate,,,190,70,medium,purple,arms,urban,False,False,assets/dex/grimer.png
+89,muk,muk,Sludge Pokémon,I,89,poison,105,105,75,65,100,50,500,stench|sticky-hold|poison-touch,True,indeterminate,,,75,70,medium,purple,arms,urban,False,False,assets/dex/muk.png
+90,shellder,shellder,Bivalve Pokémon,I,90,water,30,65,100,45,25,40,305,shell-armor|skill-link|overcoat,True,water3,,,190,70,slow,purple,ball,sea,False,False,assets/dex/shellder.png
+91,cloyster,cloyster,Bivalve Pokémon,I,91,water/ice,50,95,180,85,45,70,525,shell-armor|skill-link|overcoat,True,water3,,,60,70,slow,purple,ball,sea,False,False,assets/dex/cloyster.png
+92,gastly,gastly,Gas Pokémon,I,92,ghost/poison,30,35,30,100,35,80,310,levitate,False,indeterminate,,,190,70,medium-slow,purple,ball,cave,False,False,assets/dex/gastly.png
+93,haunter,haunter,Gas Pokémon,I,93,ghost/poison,45,50,45,115,55,95,405,levitate,False,indeterminate,,,90,70,medium-slow,purple,arms,cave,False,False,assets/dex/haunter.png
+94,gengar,gengar,Shadow Pokémon,I,94,ghost/poison,60,65,60,130,75,110,500,cursed-body,False,indeterminate,,,45,70,medium-slow,purple,upright,cave,False,False,assets/dex/gengar.png
+95,onix,onix,Rock Snake Pokémon,I,95,rock/ground,35,45,160,30,45,70,385,rock-head|sturdy|weak-armor,True,mineral,,,45,70,medium,gray,squiggle,cave,False,False,assets/dex/onix.png
+96,drowzee,drowzee,Hypnosis Pokémon,I,96,psychic,60,48,45,43,90,42,328,insomnia|forewarn|inner-focus,True,humanshape,,,190,70,medium,yellow,humanoid,grassland,False,False,assets/dex/drowzee.png
+97,hypno,hypno,Hypnosis Pokémon,I,97,psychic,85,73,70,73,115,67,483,insomnia|forewarn|inner-focus,True,humanshape,,,75,70,medium,yellow,humanoid,grassland,False,False,assets/dex/hypno.png
+98,krabby,krabby,River Crab Pokémon,I,98,water,30,105,90,25,25,50,325,hyper-cutter|shell-armor|sheer-force,True,water3,,,225,70,medium,red,armor,waters-edge,False,False,assets/dex/krabby.png
+99,kingler,kingler,Pincer Pokémon,I,99,water,55,130,115,50,50,75,475,hyper-cutter|shell-armor|sheer-force,True,water3,,,60,70,medium,red,armor,waters-edge,False,False,assets/dex/kingler.png
+100,voltorb,voltorb,Ball Pokémon,I,100,electric,40,30,50,55,55,100,330,soundproof|static|aftermath,True,mineral,,,190,70,medium,red,ball,urban,False,False,assets/dex/voltorb.png
+101,electrode,electrode,Ball Pokémon,I,101,electric,60,50,70,80,80,150,490,soundproof|static|aftermath,True,mineral,,,60,70,medium,red,ball,urban,False,False,assets/dex/electrode.png
+102,exeggcute,exeggcute,Egg Pokémon,I,102,grass/psychic,60,40,80,60,45,40,325,chlorophyll|harvest,True,plant,,,90,70,slow,pink,heads,forest,False,False,assets/dex/exeggcute.png
+103,exeggutor,exeggutor,Coconut Pokémon,I,103,grass/psychic,95,95,85,125,75,55,530,chlorophyll|harvest,True,plant,,,45,70,slow,yellow,legs,forest,False,False,assets/dex/exeggutor.png
+104,cubone,cubone,Lonely Pokémon,I,104,ground,50,50,95,40,50,35,320,rock-head|lightning-rod|battle-armor,True,monster,,,190,70,medium,brown,upright,mountain,False,False,assets/dex/cubone.png
+105,marowak,marowak,Bone Keeper Pokémon,I,105,ground,60,80,110,50,80,45,425,rock-head|lightning-rod|battle-armor,True,monster,,,75,70,medium,brown,upright,mountain,False,False,assets/dex/marowak.png
+106,hitmonlee,hitmonlee,Kicking Pokémon,I,106,fighting,50,120,53,35,110,87,455,limber|reckless|unburden,True,humanshape,,,45,70,medium,brown,humanoid,urban,False,False,assets/dex/hitmonlee.png
+107,hitmonchan,hitmonchan,Punching Pokémon,I,107,fighting,50,105,79,35,110,76,455,keen-eye|iron-fist|inner-focus,True,humanshape,,,45,70,medium,brown,humanoid,urban,False,False,assets/dex/hitmonchan.png
+108,lickitung,lickitung,Licking Pokémon,I,108,normal,90,55,75,60,75,30,385,own-tempo|oblivious|cloud-nine,True,monster,,,45,70,medium,pink,upright,grassland,False,False,assets/dex/lickitung.png
+109,koffing,koffing,Poison Gas Pokémon,I,109,poison,40,65,95,60,45,35,340,levitate|neutralizing-gas|stench,True,indeterminate,,,190,70,medium,purple,ball,urban,False,False,assets/dex/koffing.png
+110,weezing,weezing,Poison Gas Pokémon,I,110,poison,65,90,120,85,70,60,490,levitate|neutralizing-gas|stench,True,indeterminate,,,60,70,medium,purple,heads,urban,False,False,assets/dex/weezing.png
+111,rhyhorn,rhyhorn,Spikes Pokémon,I,111,ground/rock,80,85,95,30,30,25,345,lightning-rod|rock-head|reckless,True,monster|ground,,,120,70,slow,gray,quadruped,rough-terrain,False,False,assets/dex/rhyhorn.png
+112,rhydon,rhydon,Drill Pokémon,I,112,ground/rock,105,130,120,45,45,40,485,lightning-rod|rock-head|reckless,True,monster|ground,,,60,70,slow,gray,upright,rough-terrain,False,False,assets/dex/rhydon.png
+113,chansey,chansey,Egg Pokémon,I,113,normal,250,5,5,35,105,50,450,natural-cure|serene-grace|healer,True,fairy,,,30,140,fast,pink,upright,urban,False,False,assets/dex/chansey.png
+114,tangela,tangela,Vine Pokémon,I,114,grass,65,55,115,100,40,60,435,chlorophyll|leaf-guard|regenerator,True,plant,,,45,70,medium,blue,legs,grassland,False,False,assets/dex/tangela.png
+115,kangaskhan,kangaskhan,Parent Pokémon,I,115,normal,105,95,80,40,80,90,490,early-bird|scrappy|inner-focus,True,monster,,,45,70,medium,brown,upright,grassland,False,False,assets/dex/kangaskhan.png
+116,horsea,horsea,Dragon Pokémon,I,116,water,30,40,70,70,25,60,295,swift-swim|sniper|damp,True,water1|dragon,,,225,70,medium,blue,blob,sea,False,False,assets/dex/horsea.png
+117,seadra,seadra,Dragon Pokémon,I,117,water,55,65,95,95,45,85,440,poison-point|sniper|damp,True,water1|dragon,,,75,70,medium,blue,blob,sea,False,False,assets/dex/seadra.png
+118,goldeen,goldeen,Goldfish Pokémon,I,118,water,45,67,60,35,50,63,320,swift-swim|water-veil|lightning-rod,True,water2,,,225,70,medium,red,fish,waters-edge,False,False,assets/dex/goldeen.png
+119,seaking,seaking,Goldfish Pokémon,I,119,water,80,92,65,65,80,68,450,swift-swim|water-veil|lightning-rod,True,water2,,,60,70,medium,red,fish,waters-edge,False,False,assets/dex/seaking.png
+120,staryu,staryu,Star Shape Pokémon,I,120,water,30,45,55,70,55,85,340,illuminate|natural-cure|analytic,True,water3,,,225,70,slow,brown,blob,sea,False,False,assets/dex/staryu.png
+121,starmie,starmie,Mysterious Pokémon,I,121,water/psychic,60,75,85,100,85,115,520,illuminate|natural-cure|analytic,True,water3,,,60,70,slow,purple,blob,sea,False,False,assets/dex/starmie.png
+122,mr-mime,mr-mime,Barrier Pokémon,I,122,psychic/fairy,40,45,65,100,120,90,460,soundproof|filter|technician,True,humanshape,,,45,70,medium,pink,humanoid,urban,False,False,assets/dex/mr-mime.png
+123,scyther,scyther,Mantis Pokémon,I,123,bug/flying,70,110,80,55,80,105,500,swarm|technician|steadfast,True,bug,,,45,70,medium,green,bug-wings,grassland,False,False,assets/dex/scyther.png
+124,jynx,jynx,Human Shape Pokémon,I,124,ice/psychic,65,50,35,115,95,95,455,oblivious|forewarn|dry-skin,True,humanshape,,,45,70,medium,red,humanoid,urban,False,False,assets/dex/jynx.png
+125,electabuzz,electabuzz,Electric Pokémon,I,125,electric,65,83,57,95,85,105,490,static|vital-spirit,True,humanshape,,,45,70,medium,yellow,upright,grassland,False,False,assets/dex/electabuzz.png
+126,magmar,magmar,Spitfire Pokémon,I,126,fire,65,95,57,100,85,93,495,flame-body|vital-spirit,True,humanshape,,,45,70,medium,red,upright,mountain,False,False,assets/dex/magmar.png
+127,pinsir,pinsir,Stag Beetle Pokémon,I,127,bug,65,125,100,55,70,85,500,hyper-cutter|mold-breaker|moxie,True,bug,,,45,70,slow,brown,humanoid,forest,False,False,assets/dex/pinsir.png
+128,tauros,tauros,Wild Bull Pokémon,I,128,normal,75,100,95,40,70,110,490,intimidate|anger-point|sheer-force,True,ground,,,45,70,slow,brown,quadruped,grassland,False,False,assets/dex/tauros.png
+129,magikarp,magikarp,Fish Pokémon,I,129,water,20,10,55,15,20,80,200,swift-swim|rattled,True,water2|dragon,,,255,70,slow,red,fish,waters-edge,False,False,assets/dex/magikarp.png
+130,gyarados,gyarados,Atrocious Pokémon,I,130,water/flying,95,125,79,60,100,81,540,intimidate|moxie,True,water2|dragon,,,45,70,slow,blue,squiggle,waters-edge,False,False,assets/dex/gyarados.png
+131,lapras,lapras,Transport Pokémon,I,131,water/ice,130,85,80,85,95,60,535,water-absorb|shell-armor|hydration,True,monster|water1,,,45,70,slow,blue,fish,sea,False,False,assets/dex/lapras.png
+132,ditto,ditto,Transform Pokémon,I,132,normal,48,48,48,48,48,48,288,limber|imposter,True,ditto,,,35,70,medium,purple,ball,urban,False,False,assets/dex/ditto.png
+133,eevee,eevee,Evolution Pokémon,I,133,normal,55,55,50,45,65,55,325,run-away|adaptability|anticipation,True,ground,,,45,70,medium,brown,quadruped,urban,False,False,assets/dex/eevee.png
+134,vaporeon,vaporeon,Bubble Jet Pokémon,I,134,water,130,65,60,110,95,65,525,water-absorb|hydration,True,ground,,,45,70,medium,blue,quadruped,urban,False,False,assets/dex/vaporeon.png
+135,jolteon,jolteon,Lightning Pokémon,I,135,electric,65,65,60,110,95,130,525,volt-absorb|quick-feet,True,ground,,,45,70,medium,yellow,quadruped,urban,False,False,assets/dex/jolteon.png
+136,flareon,flareon,Flame Pokémon,I,136,fire,65,130,60,95,110,65,525,flash-fire|guts,True,ground,,,45,70,medium,red,quadruped,urban,False,False,assets/dex/flareon.png
+137,porygon,porygon,Virtual Pokémon,I,137,normal,65,60,70,85,75,40,395,trace|download|analytic,True,mineral,,,45,70,medium,pink,legs,urban,False,False,assets/dex/porygon.png
+138,omanyte,omanyte,Spiral Pokémon,I,138,rock/water,35,40,100,90,55,35,355,swift-swim|shell-armor|weak-armor,True,water1|water3,,,45,70,medium,blue,tentacles,sea,False,False,assets/dex/omanyte.png
+139,omastar,omastar,Spiral Pokémon,I,139,rock/water,70,60,125,115,70,55,495,swift-swim|shell-armor|weak-armor,True,water1|water3,,,45,70,medium,blue,tentacles,sea,False,False,assets/dex/omastar.png
+140,kabuto,kabuto,Shellfish Pokémon,I,140,rock/water,30,80,90,55,45,55,355,swift-swim|battle-armor|weak-armor,True,water1|water3,,,45,70,medium,brown,armor,sea,False,False,assets/dex/kabuto.png
+141,kabutops,kabutops,Shellfish Pokémon,I,141,rock/water,60,115,105,65,70,80,495,swift-swim|battle-armor|weak-armor,True,water1|water3,,,45,70,medium,brown,upright,sea,False,False,assets/dex/kabutops.png
+142,aerodactyl,aerodactyl,Fossil Pokémon,I,142,rock/flying,80,105,65,60,75,130,515,rock-head|pressure|unnerve,True,flying,,,45,70,slow,purple,wings,mountain,False,False,assets/dex/aerodactyl.png
+143,snorlax,snorlax,Sleeping Pokémon,I,143,normal,160,110,65,65,110,30,540,immunity|thick-fat|gluttony,True,monster,,,25,70,slow,black,humanoid,mountain,False,False,assets/dex/snorlax.png
+144,articuno,articuno,Freeze Pokémon,I,144,ice/flying,90,85,100,95,125,85,580,pressure|snow-cloak,True,no-eggs,,,3,35,slow,blue,wings,rare,True,False,assets/dex/articuno.png
+145,zapdos,zapdos,Electric Pokémon,I,145,electric/flying,90,90,85,125,90,100,580,pressure|static,True,no-eggs,,,3,35,slow,yellow,wings,rare,True,False,assets/dex/zapdos.png
+146,moltres,moltres,Flame Pokémon,I,146,fire/flying,90,100,90,125,85,90,580,pressure|flame-body,True,no-eggs,,,3,35,slow,yellow,wings,rare,True,False,assets/dex/moltres.png
+147,dratini,dratini,Dragon Pokémon,I,147,dragon,41,64,45,50,50,50,300,shed-skin|marvel-scale,True,water1|dragon,,,45,35,slow,blue,squiggle,waters-edge,False,False,assets/dex/dratini.png
+148,dragonair,dragonair,Dragon Pokémon,I,148,dragon,61,84,65,70,70,70,420,shed-skin|marvel-scale,True,water1|dragon,,,45,35,slow,blue,squiggle,waters-edge,False,False,assets/dex/dragonair.png
+149,dragonite,dragonite,Dragon Pokémon,I,149,dragon/flying,91,134,95,100,100,80,600,inner-focus|multiscale,True,water1|dragon,,,45,35,slow,brown,upright,waters-edge,False,False,assets/dex/dragonite.png
+150,mewtwo,mewtwo,Genetic Pokémon,I,150,psychic,106,110,90,154,90,130,680,pressure|unnerve,True,no-eggs,,,3,0,slow,purple,upright,rare,True,False,assets/dex/mewtwo.png
+151,mew,mew,New Species Pokémon,I,151,psychic,100,100,100,100,100,100,600,synchronize,False,no-eggs,,,45,100,medium-slow,pink,upright,rare,False,True,assets/dex/mew.png
+152,chikorita,chikorita,Leaf Pokémon,II,1,grass,45,49,65,49,65,45,318,overgrow|leaf-guard,True,monster|plant,,,45,70,medium-slow,green,quadruped,grassland,False,False,assets/dex/chikorita.png
+153,bayleef,bayleef,Leaf Pokémon,II,2,grass,60,62,80,63,80,60,405,overgrow|leaf-guard,True,monster|plant,,,45,70,medium-slow,green,quadruped,grassland,False,False,assets/dex/bayleef.png
+154,meganium,meganium,Herb Pokémon,II,3,grass,80,82,100,83,100,80,525,overgrow|leaf-guard,True,monster|plant,,,45,70,medium-slow,green,quadruped,grassland,False,False,assets/dex/meganium.png
+155,cyndaquil,cyndaquil,Fire Mouse Pokémon,II,4,fire,39,52,43,60,50,65,309,blaze|flash-fire,True,ground,,,45,70,medium-slow,yellow,humanoid,grassland,False,False,assets/dex/cyndaquil.png
+156,quilava,quilava,Volcano Pokémon,II,5,fire,58,64,58,80,65,80,405,blaze|flash-fire,True,ground,,,45,70,medium-slow,yellow,quadruped,grassland,False,False,assets/dex/quilava.png
+157,typhlosion,typhlosion,Volcano Pokémon,II,6,fire,78,84,78,109,85,100,534,blaze|flash-fire,True,ground,,,45,70,medium-slow,yellow,quadruped,grassland,False,False,assets/dex/typhlosion.png
+158,totodile,totodile,Big Jaw Pokémon,II,7,water,50,65,64,44,48,43,314,torrent|sheer-force,True,monster|water1,,,45,70,medium-slow,blue,upright,waters-edge,False,False,assets/dex/totodile.png
+159,croconaw,croconaw,Big Jaw Pokémon,II,8,water,65,80,80,59,63,58,405,torrent|sheer-force,True,monster|water1,,,45,70,medium-slow,blue,upright,waters-edge,False,False,assets/dex/croconaw.png
+160,feraligatr,feraligatr,Big Jaw Pokémon,II,9,water,85,105,100,79,83,78,530,torrent|sheer-force,True,monster|water1,,,45,70,medium-slow,blue,upright,waters-edge,False,False,assets/dex/feraligatr.png
+161,sentret,sentret,Scout Pokémon,II,10,normal,35,46,34,35,45,20,215,run-away|keen-eye|frisk,True,ground,,,255,70,medium,brown,quadruped,grassland,False,False,assets/dex/sentret.png
+162,furret,furret,Long Body Pokémon,II,11,normal,85,76,64,45,55,90,415,run-away|keen-eye|frisk,True,ground,,,90,70,medium,brown,quadruped,grassland,False,False,assets/dex/furret.png
+163,hoothoot,hoothoot,Owl Pokémon,II,12,normal/flying,60,30,30,36,56,50,262,insomnia|keen-eye|tinted-lens,True,flying,,,255,70,medium,brown,wings,forest,False,False,assets/dex/hoothoot.png
+164,noctowl,noctowl,Owl Pokémon,II,13,normal/flying,100,50,50,86,96,70,452,insomnia|keen-eye|tinted-lens,True,flying,,,90,70,medium,brown,wings,forest,False,False,assets/dex/noctowl.png
+165,ledyba,ledyba,Five Star Pokémon,II,14,bug/flying,40,20,30,40,80,55,265,swarm|early-bird|rattled,True,bug,,,255,70,fast,red,wings,forest,False,False,assets/dex/ledyba.png
+166,ledian,ledian,Five Star Pokémon,II,15,bug/flying,55,35,50,55,110,85,390,swarm|early-bird|iron-fist,True,bug,,,90,70,fast,red,wings,forest,False,False,assets/dex/ledian.png
+167,spinarak,spinarak,String Spit Pokémon,II,16,bug/poison,40,60,40,40,40,30,250,swarm|insomnia|sniper,True,bug,,,255,70,fast,green,armor,forest,False,False,assets/dex/spinarak.png
+168,ariados,ariados,Long Leg Pokémon,II,17,bug/poison,70,90,70,60,70,40,400,swarm|insomnia|sniper,True,bug,,,90,70,fast,red,armor,forest,False,False,assets/dex/ariados.png
+169,crobat,crobat,Bat Pokémon,II,18,poison/flying,85,90,80,70,80,130,535,inner-focus|infiltrator,True,flying,,,90,70,medium,purple,bug-wings,cave,False,False,assets/dex/crobat.png
+170,chinchou,chinchou,Angler Pokémon,II,19,water/electric,75,38,38,56,56,67,330,volt-absorb|illuminate|water-absorb,True,water2,,,190,70,slow,blue,fish,sea,False,False,assets/dex/chinchou.png
+171,lanturn,lanturn,Light Pokémon,II,20,water/electric,125,58,58,76,76,67,460,volt-absorb|illuminate|water-absorb,True,water2,,,75,70,slow,blue,fish,sea,False,False,assets/dex/lanturn.png
+172,pichu,pichu,Tiny Mouse Pokémon,II,21,electric,20,40,15,35,35,60,205,static|lightning-rod,True,no-eggs,,,190,70,medium,yellow,quadruped,forest,False,False,assets/dex/pichu.png
+173,cleffa,cleffa,Star Shape Pokémon,II,22,fairy,50,25,28,45,55,15,218,cute-charm|magic-guard|friend-guard,True,no-eggs,,,150,140,fast,pink,upright,mountain,False,False,assets/dex/cleffa.png
+174,igglybuff,igglybuff,Balloon Pokémon,II,23,normal/fairy,90,30,15,40,20,15,210,cute-charm|competitive|friend-guard,True,no-eggs,,,170,70,fast,pink,humanoid,grassland,False,False,assets/dex/igglybuff.png
+175,togepi,togepi,Spike Ball Pokémon,II,24,fairy,35,20,65,40,65,20,245,hustle|serene-grace|super-luck,True,no-eggs,,,190,70,fast,white,humanoid,forest,False,False,assets/dex/togepi.png
+176,togetic,togetic,Happiness Pokémon,II,25,fairy/flying,55,40,85,80,105,40,405,hustle|serene-grace|super-luck,True,flying|fairy,,,75,70,fast,white,humanoid,forest,False,False,assets/dex/togetic.png
+177,natu,natu,Tiny Bird Pokémon,II,26,psychic/flying,40,50,45,70,45,70,320,synchronize|early-bird|magic-bounce,True,flying,,,190,70,medium,green,wings,forest,False,False,assets/dex/natu.png
+178,xatu,xatu,Mystic Pokémon,II,27,psychic/flying,65,75,70,95,70,95,470,synchronize|early-bird|magic-bounce,True,flying,,,75,70,medium,green,wings,forest,False,False,assets/dex/xatu.png
+179,mareep,mareep,Wool Pokémon,II,28,electric,55,40,40,65,45,35,280,static|plus,True,monster|ground,,,235,70,medium-slow,white,quadruped,grassland,False,False,assets/dex/mareep.png
+180,flaaffy,flaaffy,Wool Pokémon,II,29,electric,70,55,55,80,60,45,365,static|plus,True,monster|ground,,,120,70,medium-slow,pink,upright,grassland,False,False,assets/dex/flaaffy.png
+181,ampharos,ampharos,Light Pokémon,II,30,electric,90,75,85,115,90,55,510,static|plus,True,monster|ground,,,45,70,medium-slow,yellow,upright,grassland,False,False,assets/dex/ampharos.png
+182,bellossom,bellossom,Flower Pokémon,II,31,grass,75,80,95,90,100,50,490,chlorophyll|healer,True,plant,,,45,70,medium-slow,green,humanoid,grassland,False,False,assets/dex/bellossom.png
+183,marill,marill,Aqua Mouse Pokémon,II,32,water/fairy,70,20,50,20,50,40,250,thick-fat|huge-power|sap-sipper,True,water1|fairy,,,190,70,fast,blue,upright,waters-edge,False,False,assets/dex/marill.png
+184,azumarill,azumarill,Aqua Rabbit Pokémon,II,33,water/fairy,100,50,80,60,80,50,420,thick-fat|huge-power|sap-sipper,True,water1|fairy,,,75,70,fast,blue,upright,waters-edge,False,False,assets/dex/azumarill.png
+185,sudowoodo,sudowoodo,Imitation Pokémon,II,34,rock,70,100,115,30,65,30,410,sturdy|rock-head|rattled,True,mineral,,,65,70,medium,brown,humanoid,forest,False,False,assets/dex/sudowoodo.png
+186,politoed,politoed,Frog Pokémon,II,35,water,90,75,75,90,100,70,500,water-absorb|damp|drizzle,True,water1,,,45,70,medium-slow,green,humanoid,waters-edge,False,False,assets/dex/politoed.png
+187,hoppip,hoppip,Cottonweed Pokémon,II,36,grass/flying,35,35,40,35,55,50,250,chlorophyll|leaf-guard|infiltrator,True,fairy|plant,,,255,70,medium-slow,pink,upright,grassland,False,False,assets/dex/hoppip.png
+188,skiploom,skiploom,Cottonweed Pokémon,II,37,grass/flying,55,45,50,45,65,80,340,chlorophyll|leaf-guard|infiltrator,True,fairy|plant,,,120,70,medium-slow,green,upright,grassland,False,False,assets/dex/skiploom.png
+189,jumpluff,jumpluff,Cottonweed Pokémon,II,38,grass/flying,75,55,70,55,95,110,460,chlorophyll|leaf-guard|infiltrator,True,fairy|plant,,,45,70,medium-slow,blue,upright,grassland,False,False,assets/dex/jumpluff.png
+190,aipom,aipom,Long Tail Pokémon,II,39,normal,55,70,55,40,55,85,360,run-away|pickup|skill-link,True,ground,,,45,70,fast,purple,upright,forest,False,False,assets/dex/aipom.png
+191,sunkern,sunkern,Seed Pokémon,II,40,grass,30,30,30,30,30,30,180,chlorophyll|solar-power|early-bird,True,plant,,,235,70,medium-slow,yellow,ball,grassland,False,False,assets/dex/sunkern.png
+192,sunflora,sunflora,Sun Pokémon,II,41,grass,75,75,55,105,85,30,425,chlorophyll|solar-power|early-bird,True,plant,,,120,70,medium-slow,yellow,humanoid,grassland,False,False,assets/dex/sunflora.png
+193,yanma,yanma,Clear Wing Pokémon,II,42,bug/flying,65,65,45,75,45,95,390,speed-boost|compound-eyes|frisk,True,bug,,,75,70,medium,red,bug-wings,forest,False,False,assets/dex/yanma.png
+194,wooper,wooper,Water Fish Pokémon,II,43,water/ground,55,45,45,25,25,15,210,damp|water-absorb|unaware,True,water1|ground,,,255,70,medium,blue,legs,waters-edge,False,False,assets/dex/wooper.png
+195,quagsire,quagsire,Water Fish Pokémon,II,44,water/ground,95,85,85,65,65,35,430,damp|water-absorb|unaware,True,water1|ground,,,90,70,medium,blue,upright,waters-edge,False,False,assets/dex/quagsire.png
+196,espeon,espeon,Sun Pokémon,II,45,psychic,65,65,60,130,95,110,525,synchronize|magic-bounce,True,ground,,,45,70,medium,purple,quadruped,urban,False,False,assets/dex/espeon.png
+197,umbreon,umbreon,Moonlight Pokémon,II,46,dark,95,65,110,60,130,65,525,synchronize|inner-focus,True,ground,,,45,35,medium,black,quadruped,urban,False,False,assets/dex/umbreon.png
+198,murkrow,murkrow,Darkness Pokémon,II,47,dark/flying,60,85,42,85,42,91,405,insomnia|super-luck|prankster,True,flying,,,30,35,medium-slow,black,wings,forest,False,False,assets/dex/murkrow.png
+199,slowking,slowking,Royal Pokémon,II,48,water/psychic,95,75,80,100,110,30,490,oblivious|own-tempo|regenerator,True,monster|water1,,,70,70,medium,pink,upright,waters-edge,False,False,assets/dex/slowking.png
+200,misdreavus,misdreavus,Screech Pokémon,II,49,ghost,60,60,60,85,85,85,435,levitate,False,indeterminate,,,45,35,fast,gray,ball,cave,False,False,assets/dex/misdreavus.png
+201,unown,unown,Symbol Pokémon,II,50,psychic,48,72,48,72,48,48,336,levitate,False,no-eggs,,,225,70,medium,black,ball,rare,False,False,assets/dex/unown.png
+202,wobbuffet,wobbuffet,Patient Pokémon,II,51,psychic,190,33,58,33,58,33,405,shadow-tag|telepathy,True,indeterminate,,,45,70,medium,blue,blob,cave,False,False,assets/dex/wobbuffet.png
+203,girafarig,girafarig,Long Neck Pokémon,II,52,normal/psychic,70,80,65,90,65,85,455,inner-focus|early-bird|sap-sipper,True,ground,,,60,70,medium,yellow,quadruped,grassland,False,False,assets/dex/girafarig.png
+204,pineco,pineco,Bagworm Pokémon,II,53,bug,50,65,90,35,35,15,290,sturdy|overcoat,True,bug,,,190,70,medium,gray,ball,forest,False,False,assets/dex/pineco.png
+205,forretress,forretress,Bagworm Pokémon,II,54,bug/steel,75,90,140,60,60,40,465,sturdy|overcoat,True,bug,,,75,70,medium,purple,ball,forest,False,False,assets/dex/forretress.png
+206,dunsparce,dunsparce,Land Snake Pokémon,II,55,normal,100,70,70,65,65,45,415,serene-grace|run-away|rattled,True,ground,,,190,70,medium,yellow,squiggle,cave,False,False,assets/dex/dunsparce.png
+207,gligar,gligar,Fly Scorpion Pokémon,II,56,ground/flying,65,75,105,35,65,85,430,hyper-cutter|sand-veil|immunity,True,bug,,,60,70,medium-slow,purple,wings,mountain,False,False,assets/dex/gligar.png
+208,steelix,steelix,Iron Snake Pokémon,II,57,steel/ground,75,85,200,55,65,30,510,rock-head|sturdy|sheer-force,True,mineral,,,25,70,medium,gray,squiggle,cave,False,False,assets/dex/steelix.png
+209,snubbull,snubbull,Fairy Pokémon,II,58,fairy,60,80,50,40,40,30,300,intimidate|run-away|rattled,True,ground|fairy,,,190,70,fast,pink,humanoid,urban,False,False,assets/dex/snubbull.png
+210,granbull,granbull,Fairy Pokémon,II,59,fairy,90,120,75,60,60,45,450,intimidate|quick-feet|rattled,True,ground|fairy,,,75,70,fast,purple,upright,urban,False,False,assets/dex/granbull.png
+211,qwilfish,qwilfish,Balloon Pokémon,II,60,water/poison,65,95,85,55,55,85,440,poison-point|swift-swim|intimidate,True,water2,,,45,70,medium,gray,fish,sea,False,False,assets/dex/qwilfish.png
+212,scizor,scizor,Pincer Pokémon,II,61,bug/steel,70,130,100,55,80,65,500,swarm|technician|light-metal,True,bug,,,25,70,medium,red,bug-wings,grassland,False,False,assets/dex/scizor.png
+213,shuckle,shuckle,Mold Pokémon,II,62,bug/rock,20,10,230,10,230,5,505,sturdy|gluttony|contrary,True,bug,,,190,70,medium-slow,yellow,armor,mountain,False,False,assets/dex/shuckle.png
+214,heracross,heracross,Single Horn Pokémon,II,63,bug/fighting,80,125,75,40,95,85,500,swarm|guts|moxie,True,bug,,,45,70,slow,blue,humanoid,forest,False,False,assets/dex/heracross.png
+215,sneasel,sneasel,Sharp Claw Pokémon,II,64,dark/ice,55,95,55,35,75,115,430,inner-focus|keen-eye|pickpocket,True,ground,,,60,35,medium-slow,black,upright,forest,False,False,assets/dex/sneasel.png
+216,teddiursa,teddiursa,Little Bear Pokémon,II,65,normal,60,80,50,50,50,40,330,pickup|quick-feet|honey-gather,True,ground,,,120,70,medium,brown,upright,mountain,False,False,assets/dex/teddiursa.png
+217,ursaring,ursaring,Hibernator Pokémon,II,66,normal,90,130,75,75,75,55,500,guts|quick-feet|unnerve,True,ground,,,60,70,medium,brown,upright,mountain,False,False,assets/dex/ursaring.png
+218,slugma,slugma,Lava Pokémon,II,67,fire,40,40,40,70,40,20,250,magma-armor|flame-body|weak-armor,True,indeterminate,,,190,70,medium,red,squiggle,mountain,False,False,assets/dex/slugma.png
+219,magcargo,magcargo,Lava Pokémon,II,68,fire/rock,60,50,120,90,80,30,430,magma-armor|flame-body|weak-armor,True,indeterminate,,,75,70,medium,red,squiggle,mountain,False,False,assets/dex/magcargo.png
+220,swinub,swinub,Pig Pokémon,II,69,ice/ground,50,50,40,30,30,50,250,oblivious|snow-cloak|thick-fat,True,ground,,,225,70,slow,brown,quadruped,cave,False,False,assets/dex/swinub.png
+221,piloswine,piloswine,Swine Pokémon,II,70,ice/ground,100,100,80,60,60,50,450,oblivious|snow-cloak|thick-fat,True,ground,,,75,70,slow,brown,quadruped,cave,False,False,assets/dex/piloswine.png
+222,corsola,corsola,Coral Pokémon,II,71,water/rock,65,55,95,65,95,35,410,hustle|natural-cure|regenerator,True,water1|water3,,,60,70,fast,pink,armor,sea,False,False,assets/dex/corsola.png
+223,remoraid,remoraid,Jet Pokémon,II,72,water,35,65,35,65,35,65,300,hustle|sniper|moody,True,water1|water2,,,190,70,medium,gray,fish,sea,False,False,assets/dex/remoraid.png
+224,octillery,octillery,Jet Pokémon,II,73,water,75,105,75,105,75,45,480,suction-cups|sniper|moody,True,water1|water2,,,75,70,medium,red,tentacles,sea,False,False,assets/dex/octillery.png
+225,delibird,delibird,Delivery Pokémon,II,74,ice/flying,45,55,45,65,45,75,330,vital-spirit|hustle|insomnia,True,water1|ground,,,45,70,fast,red,wings,mountain,False,False,assets/dex/delibird.png
+226,mantine,mantine,Kite Pokémon,II,75,water/flying,85,40,70,80,140,70,485,swift-swim|water-absorb|water-veil,True,water1,,,25,70,slow,purple,wings,sea,False,False,assets/dex/mantine.png
+227,skarmory,skarmory,Armor Bird Pokémon,II,76,steel/flying,65,80,140,40,70,70,465,keen-eye|sturdy|weak-armor,True,flying,,,25,70,slow,gray,wings,rough-terrain,False,False,assets/dex/skarmory.png
+228,houndour,houndour,Dark Pokémon,II,77,dark/fire,45,60,30,80,50,65,330,early-bird|flash-fire|unnerve,True,ground,,,120,35,slow,black,quadruped,rough-terrain,False,False,assets/dex/houndour.png
+229,houndoom,houndoom,Dark Pokémon,II,78,dark/fire,75,90,50,110,80,95,500,early-bird|flash-fire|unnerve,True,ground,,,45,35,slow,black,quadruped,rough-terrain,False,False,assets/dex/houndoom.png
+230,kingdra,kingdra,Dragon Pokémon,II,79,water/dragon,75,95,95,95,95,85,540,swift-swim|sniper|damp,True,water1|dragon,,,45,70,medium,blue,blob,sea,False,False,assets/dex/kingdra.png
+231,phanpy,phanpy,Long Nose Pokémon,II,80,ground,90,60,60,40,40,40,330,pickup|sand-veil,True,ground,,,120,70,medium,blue,quadruped,rough-terrain,False,False,assets/dex/phanpy.png
+232,donphan,donphan,Armor Pokémon,II,81,ground,90,120,120,60,60,50,500,sturdy|sand-veil,True,ground,,,60,70,medium,gray,quadruped,rough-terrain,False,False,assets/dex/donphan.png
+233,porygon2,porygon2,Virtual Pokémon,II,82,normal,85,80,90,105,95,60,515,trace|download|analytic,True,mineral,,,45,70,medium,red,legs,urban,False,False,assets/dex/porygon2.png
+234,stantler,stantler,Big Horn Pokémon,II,83,normal,73,95,62,85,65,85,465,intimidate|frisk|sap-sipper,True,ground,,,45,70,slow,brown,quadruped,forest,False,False,assets/dex/stantler.png
+235,smeargle,smeargle,Painter Pokémon,II,84,normal,55,20,35,20,45,75,250,own-tempo|technician|moody,True,ground,,,45,70,fast,white,upright,urban,False,False,assets/dex/smeargle.png
+236,tyrogue,tyrogue,Scuffle Pokémon,II,85,fighting,35,35,35,35,35,35,210,guts|steadfast|vital-spirit,True,no-eggs,,,75,70,medium,purple,humanoid,urban,False,False,assets/dex/tyrogue.png
+237,hitmontop,hitmontop,Handstand Pokémon,II,86,fighting,50,95,95,35,110,70,455,intimidate|technician|steadfast,True,humanshape,,,45,70,medium,brown,upright,urban,False,False,assets/dex/hitmontop.png
+238,smoochum,smoochum,Kiss Pokémon,II,87,ice/psychic,45,30,15,85,65,65,305,oblivious|forewarn|hydration,True,no-eggs,,,45,70,medium,pink,humanoid,urban,False,False,assets/dex/smoochum.png
+239,elekid,elekid,Electric Pokémon,II,88,electric,45,63,37,65,55,95,360,static|vital-spirit,True,no-eggs,,,45,70,medium,yellow,humanoid,grassland,False,False,assets/dex/elekid.png
+240,magby,magby,Live Coal Pokémon,II,89,fire,45,75,37,70,55,83,365,flame-body|vital-spirit,True,no-eggs,,,45,70,medium,red,upright,mountain,False,False,assets/dex/magby.png
+241,miltank,miltank,Milk Cow Pokémon,II,90,normal,95,80,105,40,70,100,490,thick-fat|scrappy|sap-sipper,True,ground,,,45,70,slow,pink,upright,grassland,False,False,assets/dex/miltank.png
+242,blissey,blissey,Happiness Pokémon,II,91,normal,255,10,10,75,135,55,540,natural-cure|serene-grace|healer,True,fairy,,,30,140,fast,pink,humanoid,urban,False,False,assets/dex/blissey.png
+243,raikou,raikou,Thunder Pokémon,II,92,electric,90,85,75,115,100,115,580,pressure|inner-focus,True,no-eggs,,,3,35,slow,yellow,quadruped,grassland,True,False,assets/dex/raikou.png
+244,entei,entei,Volcano Pokémon,II,93,fire,115,115,85,90,75,100,580,pressure|inner-focus,True,no-eggs,,,3,35,slow,brown,quadruped,grassland,True,False,assets/dex/entei.png
+245,suicune,suicune,Aurora Pokémon,II,94,water,100,75,115,90,115,85,580,pressure|inner-focus,True,no-eggs,,,3,35,slow,blue,quadruped,grassland,True,False,assets/dex/suicune.png
+246,larvitar,larvitar,Rock Skin Pokémon,II,95,rock/ground,50,64,50,45,50,41,300,guts|sand-veil,True,monster,,,45,35,slow,green,upright,mountain,False,False,assets/dex/larvitar.png
+247,pupitar,pupitar,Hard Shell Pokémon,II,96,rock/ground,70,84,70,65,70,51,410,shed-skin,False,monster,,,45,35,slow,gray,squiggle,mountain,False,False,assets/dex/pupitar.png
+248,tyranitar,tyranitar,Armor Pokémon,II,97,rock/dark,100,134,110,95,100,61,600,sand-stream|unnerve,True,monster,,,45,35,slow,green,upright,mountain,False,False,assets/dex/tyranitar.png
+249,lugia,lugia,Diving Pokémon,II,98,psychic/flying,106,90,130,90,154,110,680,pressure|multiscale,True,no-eggs,,,3,0,slow,white,wings,rare,True,False,assets/dex/lugia.png
+250,ho-oh,ho-oh,Rainbow Pokémon,II,99,fire/flying,106,130,90,110,154,90,680,pressure|regenerator,True,no-eggs,,,3,0,slow,red,wings,rare,True,False,assets/dex/ho-oh.png
+251,celebi,celebi,Time Travel Pokémon,II,100,psychic/grass,100,100,100,100,100,100,600,natural-cure,False,no-eggs,,,45,100,medium-slow,green,humanoid,forest,False,True,assets/dex/celebi.png
+252,treecko,treecko,Wood Gecko Pokémon,III,1,grass,40,45,35,65,55,70,310,overgrow|unburden,True,monster|dragon,,,45,70,medium-slow,green,upright,forest,False,False,assets/dex/treecko.png
+253,grovyle,grovyle,Wood Gecko Pokémon,III,2,grass,50,65,45,85,65,95,405,overgrow|unburden,True,monster|dragon,,,45,70,medium-slow,green,upright,forest,False,False,assets/dex/grovyle.png
+254,sceptile,sceptile,Forest Pokémon,III,3,grass,70,85,65,105,85,120,530,overgrow|unburden,True,monster|dragon,,,45,70,medium-slow,green,upright,forest,False,False,assets/dex/sceptile.png
+255,torchic,torchic,Chick Pokémon,III,4,fire,45,60,40,70,50,45,310,blaze|speed-boost,True,ground,,,45,70,medium-slow,red,legs,grassland,False,False,assets/dex/torchic.png
+256,combusken,combusken,Young Fowl Pokémon,III,5,fire/fighting,60,85,60,85,60,55,405,blaze|speed-boost,True,ground,,,45,70,medium-slow,red,upright,grassland,False,False,assets/dex/combusken.png
+257,blaziken,blaziken,Blaze Pokémon,III,6,fire/fighting,80,120,70,110,70,80,530,blaze|speed-boost,True,ground,,,45,70,medium-slow,red,upright,grassland,False,False,assets/dex/blaziken.png
+258,mudkip,mudkip,Mud Fish Pokémon,III,7,water,50,70,50,50,50,40,310,torrent|damp,True,monster|water1,,,45,70,medium-slow,blue,quadruped,waters-edge,False,False,assets/dex/mudkip.png
+259,marshtomp,marshtomp,Mud Fish Pokémon,III,8,water/ground,70,85,70,60,70,50,405,torrent|damp,True,monster|water1,,,45,70,medium-slow,blue,upright,waters-edge,False,False,assets/dex/marshtomp.png
+260,swampert,swampert,Mud Fish Pokémon,III,9,water/ground,100,110,90,85,90,60,535,torrent|damp,True,monster|water1,,,45,70,medium-slow,blue,upright,waters-edge,False,False,assets/dex/swampert.png
+261,poochyena,poochyena,Bite Pokémon,III,10,dark,35,55,35,30,30,35,220,run-away|quick-feet|rattled,True,ground,,,255,70,medium,gray,quadruped,grassland,False,False,assets/dex/poochyena.png
+262,mightyena,mightyena,Bite Pokémon,III,11,dark,70,90,70,60,60,70,420,intimidate|quick-feet|moxie,True,ground,,,127,70,medium,gray,quadruped,grassland,False,False,assets/dex/mightyena.png
+263,zigzagoon,zigzagoon,Tiny Raccoon Pokémon,III,12,normal,38,30,41,30,41,60,240,pickup|gluttony|quick-feet,True,ground,,,255,70,medium,brown,quadruped,grassland,False,False,assets/dex/zigzagoon.png
+264,linoone,linoone,Rushing Pokémon,III,13,normal,78,70,61,50,61,100,420,pickup|gluttony|quick-feet,True,ground,,,90,70,medium,white,quadruped,grassland,False,False,assets/dex/linoone.png
+265,wurmple,wurmple,Worm Pokémon,III,14,bug,45,45,35,20,30,20,195,shield-dust|run-away,True,bug,,,255,70,medium,red,armor,forest,False,False,assets/dex/wurmple.png
+266,silcoon,silcoon,Cocoon Pokémon,III,15,bug,50,35,55,25,25,15,205,shed-skin,False,bug,,,120,70,medium,white,ball,forest,False,False,assets/dex/silcoon.png
+267,beautifly,beautifly,Butterfly Pokémon,III,16,bug/flying,60,70,50,100,50,65,395,swarm|rivalry,True,bug,,,45,70,medium,yellow,bug-wings,forest,False,False,assets/dex/beautifly.png
+268,cascoon,cascoon,Cocoon Pokémon,III,17,bug,50,35,55,25,25,15,205,shed-skin,False,bug,,,120,70,medium,purple,ball,forest,False,False,assets/dex/cascoon.png
+269,dustox,dustox,Poison Moth Pokémon,III,18,bug/poison,60,50,70,50,90,65,385,shield-dust|compound-eyes,True,bug,,,45,70,medium,green,bug-wings,forest,False,False,assets/dex/dustox.png
+270,lotad,lotad,Water Weed Pokémon,III,19,water/grass,40,30,30,40,50,30,220,swift-swim|rain-dish|own-tempo,True,water1|plant,,,255,70,medium-slow,green,armor,waters-edge,False,False,assets/dex/lotad.png
+271,lombre,lombre,Jolly Pokémon,III,20,water/grass,60,50,50,60,70,50,340,swift-swim|rain-dish|own-tempo,True,water1|plant,,,120,70,medium-slow,green,humanoid,waters-edge,False,False,assets/dex/lombre.png
+272,ludicolo,ludicolo,Carefree Pokémon,III,21,water/grass,80,70,70,90,100,70,480,swift-swim|rain-dish|own-tempo,True,water1|plant,,,45,70,medium-slow,green,humanoid,waters-edge,False,False,assets/dex/ludicolo.png
+273,seedot,seedot,Acorn Pokémon,III,22,grass,40,40,50,30,30,30,220,chlorophyll|early-bird|pickpocket,True,ground|plant,,,255,70,medium-slow,brown,legs,forest,False,False,assets/dex/seedot.png
+274,nuzleaf,nuzleaf,Wily Pokémon,III,23,grass/dark,70,70,40,60,40,60,340,chlorophyll|early-bird|pickpocket,True,ground|plant,,,120,70,medium-slow,brown,humanoid,forest,False,False,assets/dex/nuzleaf.png
+275,shiftry,shiftry,Wicked Pokémon,III,24,grass/dark,90,100,60,90,60,80,480,chlorophyll|wind-rider|pickpocket,True,ground|plant,,,45,70,medium-slow,brown,humanoid,forest,False,False,assets/dex/shiftry.png
+276,taillow,taillow,Tiny Swallow Pokémon,III,25,normal/flying,40,55,30,30,30,85,270,guts|scrappy,True,flying,,,200,70,medium-slow,blue,wings,grassland,False,False,assets/dex/taillow.png
+277,swellow,swellow,Swallow Pokémon,III,26,normal/flying,60,85,60,75,50,125,455,guts|scrappy,True,flying,,,45,70,medium-slow,blue,wings,grassland,False,False,assets/dex/swellow.png
+278,wingull,wingull,Seagull Pokémon,III,27,water/flying,40,30,30,55,30,85,270,keen-eye|hydration|rain-dish,True,water1|flying,,,190,70,medium,white,wings,sea,False,False,assets/dex/wingull.png
+279,pelipper,pelipper,Water Bird Pokémon,III,28,water/flying,60,50,100,95,70,65,440,keen-eye|drizzle|rain-dish,True,water1|flying,,,45,70,medium,yellow,wings,sea,False,False,assets/dex/pelipper.png
+280,ralts,ralts,Feeling Pokémon,III,29,psychic/fairy,28,25,25,45,35,40,198,synchronize|trace|telepathy,True,humanshape|indeterminate,,,235,35,slow,white,humanoid,urban,False,False,assets/dex/ralts.png
+281,kirlia,kirlia,Emotion Pokémon,III,30,psychic/fairy,38,35,35,65,55,50,278,synchronize|trace|telepathy,True,humanshape|indeterminate,,,120,35,slow,white,humanoid,urban,False,False,assets/dex/kirlia.png
+282,gardevoir,gardevoir,Embrace Pokémon,III,31,psychic/fairy,68,65,65,125,115,80,518,synchronize|trace|telepathy,True,humanshape|indeterminate,,,45,35,slow,white,humanoid,urban,False,False,assets/dex/gardevoir.png
+283,surskit,surskit,Pond Skater Pokémon,III,32,bug/water,40,30,32,50,52,65,269,swift-swim|rain-dish,True,water1|bug,,,200,70,medium,blue,armor,waters-edge,False,False,assets/dex/surskit.png
+284,masquerain,masquerain,Eyeball Pokémon,III,33,bug/flying,70,60,62,100,82,80,454,intimidate|unnerve,True,water1|bug,,,75,70,medium,blue,bug-wings,waters-edge,False,False,assets/dex/masquerain.png
+285,shroomish,shroomish,Mushroom Pokémon,III,34,grass,60,40,60,40,60,35,295,effect-spore|poison-heal|quick-feet,True,fairy|plant,,,255,70,fast-then-very-slow,brown,legs,forest,False,False,assets/dex/shroomish.png
+286,breloom,breloom,Mushroom Pokémon,III,35,grass/fighting,60,130,80,60,60,70,460,effect-spore|poison-heal|technician,True,fairy|plant,,,90,70,fast-then-very-slow,green,upright,forest,False,False,assets/dex/breloom.png
+287,slakoth,slakoth,Slacker Pokémon,III,36,normal,60,60,60,35,35,30,280,truant,False,ground,,,255,70,slow,brown,quadruped,forest,False,False,assets/dex/slakoth.png
+288,vigoroth,vigoroth,Wild Monkey Pokémon,III,37,normal,80,80,80,55,55,90,440,vital-spirit,False,ground,,,120,70,slow,white,upright,forest,False,False,assets/dex/vigoroth.png
+289,slaking,slaking,Lazy Pokémon,III,38,normal,150,160,100,95,65,100,670,truant,False,ground,,,45,70,slow,brown,humanoid,forest,False,False,assets/dex/slaking.png
+290,nincada,nincada,Trainee Pokémon,III,39,bug/ground,31,45,90,30,30,40,266,compound-eyes|run-away,True,bug,,,255,70,slow-then-very-fast,gray,armor,forest,False,False,assets/dex/nincada.png
+291,ninjask,ninjask,Ninja Pokémon,III,40,bug/flying,61,90,45,50,50,160,456,speed-boost|infiltrator,True,bug,,,120,70,slow-then-very-fast,yellow,bug-wings,forest,False,False,assets/dex/ninjask.png
+292,shedinja,shedinja,Shed Pokémon,III,41,bug/ghost,1,90,45,30,30,40,236,wonder-guard,False,mineral,,,45,70,slow-then-very-fast,brown,blob,forest,False,False,assets/dex/shedinja.png
+293,whismur,whismur,Whisper Pokémon,III,42,normal,64,51,23,51,23,28,240,soundproof|rattled,True,monster|ground,,,190,70,medium-slow,pink,upright,cave,False,False,assets/dex/whismur.png
+294,loudred,loudred,Big Voice Pokémon,III,43,normal,84,71,43,71,43,48,360,soundproof|scrappy,True,monster|ground,,,120,70,medium-slow,blue,upright,cave,False,False,assets/dex/loudred.png
+295,exploud,exploud,Loud Noise Pokémon,III,44,normal,104,91,63,91,73,68,490,soundproof|scrappy,True,monster|ground,,,45,70,medium-slow,blue,upright,cave,False,False,assets/dex/exploud.png
+296,makuhita,makuhita,Guts Pokémon,III,45,fighting,72,60,30,20,30,25,237,thick-fat|guts|sheer-force,True,humanshape,,,180,70,fast-then-very-slow,yellow,humanoid,mountain,False,False,assets/dex/makuhita.png
+297,hariyama,hariyama,Arm Thrust Pokémon,III,46,fighting,144,120,60,40,60,50,474,thick-fat|guts|sheer-force,True,humanshape,,,200,70,fast-then-very-slow,brown,humanoid,mountain,False,False,assets/dex/hariyama.png
+298,azurill,azurill,Polka Dot Pokémon,III,47,normal/fairy,50,20,40,20,40,20,190,thick-fat|huge-power|sap-sipper,True,no-eggs,,,150,70,fast,blue,legs,waters-edge,False,False,assets/dex/azurill.png
+299,nosepass,nosepass,Compass Pokémon,III,48,rock,30,45,135,45,90,30,375,sturdy|magnet-pull|sand-force,True,mineral,,,255,70,medium,gray,humanoid,cave,False,False,assets/dex/nosepass.png
+300,skitty,skitty,Kitten Pokémon,III,49,normal,50,45,45,35,35,50,260,cute-charm|normalize|wonder-skin,True,ground|fairy,,,255,70,fast,pink,quadruped,forest,False,False,assets/dex/skitty.png
+301,delcatty,delcatty,Prim Pokémon,III,50,normal,70,65,65,55,55,90,400,cute-charm|normalize|wonder-skin,True,ground|fairy,,,60,70,fast,purple,quadruped,forest,False,False,assets/dex/delcatty.png
+302,sableye,sableye,Darkness Pokémon,III,51,dark/ghost,50,75,75,65,65,50,380,keen-eye|stall|prankster,True,humanshape,,,45,35,medium-slow,purple,humanoid,cave,False,False,assets/dex/sableye.png
+303,mawile,mawile,Deceiver Pokémon,III,52,steel/fairy,50,85,85,55,55,50,380,hyper-cutter|intimidate|sheer-force,True,ground|fairy,,,45,70,fast,black,humanoid,cave,False,False,assets/dex/mawile.png
+304,aron,aron,Iron Armor Pokémon,III,53,steel/rock,50,70,100,40,40,30,330,sturdy|rock-head|heavy-metal,True,monster,,,180,35,slow,gray,quadruped,mountain,False,False,assets/dex/aron.png
+305,lairon,lairon,Iron Armor Pokémon,III,54,steel/rock,60,90,140,50,50,40,430,sturdy|rock-head|heavy-metal,True,monster,,,90,35,slow,gray,quadruped,mountain,False,False,assets/dex/lairon.png
+306,aggron,aggron,Iron Armor Pokémon,III,55,steel/rock,70,110,180,60,60,50,530,sturdy|rock-head|heavy-metal,True,monster,,,45,35,slow,gray,upright,mountain,False,False,assets/dex/aggron.png
+307,meditite,meditite,Meditate Pokémon,III,56,fighting/psychic,30,40,55,40,55,60,280,pure-power|telepathy,True,humanshape,,,180,70,medium,blue,humanoid,mountain,False,False,assets/dex/meditite.png
+308,medicham,medicham,Meditate Pokémon,III,57,fighting/psychic,60,60,75,60,75,80,410,pure-power|telepathy,True,humanshape,,,90,70,medium,red,humanoid,mountain,False,False,assets/dex/medicham.png
+309,electrike,electrike,Lightning Pokémon,III,58,electric,40,45,40,65,40,65,295,static|lightning-rod|minus,True,ground,,,120,70,slow,green,quadruped,grassland,False,False,assets/dex/electrike.png
+310,manectric,manectric,Discharge Pokémon,III,59,electric,70,75,60,105,60,105,475,static|lightning-rod|minus,True,ground,,,45,70,slow,yellow,quadruped,grassland,False,False,assets/dex/manectric.png
+311,plusle,plusle,Cheering Pokémon,III,60,electric,60,50,40,85,75,95,405,plus|lightning-rod,True,fairy,,,200,70,medium,yellow,upright,grassland,False,False,assets/dex/plusle.png
+312,minun,minun,Cheering Pokémon,III,61,electric,60,40,50,75,85,95,405,minus|volt-absorb,True,fairy,,,200,70,medium,yellow,upright,grassland,False,False,assets/dex/minun.png
+313,volbeat,volbeat,Firefly Pokémon,III,62,bug,65,73,75,47,85,85,430,illuminate|swarm|prankster,True,bug|humanshape,,,150,70,slow-then-very-fast,gray,upright,forest,False,False,assets/dex/volbeat.png
+314,illumise,illumise,Firefly Pokémon,III,63,bug,65,47,75,73,85,85,430,oblivious|tinted-lens|prankster,True,bug|humanshape,,,150,70,fast-then-very-slow,purple,humanoid,forest,False,False,assets/dex/illumise.png
+315,roselia,roselia,Thorn Pokémon,III,64,grass/poison,50,60,45,100,80,65,400,natural-cure|poison-point|leaf-guard,True,fairy|plant,,,150,70,medium-slow,green,humanoid,grassland,False,False,assets/dex/roselia.png
+316,gulpin,gulpin,Stomach Pokémon,III,65,poison,70,43,53,43,53,40,302,liquid-ooze|sticky-hold|gluttony,True,indeterminate,,,225,70,fast-then-very-slow,green,arms,grassland,False,False,assets/dex/gulpin.png
+317,swalot,swalot,Poison Bag Pokémon,III,66,poison,100,73,83,73,83,55,467,liquid-ooze|sticky-hold|gluttony,True,indeterminate,,,75,70,fast-then-very-slow,purple,arms,grassland,False,False,assets/dex/swalot.png
+318,carvanha,carvanha,Savage Pokémon,III,67,water/dark,45,90,20,65,20,65,305,rough-skin|speed-boost,True,water2,,,225,35,slow,red,fish,sea,False,False,assets/dex/carvanha.png
+319,sharpedo,sharpedo,Brutal Pokémon,III,68,water/dark,70,120,40,95,40,95,460,rough-skin|speed-boost,True,water2,,,60,35,slow,blue,fish,sea,False,False,assets/dex/sharpedo.png
+320,wailmer,wailmer,Ball Whale Pokémon,III,69,water,130,70,35,70,35,60,400,water-veil|oblivious|pressure,True,ground|water2,,,125,70,fast-then-very-slow,blue,fish,sea,False,False,assets/dex/wailmer.png
+321,wailord,wailord,Float Whale Pokémon,III,70,water,170,90,45,90,45,60,500,water-veil|oblivious|pressure,True,ground|water2,,,60,70,fast-then-very-slow,blue,fish,sea,False,False,assets/dex/wailord.png
+322,numel,numel,Numb Pokémon,III,71,fire/ground,60,60,40,65,45,35,305,oblivious|simple|own-tempo,True,ground,,,255,70,medium,yellow,quadruped,mountain,False,False,assets/dex/numel.png
+323,camerupt,camerupt,Eruption Pokémon,III,72,fire/ground,70,100,70,105,75,40,460,magma-armor|solid-rock|anger-point,True,ground,,,150,70,medium,red,quadruped,mountain,False,False,assets/dex/camerupt.png
+324,torkoal,torkoal,Coal Pokémon,III,73,fire,70,85,140,85,70,20,470,white-smoke|drought|shell-armor,True,ground,,,90,70,medium,brown,quadruped,mountain,False,False,assets/dex/torkoal.png
+325,spoink,spoink,Bounce Pokémon,III,74,psychic,60,25,35,70,80,60,330,thick-fat|own-tempo|gluttony,True,ground,,,255,70,fast,black,arms,mountain,False,False,assets/dex/spoink.png
+326,grumpig,grumpig,Manipulate Pokémon,III,75,psychic,80,45,65,90,110,80,470,thick-fat|own-tempo|gluttony,True,ground,,,60,70,fast,purple,upright,mountain,False,False,assets/dex/grumpig.png
+327,spinda,spinda,Spot Panda Pokémon,III,76,normal,60,60,60,60,60,60,360,own-tempo|tangled-feet|contrary,True,ground|humanshape,,,255,70,fast,brown,upright,mountain,False,False,assets/dex/spinda.png
+328,trapinch,trapinch,Ant Pit Pokémon,III,77,ground,45,100,45,45,45,10,290,hyper-cutter|arena-trap|sheer-force,True,bug|dragon,,,255,70,medium-slow,brown,armor,rough-terrain,False,False,assets/dex/trapinch.png
+329,vibrava,vibrava,Vibration Pokémon,III,78,ground/dragon,50,70,50,50,50,70,340,levitate,False,bug|dragon,,,120,70,medium-slow,green,bug-wings,rough-terrain,False,False,assets/dex/vibrava.png
+330,flygon,flygon,Mystic Pokémon,III,79,ground/dragon,80,100,80,80,80,100,520,levitate,False,bug|dragon,,,45,70,medium-slow,green,wings,rough-terrain,False,False,assets/dex/flygon.png
+331,cacnea,cacnea,Cactus Pokémon,III,80,grass,50,85,40,85,40,35,335,sand-veil|water-absorb,True,plant|humanshape,,,190,35,medium-slow,green,humanoid,rough-terrain,False,False,assets/dex/cacnea.png
+332,cacturne,cacturne,Scarecrow Pokémon,III,81,grass/dark,70,115,60,115,60,55,475,sand-veil|water-absorb,True,plant|humanshape,,,60,35,medium-slow,green,humanoid,rough-terrain,False,False,assets/dex/cacturne.png
+333,swablu,swablu,Cotton Bird Pokémon,III,82,normal/flying,45,40,60,40,75,50,310,natural-cure|cloud-nine,True,flying|dragon,,,255,70,slow-then-very-fast,blue,wings,forest,False,False,assets/dex/swablu.png
+334,altaria,altaria,Humming Pokémon,III,83,dragon/flying,75,70,90,70,105,80,490,natural-cure|cloud-nine,True,flying|dragon,,,45,70,slow-then-very-fast,blue,wings,forest,False,False,assets/dex/altaria.png
+335,zangoose,zangoose,Cat Ferret Pokémon,III,84,normal,73,115,60,60,60,90,458,immunity|toxic-boost,True,ground,,,90,70,slow-then-very-fast,white,upright,grassland,False,False,assets/dex/zangoose.png
+336,seviper,seviper,Fang Snake Pokémon,III,85,poison,73,100,60,100,60,65,458,shed-skin|infiltrator,True,ground|dragon,,,90,70,fast-then-very-slow,black,squiggle,grassland,False,False,assets/dex/seviper.png
+337,lunatone,lunatone,Meteorite Pokémon,III,86,rock/psychic,90,55,65,95,85,70,460,levitate,False,mineral,,,45,70,fast,yellow,ball,cave,False,False,assets/dex/lunatone.png
+338,solrock,solrock,Meteorite Pokémon,III,87,rock/psychic,90,95,85,55,65,70,460,levitate,False,mineral,,,45,70,fast,red,ball,cave,False,False,assets/dex/solrock.png
+339,barboach,barboach,Whiskers Pokémon,III,88,water/ground,50,48,43,46,41,60,288,oblivious|anticipation|hydration,True,water2,,,190,70,medium,gray,fish,waters-edge,False,False,assets/dex/barboach.png
+340,whiscash,whiscash,Whiskers Pokémon,III,89,water/ground,110,78,73,76,71,60,468,oblivious|anticipation|hydration,True,water2,,,75,70,medium,blue,fish,waters-edge,False,False,assets/dex/whiscash.png
+341,corphish,corphish,Ruffian Pokémon,III,90,water,43,80,65,50,35,35,308,hyper-cutter|shell-armor|adaptability,True,water1|water3,,,205,70,fast-then-very-slow,red,armor,waters-edge,False,False,assets/dex/corphish.png
+342,crawdaunt,crawdaunt,Rogue Pokémon,III,91,water/dark,63,120,85,90,55,55,468,hyper-cutter|shell-armor|adaptability,True,water1|water3,,,155,70,fast-then-very-slow,red,armor,waters-edge,False,False,assets/dex/crawdaunt.png
+343,baltoy,baltoy,Clay Doll Pokémon,III,92,ground/psychic,40,40,55,40,70,55,300,levitate,False,mineral,,,255,70,medium,brown,arms,rough-terrain,False,False,assets/dex/baltoy.png
+344,claydol,claydol,Clay Doll Pokémon,III,93,ground/psychic,60,70,105,70,120,75,500,levitate,False,mineral,,,90,70,medium,black,arms,rough-terrain,False,False,assets/dex/claydol.png
+345,lileep,lileep,Sea Lily Pokémon,III,94,rock/grass,66,41,77,61,87,23,355,suction-cups|storm-drain,True,water3,,,45,70,slow-then-very-fast,purple,blob,sea,False,False,assets/dex/lileep.png
+346,cradily,cradily,Barnacle Pokémon,III,95,rock/grass,86,81,97,81,107,43,495,suction-cups|storm-drain,True,water3,,,45,70,slow-then-very-fast,green,blob,sea,False,False,assets/dex/cradily.png
+347,anorith,anorith,Old Shrimp Pokémon,III,96,rock/bug,45,95,50,40,50,75,355,battle-armor|swift-swim,True,water3,,,45,70,slow-then-very-fast,gray,armor,waters-edge,False,False,assets/dex/anorith.png
+348,armaldo,armaldo,Plate Pokémon,III,97,rock/bug,75,125,100,70,80,45,495,battle-armor|swift-swim,True,water3,,,45,70,slow-then-very-fast,gray,upright,waters-edge,False,False,assets/dex/armaldo.png
+349,feebas,feebas,Fish Pokémon,III,98,water,20,15,20,10,55,80,200,swift-swim|oblivious|adaptability,True,water1|dragon,,,255,70,slow-then-very-fast,brown,fish,waters-edge,False,False,assets/dex/feebas.png
+350,milotic,milotic,Tender Pokémon,III,99,water,95,60,79,100,125,81,540,marvel-scale|competitive|cute-charm,True,water1|dragon,,,60,70,slow-then-very-fast,pink,squiggle,waters-edge,False,False,assets/dex/milotic.png
+351,castform,castform,Weather Pokémon,III,100,normal,70,70,70,70,70,70,420,forecast,False,fairy|indeterminate,,,45,70,medium,gray,ball,grassland,False,False,assets/dex/castform.png
+352,kecleon,kecleon,Color Swap Pokémon,III,101,normal,60,90,70,60,120,40,440,color-change|protean,True,ground,,,200,70,medium-slow,green,upright,forest,False,False,assets/dex/kecleon.png
+353,shuppet,shuppet,Puppet Pokémon,III,102,ghost,44,75,35,63,33,45,295,insomnia|frisk|cursed-body,True,indeterminate,,,225,35,fast,black,ball,urban,False,False,assets/dex/shuppet.png
+354,banette,banette,Marionette Pokémon,III,103,ghost,64,115,65,83,63,65,455,insomnia|frisk|cursed-body,True,indeterminate,,,45,35,fast,black,upright,urban,False,False,assets/dex/banette.png
+355,duskull,duskull,Requiem Pokémon,III,104,ghost,20,40,90,30,90,25,295,levitate|frisk,True,indeterminate,,,190,35,fast,black,arms,forest,False,False,assets/dex/duskull.png
+356,dusclops,dusclops,Beckon Pokémon,III,105,ghost,40,70,130,60,130,25,455,pressure|frisk,True,indeterminate,,,90,35,fast,black,humanoid,forest,False,False,assets/dex/dusclops.png
+357,tropius,tropius,Fruit Pokémon,III,106,grass/flying,99,68,83,72,87,51,460,chlorophyll|solar-power|harvest,True,monster|plant,,,200,70,slow,green,quadruped,forest,False,False,assets/dex/tropius.png
+358,chimecho,chimecho,Wind Chime Pokémon,III,107,psychic,75,50,80,95,90,65,455,levitate,False,indeterminate,,,45,70,fast,blue,arms,grassland,False,False,assets/dex/chimecho.png
+359,absol,absol,Disaster Pokémon,III,108,dark,65,130,60,75,60,75,465,pressure|super-luck|justified,True,ground,,,30,35,medium-slow,white,quadruped,mountain,False,False,assets/dex/absol.png
+360,wynaut,wynaut,Bright Pokémon,III,109,psychic,95,23,48,23,48,23,260,shadow-tag|telepathy,True,no-eggs,,,125,70,medium,blue,upright,cave,False,False,assets/dex/wynaut.png
+361,snorunt,snorunt,Snow Hat Pokémon,III,110,ice,50,50,50,50,50,50,300,inner-focus|ice-body|moody,True,fairy|mineral,,,190,70,medium,gray,humanoid,cave,False,False,assets/dex/snorunt.png
+362,glalie,glalie,Face Pokémon,III,111,ice,80,80,80,80,80,80,480,inner-focus|ice-body|moody,True,fairy|mineral,,,75,70,medium,gray,ball,cave,False,False,assets/dex/glalie.png
+363,spheal,spheal,Clap Pokémon,III,112,ice/water,70,40,50,55,50,25,290,thick-fat|ice-body|oblivious,True,water1|ground,,,255,70,medium-slow,blue,fish,sea,False,False,assets/dex/spheal.png
+364,sealeo,sealeo,Ball Roll Pokémon,III,113,ice/water,90,60,70,75,70,45,410,thick-fat|ice-body|oblivious,True,water1|ground,,,120,70,medium-slow,blue,fish,sea,False,False,assets/dex/sealeo.png
+365,walrein,walrein,Ice Break Pokémon,III,114,ice/water,110,80,90,95,90,65,530,thick-fat|ice-body|oblivious,True,water1|ground,,,45,70,medium-slow,blue,quadruped,sea,False,False,assets/dex/walrein.png
+366,clamperl,clamperl,Bivalve Pokémon,III,115,water,35,64,85,74,55,32,345,shell-armor|rattled,True,water1,,,255,70,slow-then-very-fast,blue,ball,sea,False,False,assets/dex/clamperl.png
+367,huntail,huntail,Deep Sea Pokémon,III,116,water,55,104,105,94,75,52,485,swift-swim|water-veil,True,water1,,,60,70,slow-then-very-fast,blue,squiggle,sea,False,False,assets/dex/huntail.png
+368,gorebyss,gorebyss,South Sea Pokémon,III,117,water,55,84,105,114,75,52,485,swift-swim|hydration,True,water1,,,60,70,slow-then-very-fast,pink,squiggle,sea,False,False,assets/dex/gorebyss.png
+369,relicanth,relicanth,Longevity Pokémon,III,118,water/rock,100,90,130,45,65,55,485,swift-swim|rock-head|sturdy,True,water1|water2,,,25,70,slow,gray,fish,sea,False,False,assets/dex/relicanth.png
+370,luvdisc,luvdisc,Rendezvous Pokémon,III,119,water,43,30,55,40,65,97,330,swift-swim|hydration,True,water2,,,225,70,fast,pink,fish,sea,False,False,assets/dex/luvdisc.png
+371,bagon,bagon,Rock Head Pokémon,III,120,dragon,45,75,60,40,30,50,300,rock-head|sheer-force,True,dragon,,,45,35,slow,blue,humanoid,rough-terrain,False,False,assets/dex/bagon.png
+372,shelgon,shelgon,Endurance Pokémon,III,121,dragon,65,95,100,60,50,50,420,rock-head|overcoat,True,dragon,,,45,35,slow,white,quadruped,rough-terrain,False,False,assets/dex/shelgon.png
+373,salamence,salamence,Dragon Pokémon,III,122,dragon/flying,95,135,80,110,80,100,600,intimidate|moxie,True,dragon,,,45,35,slow,blue,quadruped,rough-terrain,False,False,assets/dex/salamence.png
+374,beldum,beldum,Iron Ball Pokémon,III,123,steel/psychic,40,55,80,35,60,30,300,clear-body|light-metal,True,mineral,,,3,35,slow,blue,blob,rough-terrain,False,False,assets/dex/beldum.png
+375,metang,metang,Iron Claw Pokémon,III,124,steel/psychic,60,75,100,55,80,50,420,clear-body|light-metal,True,mineral,,,3,35,slow,blue,arms,rough-terrain,False,False,assets/dex/metang.png
+376,metagross,metagross,Iron Leg Pokémon,III,125,steel/psychic,80,135,130,95,90,70,600,clear-body|light-metal,True,mineral,,,3,35,slow,blue,heads,rough-terrain,False,False,assets/dex/metagross.png
+377,regirock,regirock,Rock Peak Pokémon,III,126,rock,80,100,200,50,100,50,580,clear-body|sturdy,True,no-eggs,,,3,35,slow,brown,humanoid,cave,True,False,assets/dex/regirock.png
+378,regice,regice,Iceberg Pokémon,III,127,ice,80,50,100,100,200,50,580,clear-body|ice-body,True,no-eggs,,,3,35,slow,blue,humanoid,cave,True,False,assets/dex/regice.png
+379,registeel,registeel,Iron Pokémon,III,128,steel,80,75,150,75,150,50,580,clear-body|light-metal,True,no-eggs,,,3,35,slow,gray,humanoid,cave,True,False,assets/dex/registeel.png
+380,latias,latias,Eon Pokémon,III,129,dragon/psychic,80,80,90,110,130,110,600,levitate,False,no-eggs,,,3,90,slow,red,wings,waters-edge,True,False,assets/dex/latias.png
+381,latios,latios,Eon Pokémon,III,130,dragon/psychic,80,90,80,130,110,110,600,levitate,False,no-eggs,,,3,90,slow,blue,wings,waters-edge,True,False,assets/dex/latios.png
+382,kyogre,kyogre,Sea Basin Pokémon,III,131,water,100,100,90,150,140,90,670,drizzle,False,no-eggs,,,3,0,slow,blue,fish,sea,True,False,assets/dex/kyogre.png
+383,groudon,groudon,Continent Pokémon,III,132,ground,100,150,140,100,90,90,670,drought,False,no-eggs,,,3,0,slow,red,upright,rough-terrain,True,False,assets/dex/groudon.png
+384,rayquaza,rayquaza,Sky High Pokémon,III,133,dragon/flying,105,150,90,150,90,95,680,air-lock,False,no-eggs,,,45,0,slow,green,squiggle,rare,True,False,assets/dex/rayquaza.png
+385,jirachi,jirachi,Wish Pokémon,III,134,steel/psychic,100,100,100,100,100,100,600,serene-grace,False,no-eggs,,,3,100,slow,yellow,humanoid,mountain,False,True,assets/dex/jirachi.png
+386,deoxys-normal,deoxys-normal,DNA Pokémon,III,135,psychic,50,150,50,150,50,150,600,pressure,False,no-eggs,,,3,0,slow,red,humanoid,rare,False,True,assets/dex/deoxys-normal.png
+387,turtwig,turtwig,Tiny Leaf Pokémon,IV,1,grass,55,68,64,45,55,31,318,overgrow|shell-armor,True,monster|plant,,,45,70,medium-slow,green,quadruped,,False,False,assets/dex/turtwig.png
+388,grotle,grotle,Grove Pokémon,IV,2,grass,75,89,85,55,65,36,405,overgrow|shell-armor,True,monster|plant,,,45,70,medium-slow,green,quadruped,,False,False,assets/dex/grotle.png
+389,torterra,torterra,Continent Pokémon,IV,3,grass/ground,95,109,105,75,85,56,525,overgrow|shell-armor,True,monster|plant,,,45,70,medium-slow,green,quadruped,,False,False,assets/dex/torterra.png
+390,chimchar,chimchar,Chimp Pokémon,IV,4,fire,44,58,44,58,44,61,309,blaze|iron-fist,True,ground|humanshape,,,45,70,medium-slow,brown,upright,,False,False,assets/dex/chimchar.png
+391,monferno,monferno,Playful Pokémon,IV,5,fire/fighting,64,78,52,78,52,81,405,blaze|iron-fist,True,ground|humanshape,,,45,70,medium-slow,brown,upright,,False,False,assets/dex/monferno.png
+392,infernape,infernape,Flame Pokémon,IV,6,fire/fighting,76,104,71,104,71,108,534,blaze|iron-fist,True,ground|humanshape,,,45,70,medium-slow,brown,upright,,False,False,assets/dex/infernape.png
+393,piplup,piplup,Penguin Pokémon,IV,7,water,53,51,53,61,56,40,314,torrent|competitive,True,water1|ground,,,45,70,medium-slow,blue,humanoid,,False,False,assets/dex/piplup.png
+394,prinplup,prinplup,Penguin Pokémon,IV,8,water,64,66,68,81,76,50,405,torrent|competitive,True,water1|ground,,,45,70,medium-slow,blue,upright,,False,False,assets/dex/prinplup.png
+395,empoleon,empoleon,Emperor Pokémon,IV,9,water/steel,84,86,88,111,101,60,530,torrent|competitive,True,water1|ground,,,45,70,medium-slow,blue,upright,,False,False,assets/dex/empoleon.png
+396,starly,starly,Starling Pokémon,IV,10,normal/flying,40,55,30,30,30,60,245,keen-eye|reckless,True,flying,,,255,70,medium-slow,brown,wings,,False,False,assets/dex/starly.png
+397,staravia,staravia,Starling Pokémon,IV,11,normal/flying,55,75,50,40,40,80,340,intimidate|reckless,True,flying,,,120,70,medium-slow,brown,wings,,False,False,assets/dex/staravia.png
+398,staraptor,staraptor,Predator Pokémon,IV,12,normal/flying,85,120,70,50,60,100,485,intimidate|reckless,True,flying,,,45,70,medium-slow,brown,wings,,False,False,assets/dex/staraptor.png
+399,bidoof,bidoof,Plump Mouse Pokémon,IV,13,normal,59,45,40,35,40,31,250,simple|unaware|moody,True,water1|ground,,,255,70,medium,brown,quadruped,,False,False,assets/dex/bidoof.png
+400,bibarel,bibarel,Beaver Pokémon,IV,14,normal/water,79,85,60,55,60,71,410,simple|unaware|moody,True,water1|ground,,,127,70,medium,brown,upright,,False,False,assets/dex/bibarel.png
+401,kricketot,kricketot,Cricket Pokémon,IV,15,bug,37,25,41,25,41,25,194,shed-skin|run-away,True,bug,,,255,70,medium-slow,red,humanoid,,False,False,assets/dex/kricketot.png
+402,kricketune,kricketune,Cricket Pokémon,IV,16,bug,77,85,51,55,51,65,384,swarm|technician,True,bug,,,45,70,medium-slow,red,bug-wings,,False,False,assets/dex/kricketune.png
+403,shinx,shinx,Flash Pokémon,IV,17,electric,45,65,34,40,34,45,263,rivalry|intimidate|guts,True,ground,,,235,70,medium-slow,blue,quadruped,,False,False,assets/dex/shinx.png
+404,luxio,luxio,Spark Pokémon,IV,18,electric,60,85,49,60,49,60,363,rivalry|intimidate|guts,True,ground,,,120,100,medium-slow,blue,quadruped,,False,False,assets/dex/luxio.png
+405,luxray,luxray,Gleam Eyes Pokémon,IV,19,electric,80,120,79,95,79,70,523,rivalry|intimidate|guts,True,ground,,,45,70,medium-slow,blue,quadruped,,False,False,assets/dex/luxray.png
+406,budew,budew,Bud Pokémon,IV,20,grass/poison,40,30,35,50,70,55,280,natural-cure|poison-point|leaf-guard,True,no-eggs,,,255,70,medium-slow,green,humanoid,,False,False,assets/dex/budew.png
+407,roserade,roserade,Bouquet Pokémon,IV,21,grass/poison,60,70,65,125,105,90,515,natural-cure|poison-point|technician,True,fairy|plant,,,75,70,medium-slow,green,humanoid,,False,False,assets/dex/roserade.png
+408,cranidos,cranidos,Head Butt Pokémon,IV,22,rock,67,125,40,30,30,58,350,mold-breaker|sheer-force,True,monster,,,45,70,slow-then-very-fast,blue,upright,,False,False,assets/dex/cranidos.png
+409,rampardos,rampardos,Head Butt Pokémon,IV,23,rock,97,165,60,65,50,58,495,mold-breaker|sheer-force,True,monster,,,45,70,slow-then-very-fast,blue,upright,,False,False,assets/dex/rampardos.png
+410,shieldon,shieldon,Shield Pokémon,IV,24,rock/steel,30,42,118,42,88,30,350,sturdy|soundproof,True,monster,,,45,70,slow-then-very-fast,gray,quadruped,,False,False,assets/dex/shieldon.png
+411,bastiodon,bastiodon,Shield Pokémon,IV,25,rock/steel,60,52,168,47,138,30,495,sturdy|soundproof,True,monster,,,45,70,slow-then-very-fast,gray,quadruped,,False,False,assets/dex/bastiodon.png
+412,burmy,burmy,Bagworm Pokémon,IV,26,bug,40,29,45,29,45,36,224,shed-skin|overcoat,True,bug,,,120,70,medium,green,blob,,False,False,assets/dex/burmy.png
+413,wormadam-plant,wormadam-plant,Bagworm Pokémon,IV,27,bug/grass,60,59,85,79,105,36,424,anticipation|overcoat,True,bug,,,45,70,medium,green,blob,,False,False,assets/dex/wormadam-plant.png
+414,mothim,mothim,Moth Pokémon,IV,28,bug/flying,70,94,50,94,50,66,424,swarm|tinted-lens,True,bug,,,45,70,medium,yellow,bug-wings,,False,False,assets/dex/mothim.png
+415,combee,combee,Tiny Bee Pokémon,IV,29,bug/flying,30,30,42,30,42,70,244,honey-gather|hustle,True,bug,,,120,70,medium-slow,yellow,heads,,False,False,assets/dex/combee.png
+416,vespiquen,vespiquen,Beehive Pokémon,IV,30,bug/flying,70,80,102,80,102,40,474,pressure|unnerve,True,bug,,,45,70,medium-slow,yellow,bug-wings,,False,False,assets/dex/vespiquen.png
+417,pachirisu,pachirisu,EleSquirrel Pokémon,IV,31,electric,60,45,70,45,90,95,405,run-away|pickup|volt-absorb,True,ground|fairy,,,200,100,medium,white,quadruped,,False,False,assets/dex/pachirisu.png
+418,buizel,buizel,Sea Weasel Pokémon,IV,32,water,55,65,35,60,30,85,330,swift-swim|water-veil,True,water1|ground,,,190,70,medium,brown,quadruped,,False,False,assets/dex/buizel.png
+419,floatzel,floatzel,Sea Weasel Pokémon,IV,33,water,85,105,55,85,50,115,495,swift-swim|water-veil,True,water1|ground,,,75,70,medium,brown,quadruped,,False,False,assets/dex/floatzel.png
+420,cherubi,cherubi,Cherry Pokémon,IV,34,grass,45,35,45,62,53,35,275,chlorophyll,False,fairy|plant,,,190,70,medium,pink,heads,,False,False,assets/dex/cherubi.png
+421,cherrim,cherrim,Blossom Pokémon,IV,35,grass,70,60,70,87,78,85,450,flower-gift,False,fairy|plant,,,75,70,medium,purple,legs,,False,False,assets/dex/cherrim.png
+422,shellos,shellos,Sea Slug Pokémon,IV,36,water,76,48,48,57,62,34,325,sticky-hold|storm-drain|sand-force,True,water1|indeterminate,,,190,70,medium,purple,squiggle,,False,False,assets/dex/shellos.png
+423,gastrodon,gastrodon,Sea Slug Pokémon,IV,37,water/ground,111,83,68,92,82,39,475,sticky-hold|storm-drain|sand-force,True,water1|indeterminate,,,75,70,medium,purple,squiggle,,False,False,assets/dex/gastrodon.png
+424,ambipom,ambipom,Long Tail Pokémon,IV,38,normal,75,100,66,60,66,115,482,technician|pickup|skill-link,True,ground,,,45,100,fast,purple,upright,,False,False,assets/dex/ambipom.png
+425,drifloon,drifloon,Balloon Pokémon,IV,39,ghost/flying,90,50,34,60,44,70,348,aftermath|unburden|flare-boost,True,indeterminate,,,125,70,fast-then-very-slow,purple,arms,,False,False,assets/dex/drifloon.png
+426,drifblim,drifblim,Blimp Pokémon,IV,40,ghost/flying,150,80,44,90,54,80,498,aftermath|unburden|flare-boost,True,indeterminate,,,60,70,fast-then-very-slow,purple,arms,,False,False,assets/dex/drifblim.png
+427,buneary,buneary,Rabbit Pokémon,IV,41,normal,55,66,44,44,56,85,350,run-away|klutz|limber,True,ground|humanshape,,,190,0,medium,brown,upright,,False,False,assets/dex/buneary.png
+428,lopunny,lopunny,Rabbit Pokémon,IV,42,normal,65,76,84,54,96,105,480,cute-charm|klutz|limber,True,ground|humanshape,,,60,140,medium,brown,upright,,False,False,assets/dex/lopunny.png
+429,mismagius,mismagius,Magical Pokémon,IV,43,ghost,60,60,60,105,105,105,495,levitate,False,indeterminate,,,45,35,fast,purple,ball,,False,False,assets/dex/mismagius.png
+430,honchkrow,honchkrow,Big Boss Pokémon,IV,44,dark/flying,100,125,52,105,52,71,505,insomnia|super-luck|moxie,True,flying,,,30,35,medium-slow,black,wings,,False,False,assets/dex/honchkrow.png
+431,glameow,glameow,Catty Pokémon,IV,45,normal,49,55,42,42,37,85,310,limber|own-tempo|keen-eye,True,ground,,,190,70,fast,gray,quadruped,,False,False,assets/dex/glameow.png
+432,purugly,purugly,Tiger Cat Pokémon,IV,46,normal,71,82,64,64,59,112,452,thick-fat|own-tempo|defiant,True,ground,,,75,70,fast,gray,quadruped,,False,False,assets/dex/purugly.png
+433,chingling,chingling,Bell Pokémon,IV,47,psychic,45,30,50,65,50,45,285,levitate,False,no-eggs,,,120,70,fast,yellow,humanoid,,False,False,assets/dex/chingling.png
+434,stunky,stunky,Skunk Pokémon,IV,48,poison/dark,63,63,47,41,41,74,329,stench|aftermath|keen-eye,True,ground,,,225,70,medium,purple,quadruped,,False,False,assets/dex/stunky.png
+435,skuntank,skuntank,Skunk Pokémon,IV,49,poison/dark,103,93,67,71,61,84,479,stench|aftermath|keen-eye,True,ground,,,60,70,medium,purple,quadruped,,False,False,assets/dex/skuntank.png
+436,bronzor,bronzor,Bronze Pokémon,IV,50,steel/psychic,57,24,86,24,86,23,300,levitate|heatproof|heavy-metal,True,mineral,,,255,70,medium,green,ball,,False,False,assets/dex/bronzor.png
+437,bronzong,bronzong,Bronze Bell Pokémon,IV,51,steel/psychic,67,89,116,79,116,33,500,levitate|heatproof|heavy-metal,True,mineral,,,90,70,medium,green,arms,,False,False,assets/dex/bronzong.png
+438,bonsly,bonsly,Bonsai Pokémon,IV,52,rock,50,80,95,10,45,10,290,sturdy|rock-head|rattled,True,no-eggs,,,255,70,medium,brown,legs,,False,False,assets/dex/bonsly.png
+439,mime-jr,mime-jr,Mime Pokémon,IV,53,psychic/fairy,20,25,45,70,90,60,310,soundproof|filter|technician,True,no-eggs,,,145,70,medium,pink,humanoid,,False,False,assets/dex/mime-jr.png
+440,happiny,happiny,Playhouse Pokémon,IV,54,normal,100,5,5,15,65,30,220,natural-cure|serene-grace|friend-guard,True,no-eggs,,,130,140,fast,pink,humanoid,,False,False,assets/dex/happiny.png
+441,chatot,chatot,Music Note Pokémon,IV,55,normal/flying,76,65,45,92,42,91,411,keen-eye|tangled-feet|big-pecks,True,flying,,,30,35,medium-slow,black,wings,,False,False,assets/dex/chatot.png
+442,spiritomb,spiritomb,Forbidden Pokémon,IV,56,ghost/dark,50,92,108,92,108,35,485,pressure|infiltrator,True,indeterminate,,,100,70,medium,purple,blob,,False,False,assets/dex/spiritomb.png
+443,gible,gible,Land Shark Pokémon,IV,57,dragon/ground,58,70,45,40,45,42,300,sand-veil|rough-skin,True,monster|dragon,,,45,70,slow,blue,upright,,False,False,assets/dex/gible.png
+444,gabite,gabite,Cave Pokémon,IV,58,dragon/ground,68,90,65,50,55,82,410,sand-veil|rough-skin,True,monster|dragon,,,45,70,slow,blue,upright,,False,False,assets/dex/gabite.png
+445,garchomp,garchomp,Mach Pokémon,IV,59,dragon/ground,108,130,95,80,85,102,600,sand-veil|rough-skin,True,monster|dragon,,,45,70,slow,blue,upright,,False,False,assets/dex/garchomp.png
+446,munchlax,munchlax,Big Eater Pokémon,IV,60,normal,135,85,40,40,85,5,390,pickup|thick-fat|gluttony,True,no-eggs,,,50,70,slow,black,humanoid,,False,False,assets/dex/munchlax.png
+447,riolu,riolu,Emanation Pokémon,IV,61,fighting,40,70,40,35,40,60,285,steadfast|inner-focus|prankster,True,no-eggs,,,75,70,medium-slow,blue,upright,,False,False,assets/dex/riolu.png
+448,lucario,lucario,Aura Pokémon,IV,62,fighting/steel,70,110,70,115,70,90,525,steadfast|inner-focus|justified,True,ground|humanshape,,,45,70,medium-slow,blue,upright,,False,False,assets/dex/lucario.png
+449,hippopotas,hippopotas,Hippo Pokémon,IV,63,ground,68,72,78,38,42,32,330,sand-stream|sand-force,True,ground,,,140,70,slow,brown,quadruped,,False,False,assets/dex/hippopotas.png
+450,hippowdon,hippowdon,Heavyweight Pokémon,IV,64,ground,108,112,118,68,72,47,525,sand-stream|sand-force,True,ground,,,60,70,slow,brown,quadruped,,False,False,assets/dex/hippowdon.png
+451,skorupi,skorupi,Scorpion Pokémon,IV,65,poison/bug,40,50,90,30,55,65,330,battle-armor|sniper|keen-eye,True,bug|water3,,,120,70,slow,purple,armor,,False,False,assets/dex/skorupi.png
+452,drapion,drapion,Ogre Scorpion Pokémon,IV,66,poison/dark,70,90,110,60,75,95,500,battle-armor|sniper|keen-eye,True,bug|water3,,,45,70,slow,purple,armor,,False,False,assets/dex/drapion.png
+453,croagunk,croagunk,Toxic Mouth Pokémon,IV,67,poison/fighting,48,61,40,61,40,50,300,anticipation|dry-skin|poison-touch,True,humanshape,,,140,100,medium,blue,humanoid,,False,False,assets/dex/croagunk.png
+454,toxicroak,toxicroak,Toxic Mouth Pokémon,IV,68,poison/fighting,83,106,65,86,65,85,490,anticipation|dry-skin|poison-touch,True,humanshape,,,75,70,medium,blue,humanoid,,False,False,assets/dex/toxicroak.png
+455,carnivine,carnivine,Bug Catcher Pokémon,IV,69,grass,74,100,72,90,72,46,454,levitate,False,plant,,,200,70,slow,green,tentacles,,False,False,assets/dex/carnivine.png
+456,finneon,finneon,Wing Fish Pokémon,IV,70,water,49,49,56,49,61,66,330,swift-swim|storm-drain|water-veil,True,water2,,,190,70,slow-then-very-fast,blue,fish,,False,False,assets/dex/finneon.png
+457,lumineon,lumineon,Neon Pokémon,IV,71,water,69,69,76,69,86,91,460,swift-swim|storm-drain|water-veil,True,water2,,,75,70,slow-then-very-fast,blue,fish,,False,False,assets/dex/lumineon.png
+458,mantyke,mantyke,Kite Pokémon,IV,72,water/flying,45,20,50,60,120,50,345,swift-swim|water-absorb|water-veil,True,no-eggs,,,25,70,slow,blue,wings,,False,False,assets/dex/mantyke.png
+459,snover,snover,Frost Tree Pokémon,IV,73,grass/ice,60,62,50,62,60,40,334,snow-warning|soundproof,True,monster|plant,,,120,70,slow,white,upright,,False,False,assets/dex/snover.png
+460,abomasnow,abomasnow,Frost Tree Pokémon,IV,74,grass/ice,90,92,75,92,85,60,494,snow-warning|soundproof,True,monster|plant,,,60,70,slow,white,upright,,False,False,assets/dex/abomasnow.png
+461,weavile,weavile,Sharp Claw Pokémon,IV,75,dark/ice,70,120,65,45,85,125,510,pressure|pickpocket,True,ground,,,45,35,medium-slow,black,upright,,False,False,assets/dex/weavile.png
+462,magnezone,magnezone,Magnet Area Pokémon,IV,76,electric/steel,70,70,115,130,90,60,535,magnet-pull|sturdy|analytic,True,mineral,,,30,70,medium,gray,arms,,False,False,assets/dex/magnezone.png
+463,lickilicky,lickilicky,Licking Pokémon,IV,77,normal,110,85,95,80,95,50,515,own-tempo|oblivious|cloud-nine,True,monster,,,30,70,medium,pink,humanoid,,False,False,assets/dex/lickilicky.png
+464,rhyperior,rhyperior,Drill Pokémon,IV,78,ground/rock,115,140,130,55,55,40,535,lightning-rod|solid-rock|reckless,True,monster|ground,,,30,70,slow,gray,upright,,False,False,assets/dex/rhyperior.png
+465,tangrowth,tangrowth,Vine Pokémon,IV,79,grass,100,100,125,110,50,50,535,chlorophyll|leaf-guard|regenerator,True,plant,,,30,70,medium,blue,humanoid,,False,False,assets/dex/tangrowth.png
+466,electivire,electivire,Thunderbolt Pokémon,IV,80,electric,75,123,67,95,85,95,540,motor-drive|vital-spirit,True,humanshape,,,30,70,medium,yellow,upright,,False,False,assets/dex/electivire.png
+467,magmortar,magmortar,Blast Pokémon,IV,81,fire,75,95,67,125,95,83,540,flame-body|vital-spirit,True,humanshape,,,30,70,medium,red,upright,,False,False,assets/dex/magmortar.png
+468,togekiss,togekiss,Jubilee Pokémon,IV,82,fairy/flying,85,50,95,120,115,80,545,hustle|serene-grace|super-luck,True,flying|fairy,,,30,70,fast,white,wings,,False,False,assets/dex/togekiss.png
+469,yanmega,yanmega,Ogre Darner Pokémon,IV,83,bug/flying,86,76,86,116,56,95,515,speed-boost|tinted-lens|frisk,True,bug,,,30,70,medium,green,bug-wings,,False,False,assets/dex/yanmega.png
+470,leafeon,leafeon,Verdant Pokémon,IV,84,grass,65,110,130,60,65,95,525,leaf-guard|chlorophyll,True,ground,,,45,35,medium,green,quadruped,,False,False,assets/dex/leafeon.png
+471,glaceon,glaceon,Fresh Snow Pokémon,IV,85,ice,65,60,110,130,95,65,525,snow-cloak|ice-body,True,ground,,,45,35,medium,blue,quadruped,,False,False,assets/dex/glaceon.png
+472,gliscor,gliscor,Fang Scorpion Pokémon,IV,86,ground/flying,75,95,125,45,75,95,510,hyper-cutter|sand-veil|poison-heal,True,bug,,,30,70,medium-slow,purple,wings,,False,False,assets/dex/gliscor.png
+473,mamoswine,mamoswine,Twin Tusk Pokémon,IV,87,ice/ground,110,130,80,70,60,80,530,oblivious|snow-cloak|thick-fat,True,ground,,,50,70,slow,brown,quadruped,,False,False,assets/dex/mamoswine.png
+474,porygon-z,porygon-z,Virtual Pokémon,IV,88,normal,85,80,70,135,75,90,535,adaptability|download|analytic,True,mineral,,,30,70,medium,red,arms,,False,False,assets/dex/porygon-z.png
+475,gallade,gallade,Blade Pokémon,IV,89,psychic/fighting,68,125,65,65,115,80,518,steadfast|sharpness|justified,True,humanshape|indeterminate,,,45,35,slow,white,humanoid,,False,False,assets/dex/gallade.png
+476,probopass,probopass,Compass Pokémon,IV,90,rock/steel,60,55,145,75,150,40,525,sturdy|magnet-pull|sand-force,True,mineral,,,60,70,medium,gray,heads,,False,False,assets/dex/probopass.png
+477,dusknoir,dusknoir,Gripper Pokémon,IV,91,ghost,45,100,135,65,135,45,525,pressure|frisk,True,indeterminate,,,45,35,fast,black,arms,,False,False,assets/dex/dusknoir.png
+478,froslass,froslass,Snow Land Pokémon,IV,92,ice/ghost,70,80,70,80,70,110,480,snow-cloak|cursed-body,True,fairy|mineral,,,75,70,medium,white,arms,,False,False,assets/dex/froslass.png
+479,rotom,rotom,Plasma Pokémon,IV,93,electric/ghost,50,50,77,95,77,91,440,levitate,False,indeterminate,,,45,70,medium,red,ball,,False,False,assets/dex/rotom.png
+480,uxie,uxie,Knowledge Pokémon,IV,94,psychic,75,75,130,75,130,95,580,levitate,False,no-eggs,,,3,140,slow,yellow,upright,,True,False,assets/dex/uxie.png
+481,mesprit,mesprit,Emotion Pokémon,IV,95,psychic,80,105,105,105,105,80,580,levitate,False,no-eggs,,,3,140,slow,pink,upright,,True,False,assets/dex/mesprit.png
+482,azelf,azelf,Willpower Pokémon,IV,96,psychic,75,125,70,125,70,115,580,levitate,False,no-eggs,,,3,140,slow,blue,upright,,True,False,assets/dex/azelf.png
+483,dialga,dialga,Temporal Pokémon,IV,97,steel/dragon,100,120,120,150,100,90,680,pressure|telepathy,True,no-eggs,,,3,0,slow,white,quadruped,,True,False,assets/dex/dialga.png
+484,palkia,palkia,Spatial Pokémon,IV,98,water/dragon,90,120,100,150,120,100,680,pressure|telepathy,True,no-eggs,,,3,0,slow,purple,upright,,True,False,assets/dex/palkia.png
+485,heatran,heatran,Lava Dome Pokémon,IV,99,fire/steel,91,90,106,130,106,77,600,flash-fire|flame-body,True,no-eggs,,,3,100,slow,brown,quadruped,,True,False,assets/dex/heatran.png
+486,regigigas,regigigas,Colossal Pokémon,IV,100,normal,110,160,110,80,110,100,670,slow-start,False,no-eggs,,,3,0,slow,white,humanoid,,True,False,assets/dex/regigigas.png
+487,giratina-altered,giratina-altered,Renegade Pokémon,IV,101,ghost/dragon,150,100,120,100,120,90,680,pressure|telepathy,True,no-eggs,,,3,0,slow,black,tentacles,,True,False,assets/dex/giratina-altered.png
+488,cresselia,cresselia,Lunar Pokémon,IV,102,psychic,120,70,110,75,120,85,580,levitate,False,no-eggs,,,3,100,slow,yellow,squiggle,,True,False,assets/dex/cresselia.png
+489,phione,phione,Sea Drifter Pokémon,IV,103,water,80,80,80,80,80,80,480,hydration,False,water1|fairy,,,30,70,slow,blue,arms,,False,True,assets/dex/phione.png
+490,manaphy,manaphy,Seafaring Pokémon,IV,104,water,100,100,100,100,100,100,600,hydration,False,water1|fairy,,,3,70,slow,blue,humanoid,,False,True,assets/dex/manaphy.png
+491,darkrai,darkrai,Pitch-Black Pokémon,IV,105,dark,70,90,90,135,90,125,600,bad-dreams,False,no-eggs,,,3,0,slow,black,humanoid,,False,True,assets/dex/darkrai.png
+492,shaymin-land,shaymin-land,Gratitude Pokémon,IV,106,grass,100,100,100,100,100,100,600,natural-cure,False,no-eggs,,,45,100,medium-slow,green,quadruped,,False,True,assets/dex/shaymin-land.png
+493,arceus,arceus,Alpha Pokémon,IV,107,normal,120,120,120,120,120,120,720,multitype,False,no-eggs,,,3,0,slow,white,quadruped,,False,True,assets/dex/arceus.png
+494,victini,victini,Victory Pokémon,V,1,psychic/fire,100,100,100,100,100,100,600,victory-star,False,no-eggs,,,3,100,slow,yellow,humanoid,,False,True,assets/dex/victini.png
+495,snivy,snivy,Grass Snake Pokémon,V,2,grass,45,45,55,45,55,63,308,overgrow|contrary,True,ground|plant,,,45,70,medium-slow,green,upright,,False,False,assets/dex/snivy.png
+496,servine,servine,Grass Snake Pokémon,V,3,grass,60,60,75,60,75,83,413,overgrow|contrary,True,ground|plant,,,45,70,medium-slow,green,upright,,False,False,assets/dex/servine.png
+497,serperior,serperior,Regal Pokémon,V,4,grass,75,75,95,75,95,113,528,overgrow|contrary,True,ground|plant,,,45,70,medium-slow,green,squiggle,,False,False,assets/dex/serperior.png
+498,tepig,tepig,Fire Pig Pokémon,V,5,fire,65,63,45,45,45,45,308,blaze|thick-fat,True,ground,,,45,70,medium-slow,red,quadruped,,False,False,assets/dex/tepig.png
+499,pignite,pignite,Fire Pig Pokémon,V,6,fire/fighting,90,93,55,70,55,55,418,blaze|thick-fat,True,ground,,,45,70,medium-slow,red,upright,,False,False,assets/dex/pignite.png
+500,emboar,emboar,Mega Fire Pig Pokémon,V,7,fire/fighting,110,123,65,100,65,65,528,blaze|reckless,True,ground,,,45,70,medium-slow,red,upright,,False,False,assets/dex/emboar.png
+501,oshawott,oshawott,Sea Otter Pokémon,V,8,water,55,55,45,63,45,45,308,torrent|shell-armor,True,ground,,,45,70,medium-slow,blue,upright,,False,False,assets/dex/oshawott.png
+502,dewott,dewott,Discipline Pokémon,V,9,water,75,75,60,83,60,60,413,torrent|shell-armor,True,ground,,,45,70,medium-slow,blue,upright,,False,False,assets/dex/dewott.png
+503,samurott,samurott,Formidable Pokémon,V,10,water,95,100,85,108,70,70,528,torrent|shell-armor,True,ground,,,45,70,medium-slow,blue,quadruped,,False,False,assets/dex/samurott.png
+504,patrat,patrat,Scout Pokémon,V,11,normal,45,55,39,35,39,42,255,run-away|keen-eye|analytic,True,ground,,,255,70,medium,brown,quadruped,,False,False,assets/dex/patrat.png
+505,watchog,watchog,Lookout Pokémon,V,12,normal,60,85,69,60,69,77,420,illuminate|keen-eye|analytic,True,ground,,,255,70,medium,brown,upright,,False,False,assets/dex/watchog.png
+506,lillipup,lillipup,Puppy Pokémon,V,13,normal,45,60,45,25,45,55,275,vital-spirit|pickup|run-away,True,ground,,,255,70,medium-slow,brown,quadruped,,False,False,assets/dex/lillipup.png
+507,herdier,herdier,Loyal Dog Pokémon,V,14,normal,65,80,65,35,65,60,370,intimidate|sand-rush|scrappy,True,ground,,,120,70,medium-slow,gray,quadruped,,False,False,assets/dex/herdier.png
+508,stoutland,stoutland,Big-Hearted Pokémon,V,15,normal,85,110,90,45,90,80,500,intimidate|sand-rush|scrappy,True,ground,,,45,70,medium-slow,gray,quadruped,,False,False,assets/dex/stoutland.png
+509,purrloin,purrloin,Devious Pokémon,V,16,dark,41,50,37,50,37,66,281,limber|unburden|prankster,True,ground,,,255,70,medium,purple,quadruped,,False,False,assets/dex/purrloin.png
+510,liepard,liepard,Cruel Pokémon,V,17,dark,64,88,50,88,50,106,446,limber|unburden|prankster,True,ground,,,90,70,medium,purple,quadruped,,False,False,assets/dex/liepard.png
+511,pansage,pansage,Grass Monkey Pokémon,V,18,grass,50,53,48,53,48,64,316,gluttony|overgrow,True,ground,,,190,70,medium,green,upright,,False,False,assets/dex/pansage.png
+512,simisage,simisage,Thorn Monkey Pokémon,V,19,grass,75,98,63,98,63,101,498,gluttony|overgrow,True,ground,,,75,70,medium,green,upright,,False,False,assets/dex/simisage.png
+513,pansear,pansear,High Temp Pokémon,V,20,fire,50,53,48,53,48,64,316,gluttony|blaze,True,ground,,,190,70,medium,red,upright,,False,False,assets/dex/pansear.png
+514,simisear,simisear,Ember Pokémon,V,21,fire,75,98,63,98,63,101,498,gluttony|blaze,True,ground,,,75,70,medium,red,upright,,False,False,assets/dex/simisear.png
+515,panpour,panpour,Spray Pokémon,V,22,water,50,53,48,53,48,64,316,gluttony|torrent,True,ground,,,190,70,medium,blue,upright,,False,False,assets/dex/panpour.png
+516,simipour,simipour,Geyser Pokémon,V,23,water,75,98,63,98,63,101,498,gluttony|torrent,True,ground,,,75,70,medium,blue,upright,,False,False,assets/dex/simipour.png
+517,munna,munna,Dream Eater Pokémon,V,24,psychic,76,25,45,67,55,24,292,forewarn|synchronize|telepathy,True,ground,,,190,70,fast,pink,quadruped,,False,False,assets/dex/munna.png
+518,musharna,musharna,Drowsing Pokémon,V,25,psychic,116,55,85,107,95,29,487,forewarn|synchronize|telepathy,True,ground,,,75,70,fast,pink,humanoid,,False,False,assets/dex/musharna.png
+519,pidove,pidove,Tiny Pigeon Pokémon,V,26,normal/flying,50,55,50,36,30,43,264,big-pecks|super-luck|rivalry,True,flying,,,255,70,medium-slow,gray,wings,,False,False,assets/dex/pidove.png
+520,tranquill,tranquill,Wild Pigeon Pokémon,V,27,normal/flying,62,77,62,50,42,65,358,big-pecks|super-luck|rivalry,True,flying,,,120,70,medium-slow,gray,wings,,False,False,assets/dex/tranquill.png
+521,unfezant,unfezant,Proud Pokémon,V,28,normal/flying,80,115,80,65,55,93,488,big-pecks|super-luck|rivalry,True,flying,,,45,70,medium-slow,gray,wings,,False,False,assets/dex/unfezant.png
+522,blitzle,blitzle,Electrified Pokémon,V,29,electric,45,60,32,50,32,76,295,lightning-rod|motor-drive|sap-sipper,True,ground,,,190,70,medium,black,quadruped,,False,False,assets/dex/blitzle.png
+523,zebstrika,zebstrika,Thunderbolt Pokémon,V,30,electric,75,100,63,80,63,116,497,lightning-rod|motor-drive|sap-sipper,True,ground,,,75,70,medium,black,quadruped,,False,False,assets/dex/zebstrika.png
+524,roggenrola,roggenrola,Mantle Pokémon,V,31,rock,55,75,85,25,25,15,280,sturdy|weak-armor|sand-force,True,mineral,,,255,70,medium-slow,blue,legs,,False,False,assets/dex/roggenrola.png
+525,boldore,boldore,Ore Pokémon,V,32,rock,70,105,105,50,40,20,390,sturdy|weak-armor|sand-force,True,mineral,,,120,70,medium-slow,blue,tentacles,,False,False,assets/dex/boldore.png
+526,gigalith,gigalith,Compressed Pokémon,V,33,rock,85,135,130,60,80,25,515,sturdy|sand-stream|sand-force,True,mineral,,,45,70,medium-slow,blue,tentacles,,False,False,assets/dex/gigalith.png
+527,woobat,woobat,Bat Pokémon,V,34,psychic/flying,65,45,43,55,43,72,323,unaware|klutz|simple,True,flying|ground,,,190,70,medium,blue,wings,,False,False,assets/dex/woobat.png
+528,swoobat,swoobat,Courting Pokémon,V,35,psychic/flying,67,57,55,77,55,114,425,unaware|klutz|simple,True,flying|ground,,,45,70,medium,blue,wings,,False,False,assets/dex/swoobat.png
+529,drilbur,drilbur,Mole Pokémon,V,36,ground,60,85,40,30,45,68,328,sand-rush|sand-force|mold-breaker,True,ground,,,120,70,medium,gray,upright,,False,False,assets/dex/drilbur.png
+530,excadrill,excadrill,Subterrene Pokémon,V,37,ground/steel,110,135,60,50,65,88,508,sand-rush|sand-force|mold-breaker,True,ground,,,60,70,medium,gray,humanoid,,False,False,assets/dex/excadrill.png
+531,audino,audino,Hearing Pokémon,V,38,normal,103,60,86,60,86,50,445,healer|regenerator|klutz,True,fairy,,,255,70,fast,pink,upright,,False,False,assets/dex/audino.png
+532,timburr,timburr,Muscular Pokémon,V,39,fighting,75,80,55,25,35,35,305,guts|sheer-force|iron-fist,True,humanshape,,,180,70,medium-slow,gray,humanoid,,False,False,assets/dex/timburr.png
+533,gurdurr,gurdurr,Muscular Pokémon,V,40,fighting,85,105,85,40,50,40,405,guts|sheer-force|iron-fist,True,humanshape,,,90,70,medium-slow,gray,humanoid,,False,False,assets/dex/gurdurr.png
+534,conkeldurr,conkeldurr,Muscular Pokémon,V,41,fighting,105,140,95,55,65,45,505,guts|sheer-force|iron-fist,True,humanshape,,,45,70,medium-slow,brown,humanoid,,False,False,assets/dex/conkeldurr.png
+535,tympole,tympole,Tadpole Pokémon,V,42,water,50,50,40,50,40,64,294,swift-swim|hydration|water-absorb,True,water1,,,255,70,medium-slow,blue,fish,,False,False,assets/dex/tympole.png
+536,palpitoad,palpitoad,Vibration Pokémon,V,43,water/ground,75,65,55,65,55,69,384,swift-swim|hydration|water-absorb,True,water1,,,120,70,medium-slow,blue,upright,,False,False,assets/dex/palpitoad.png
+537,seismitoad,seismitoad,Vibration Pokémon,V,44,water/ground,105,95,75,85,75,74,509,swift-swim|poison-touch|water-absorb,True,water1,,,45,70,medium-slow,blue,humanoid,,False,False,assets/dex/seismitoad.png
+538,throh,throh,Judo Pokémon,V,45,fighting,120,100,85,30,85,45,465,guts|inner-focus|mold-breaker,True,humanshape,,,45,70,medium,red,humanoid,,False,False,assets/dex/throh.png
+539,sawk,sawk,Karate Pokémon,V,46,fighting,75,125,75,30,75,85,465,sturdy|inner-focus|mold-breaker,True,humanshape,,,45,70,medium,blue,humanoid,,False,False,assets/dex/sawk.png
+540,sewaddle,sewaddle,Sewing Pokémon,V,47,bug/grass,45,53,70,40,60,42,310,swarm|chlorophyll|overcoat,True,bug,,,255,70,medium-slow,yellow,armor,,False,False,assets/dex/sewaddle.png
+541,swadloon,swadloon,Leaf-Wrapped Pokémon,V,48,bug/grass,55,63,90,50,80,42,380,leaf-guard|chlorophyll|overcoat,True,bug,,,120,70,medium-slow,green,arms,,False,False,assets/dex/swadloon.png
+542,leavanny,leavanny,Nurturing Pokémon,V,49,bug/grass,75,103,80,70,80,92,500,swarm|chlorophyll|overcoat,True,bug,,,45,70,medium-slow,yellow,humanoid,,False,False,assets/dex/leavanny.png
+543,venipede,venipede,Centipede Pokémon,V,50,bug/poison,30,45,59,30,39,57,260,poison-point|swarm|speed-boost,True,bug,,,255,70,medium-slow,red,armor,,False,False,assets/dex/venipede.png
+544,whirlipede,whirlipede,Curlipede Pokémon,V,51,bug/poison,40,55,99,40,79,47,360,poison-point|swarm|speed-boost,True,bug,,,120,70,medium-slow,gray,ball,,False,False,assets/dex/whirlipede.png
+545,scolipede,scolipede,Megapede Pokémon,V,52,bug/poison,60,100,89,55,69,112,485,poison-point|swarm|speed-boost,True,bug,,,45,70,medium-slow,red,armor,,False,False,assets/dex/scolipede.png
+546,cottonee,cottonee,Cotton Puff Pokémon,V,53,grass/fairy,40,27,60,37,50,66,280,prankster|infiltrator|chlorophyll,True,fairy|plant,,,190,70,medium,green,ball,,False,False,assets/dex/cottonee.png
+547,whimsicott,whimsicott,Windveiled Pokémon,V,54,grass/fairy,60,67,85,77,75,116,480,prankster|infiltrator|chlorophyll,True,fairy|plant,,,75,70,medium,green,humanoid,,False,False,assets/dex/whimsicott.png
+548,petilil,petilil,Bulb Pokémon,V,55,grass,45,35,50,70,50,30,280,chlorophyll|own-tempo|leaf-guard,True,plant,,,190,70,medium,green,blob,,False,False,assets/dex/petilil.png
+549,lilligant,lilligant,Flowering Pokémon,V,56,grass,70,60,75,110,75,90,480,chlorophyll|own-tempo|leaf-guard,True,plant,,,75,70,medium,green,blob,,False,False,assets/dex/lilligant.png
+550,basculin-red-striped,basculin-red-striped,Hostile Pokémon,V,57,water,70,92,65,80,55,98,460,reckless|adaptability|mold-breaker,True,water2,,,25,70,medium,green,fish,,False,False,assets/dex/basculin-red-striped.png
+551,sandile,sandile,Desert Croc Pokémon,V,58,ground/dark,50,72,35,35,35,65,292,intimidate|moxie|anger-point,True,ground,,,180,70,medium-slow,brown,quadruped,,False,False,assets/dex/sandile.png
+552,krokorok,krokorok,Desert Croc Pokémon,V,59,ground/dark,60,82,45,45,45,74,351,intimidate|moxie|anger-point,True,ground,,,90,70,medium-slow,brown,quadruped,,False,False,assets/dex/krokorok.png
+553,krookodile,krookodile,Intimidation Pokémon,V,60,ground/dark,95,117,80,65,70,92,519,intimidate|moxie|anger-point,True,ground,,,45,70,medium-slow,red,upright,,False,False,assets/dex/krookodile.png
+554,darumaka,darumaka,Zen Charm Pokémon,V,61,fire,70,90,45,15,45,50,315,hustle|inner-focus,True,ground,,,120,70,medium-slow,red,humanoid,,False,False,assets/dex/darumaka.png
+555,darmanitan-standard,darmanitan-standard,Blazing Pokémon,V,62,fire,105,140,55,30,55,95,480,sheer-force|zen-mode,True,ground,,,60,70,medium-slow,red,quadruped,,False,False,assets/dex/darmanitan-standard.png
+556,maractus,maractus,Cactus Pokémon,V,63,grass,75,86,67,106,67,60,461,water-absorb|chlorophyll|storm-drain,True,plant,,,255,70,medium,green,blob,,False,False,assets/dex/maractus.png
+557,dwebble,dwebble,Rock Inn Pokémon,V,64,bug/rock,50,65,85,35,35,55,325,sturdy|shell-armor|weak-armor,True,bug|mineral,,,190,70,medium,red,armor,,False,False,assets/dex/dwebble.png
+558,crustle,crustle,Stone Home Pokémon,V,65,bug/rock,70,105,125,65,75,45,485,sturdy|shell-armor|weak-armor,True,bug|mineral,,,75,70,medium,red,armor,,False,False,assets/dex/crustle.png
+559,scraggy,scraggy,Shedding Pokémon,V,66,dark/fighting,50,75,70,35,70,48,348,shed-skin|moxie|intimidate,True,ground|dragon,,,180,35,medium,yellow,upright,,False,False,assets/dex/scraggy.png
+560,scrafty,scrafty,Hoodlum Pokémon,V,67,dark/fighting,65,90,115,45,115,58,488,shed-skin|moxie|intimidate,True,ground|dragon,,,90,70,medium,red,upright,,False,False,assets/dex/scrafty.png
+561,sigilyph,sigilyph,Avianoid Pokémon,V,68,psychic/flying,72,58,80,103,80,97,490,wonder-skin|magic-guard|tinted-lens,True,flying,,,45,70,medium,black,wings,,False,False,assets/dex/sigilyph.png
+562,yamask,yamask,Spirit Pokémon,V,69,ghost,38,30,85,55,65,30,303,mummy,False,mineral|indeterminate,,,190,70,medium,black,arms,,False,False,assets/dex/yamask.png
+563,cofagrigus,cofagrigus,Coffin Pokémon,V,70,ghost,58,50,145,95,105,30,483,mummy,False,mineral|indeterminate,,,90,70,medium,yellow,blob,,False,False,assets/dex/cofagrigus.png
+564,tirtouga,tirtouga,Prototurtle Pokémon,V,71,water/rock,54,78,103,53,45,22,355,solid-rock|sturdy|swift-swim,True,water1|water3,,,45,70,medium,blue,quadruped,,False,False,assets/dex/tirtouga.png
+565,carracosta,carracosta,Prototurtle Pokémon,V,72,water/rock,74,108,133,83,65,32,495,solid-rock|sturdy|swift-swim,True,water1|water3,,,45,70,medium,blue,upright,,False,False,assets/dex/carracosta.png
+566,archen,archen,First Bird Pokémon,V,73,rock/flying,55,112,45,74,45,70,401,defeatist,False,flying|water3,,,45,70,medium,yellow,wings,,False,False,assets/dex/archen.png
+567,archeops,archeops,First Bird Pokémon,V,74,rock/flying,75,140,65,112,65,110,567,defeatist,False,flying|water3,,,45,70,medium,yellow,wings,,False,False,assets/dex/archeops.png
+568,trubbish,trubbish,Trash Bag Pokémon,V,75,poison,50,50,62,40,62,65,329,stench|sticky-hold|aftermath,True,mineral,,,190,70,medium,green,humanoid,,False,False,assets/dex/trubbish.png
+569,garbodor,garbodor,Trash Heap Pokémon,V,76,poison,80,95,82,60,82,75,474,stench|weak-armor|aftermath,True,mineral,,,60,70,medium,green,humanoid,,False,False,assets/dex/garbodor.png
+570,zorua,zorua,Tricky Fox Pokémon,V,77,dark,40,65,40,80,40,65,330,illusion,False,ground,,,75,70,medium-slow,gray,quadruped,,False,False,assets/dex/zorua.png
+571,zoroark,zoroark,Illusion Fox Pokémon,V,78,dark,60,105,60,120,60,105,510,illusion,False,ground,,,45,70,medium-slow,gray,upright,,False,False,assets/dex/zoroark.png
+572,minccino,minccino,Chinchilla Pokémon,V,79,normal,55,50,40,40,40,75,300,cute-charm|technician|skill-link,True,ground,,,255,70,fast,gray,quadruped,,False,False,assets/dex/minccino.png
+573,cinccino,cinccino,Scarf Pokémon,V,80,normal,75,95,60,65,60,115,470,cute-charm|technician|skill-link,True,ground,,,60,70,fast,gray,quadruped,,False,False,assets/dex/cinccino.png
+574,gothita,gothita,Fixation Pokémon,V,81,psychic,45,30,50,55,65,45,290,frisk|competitive|shadow-tag,True,humanshape,,,200,70,medium-slow,purple,humanoid,,False,False,assets/dex/gothita.png
+575,gothorita,gothorita,Manipulate Pokémon,V,82,psychic,60,45,70,75,85,55,390,frisk|competitive|shadow-tag,True,humanshape,,,100,70,medium-slow,purple,humanoid,,False,False,assets/dex/gothorita.png
+576,gothitelle,gothitelle,Astral Body Pokémon,V,83,psychic,70,55,95,95,110,65,490,frisk|competitive|shadow-tag,True,humanshape,,,50,70,medium-slow,purple,humanoid,,False,False,assets/dex/gothitelle.png
+577,solosis,solosis,Cell Pokémon,V,84,psychic,45,30,40,105,50,20,290,overcoat|magic-guard|regenerator,True,indeterminate,,,200,70,medium-slow,green,ball,,False,False,assets/dex/solosis.png
+578,duosion,duosion,Mitosis Pokémon,V,85,psychic,65,40,50,125,60,30,370,overcoat|magic-guard|regenerator,True,indeterminate,,,100,70,medium-slow,green,ball,,False,False,assets/dex/duosion.png
+579,reuniclus,reuniclus,Multiplying Pokémon,V,86,psychic,110,65,75,125,85,30,490,overcoat|magic-guard|regenerator,True,indeterminate,,,50,70,medium-slow,green,arms,,False,False,assets/dex/reuniclus.png
+580,ducklett,ducklett,Water Bird Pokémon,V,87,water/flying,62,44,50,44,50,55,305,keen-eye|big-pecks|hydration,True,water1|flying,,,190,70,medium,blue,wings,,False,False,assets/dex/ducklett.png
+581,swanna,swanna,White Bird Pokémon,V,88,water/flying,75,87,63,87,63,98,473,keen-eye|big-pecks|hydration,True,water1|flying,,,45,70,medium,white,wings,,False,False,assets/dex/swanna.png
+582,vanillite,vanillite,Fresh Snow Pokémon,V,89,ice,36,50,50,65,60,44,305,ice-body|snow-cloak|weak-armor,True,mineral,,,255,70,slow,white,blob,,False,False,assets/dex/vanillite.png
+583,vanillish,vanillish,Icy Snow Pokémon,V,90,ice,51,65,65,80,75,59,395,ice-body|snow-cloak|weak-armor,True,mineral,,,120,70,slow,white,blob,,False,False,assets/dex/vanillish.png
+584,vanilluxe,vanilluxe,Snowstorm Pokémon,V,91,ice,71,95,85,110,95,79,535,ice-body|snow-warning|weak-armor,True,mineral,,,45,70,slow,white,heads,,False,False,assets/dex/vanilluxe.png
+585,deerling,deerling,Season Pokémon,V,92,normal/grass,60,60,50,40,50,75,335,chlorophyll|sap-sipper|serene-grace,True,ground,,,190,70,medium,pink,quadruped,,False,False,assets/dex/deerling.png
+586,sawsbuck,sawsbuck,Season Pokémon,V,93,normal/grass,80,100,70,60,70,95,475,chlorophyll|sap-sipper|serene-grace,True,ground,,,75,70,medium,brown,quadruped,,False,False,assets/dex/sawsbuck.png
+587,emolga,emolga,Sky Squirrel Pokémon,V,94,electric/flying,55,75,60,75,60,103,428,static|motor-drive,True,ground,,,200,70,medium,white,quadruped,,False,False,assets/dex/emolga.png
+588,karrablast,karrablast,Clamping Pokémon,V,95,bug,50,75,45,40,45,60,315,swarm|shed-skin|no-guard,True,bug,,,200,70,medium,blue,humanoid,,False,False,assets/dex/karrablast.png
+589,escavalier,escavalier,Cavalry Pokémon,V,96,bug/steel,70,135,105,60,105,20,495,swarm|shell-armor|overcoat,True,bug,,,75,70,medium,gray,arms,,False,False,assets/dex/escavalier.png
+590,foongus,foongus,Mushroom Pokémon,V,97,grass/poison,69,55,45,55,55,15,294,effect-spore|regenerator,True,plant,,,190,70,medium,white,arms,,False,False,assets/dex/foongus.png
+591,amoonguss,amoonguss,Mushroom Pokémon,V,98,grass/poison,114,85,70,85,80,30,464,effect-spore|regenerator,True,plant,,,75,70,medium,white,arms,,False,False,assets/dex/amoonguss.png
+592,frillish-male,frillish-male,Floating Pokémon,V,99,water/ghost,55,40,50,65,85,40,335,water-absorb|cursed-body|damp,True,indeterminate,,,190,70,medium,white,tentacles,,False,False,assets/dex/frillish-male.png
+593,jellicent-male,jellicent-male,Floating Pokémon,V,100,water/ghost,100,60,70,85,105,60,480,water-absorb|cursed-body|damp,True,indeterminate,,,60,70,medium,white,tentacles,,False,False,assets/dex/jellicent-male.png
+594,alomomola,alomomola,Caring Pokémon,V,101,water,165,75,80,40,45,65,470,healer|hydration|regenerator,True,water1|water2,,,75,70,fast,pink,fish,,False,False,assets/dex/alomomola.png
+595,joltik,joltik,Attaching Pokémon,V,102,bug/electric,50,47,50,57,50,65,319,compound-eyes|unnerve|swarm,True,bug,,,190,70,medium,yellow,armor,,False,False,assets/dex/joltik.png
+596,galvantula,galvantula,EleSpider Pokémon,V,103,bug/electric,70,77,60,97,60,108,472,compound-eyes|unnerve|swarm,True,bug,,,75,70,medium,yellow,armor,,False,False,assets/dex/galvantula.png
+597,ferroseed,ferroseed,Thorn Seed Pokémon,V,104,grass/steel,44,50,91,24,86,10,305,iron-barbs,False,plant|mineral,,,255,70,medium,gray,ball,,False,False,assets/dex/ferroseed.png
+598,ferrothorn,ferrothorn,Thorn Pod Pokémon,V,105,grass/steel,74,94,131,54,116,20,489,iron-barbs|anticipation,True,plant|mineral,,,90,70,medium,gray,tentacles,,False,False,assets/dex/ferrothorn.png
+599,klink,klink,Gear Pokémon,V,106,steel,40,55,70,45,60,30,300,plus|minus|clear-body,True,mineral,,,130,70,medium-slow,gray,heads,,False,False,assets/dex/klink.png
+600,klang,klang,Gear Pokémon,V,107,steel,60,80,95,70,85,50,440,plus|minus|clear-body,True,mineral,,,60,70,medium-slow,gray,heads,,False,False,assets/dex/klang.png
+601,klinklang,klinklang,Gear Pokémon,V,108,steel,60,100,115,70,85,90,520,plus|minus|clear-body,True,mineral,,,30,70,medium-slow,gray,heads,,False,False,assets/dex/klinklang.png
+602,tynamo,tynamo,EleFish Pokémon,V,109,electric,35,55,40,45,40,60,275,levitate,False,indeterminate,,,190,70,slow,white,fish,,False,False,assets/dex/tynamo.png
+603,eelektrik,eelektrik,EleFish Pokémon,V,110,electric,65,85,70,75,70,40,405,levitate,False,indeterminate,,,60,70,slow,blue,fish,,False,False,assets/dex/eelektrik.png
+604,eelektross,eelektross,EleFish Pokémon,V,111,electric,85,115,80,105,80,50,515,levitate,False,indeterminate,,,30,70,slow,blue,fish,,False,False,assets/dex/eelektross.png
+605,elgyem,elgyem,Cerebral Pokémon,V,112,psychic,55,55,55,85,55,30,335,telepathy|synchronize|analytic,True,humanshape,,,255,70,medium,blue,upright,,False,False,assets/dex/elgyem.png
+606,beheeyem,beheeyem,Cerebral Pokémon,V,113,psychic,75,75,75,125,95,40,485,telepathy|synchronize|analytic,True,humanshape,,,90,70,medium,brown,humanoid,,False,False,assets/dex/beheeyem.png
+607,litwick,litwick,Candle Pokémon,V,114,ghost/fire,50,30,55,65,55,20,275,flash-fire|flame-body|infiltrator,True,indeterminate,,,190,70,medium-slow,white,blob,,False,False,assets/dex/litwick.png
+608,lampent,lampent,Lamp Pokémon,V,115,ghost/fire,60,40,60,95,60,55,370,flash-fire|flame-body|infiltrator,True,indeterminate,,,90,70,medium-slow,black,arms,,False,False,assets/dex/lampent.png
+609,chandelure,chandelure,Luring Pokémon,V,116,ghost/fire,60,55,90,145,90,80,520,flash-fire|flame-body|infiltrator,True,indeterminate,,,45,70,medium-slow,black,arms,,False,False,assets/dex/chandelure.png
+610,axew,axew,Tusk Pokémon,V,117,dragon,46,87,60,30,40,57,320,rivalry|mold-breaker|unnerve,True,monster|dragon,,,75,35,slow,green,upright,,False,False,assets/dex/axew.png
+611,fraxure,fraxure,Axe Jaw Pokémon,V,118,dragon,66,117,70,40,50,67,410,rivalry|mold-breaker|unnerve,True,monster|dragon,,,60,35,slow,green,upright,,False,False,assets/dex/fraxure.png
+612,haxorus,haxorus,Axe Jaw Pokémon,V,119,dragon,76,147,90,60,70,97,540,rivalry|mold-breaker|unnerve,True,monster|dragon,,,45,35,slow,yellow,upright,,False,False,assets/dex/haxorus.png
+613,cubchoo,cubchoo,Chill Pokémon,V,120,ice,55,70,40,60,40,40,305,snow-cloak|slush-rush|rattled,True,ground,,,120,70,medium,white,upright,,False,False,assets/dex/cubchoo.png
+614,beartic,beartic,Freezing Pokémon,V,121,ice,95,130,80,70,80,50,505,snow-cloak|slush-rush|swift-swim,True,ground,,,60,70,medium,white,quadruped,,False,False,assets/dex/beartic.png
+615,cryogonal,cryogonal,Crystallizing Pokémon,V,122,ice,80,50,50,95,135,105,515,levitate,False,mineral,,,25,70,medium,blue,ball,,False,False,assets/dex/cryogonal.png
+616,shelmet,shelmet,Snail Pokémon,V,123,bug,50,40,85,40,65,25,305,hydration|shell-armor|overcoat,True,bug,,,200,70,medium,red,ball,,False,False,assets/dex/shelmet.png
+617,accelgor,accelgor,Shell Out Pokémon,V,124,bug,80,70,40,100,60,145,495,hydration|sticky-hold|unburden,True,bug,,,75,70,medium,red,arms,,False,False,assets/dex/accelgor.png
+618,stunfisk,stunfisk,Trap Pokémon,V,125,ground/electric,109,66,84,81,99,32,471,static|limber|sand-veil,True,water1|indeterminate,,,75,70,medium,brown,fish,,False,False,assets/dex/stunfisk.png
+619,mienfoo,mienfoo,Martial Arts Pokémon,V,126,fighting,45,85,50,55,50,65,350,inner-focus|regenerator|reckless,True,ground|humanshape,,,180,70,medium-slow,yellow,upright,,False,False,assets/dex/mienfoo.png
+620,mienshao,mienshao,Martial Arts Pokémon,V,127,fighting,65,125,60,95,60,105,510,inner-focus|regenerator|reckless,True,ground|humanshape,,,45,70,medium-slow,purple,upright,,False,False,assets/dex/mienshao.png
+621,druddigon,druddigon,Cave Pokémon,V,128,dragon,77,120,90,60,90,48,485,rough-skin|sheer-force|mold-breaker,True,monster|dragon,,,45,70,medium,red,upright,,False,False,assets/dex/druddigon.png
+622,golett,golett,Automaton Pokémon,V,129,ground/ghost,59,74,50,35,50,35,303,iron-fist|klutz|no-guard,True,mineral,,,190,70,medium,green,humanoid,,False,False,assets/dex/golett.png
+623,golurk,golurk,Automaton Pokémon,V,130,ground/ghost,89,124,80,55,80,55,483,iron-fist|klutz|no-guard,True,mineral,,,90,70,medium,green,humanoid,,False,False,assets/dex/golurk.png
+624,pawniard,pawniard,Sharp Blade Pokémon,V,131,dark/steel,45,85,70,40,40,60,340,defiant|inner-focus|pressure,True,humanshape,,,120,35,medium,red,humanoid,,False,False,assets/dex/pawniard.png
+625,bisharp,bisharp,Sword Blade Pokémon,V,132,dark/steel,65,125,100,60,70,70,490,defiant|inner-focus|pressure,True,humanshape,,,45,35,medium,red,humanoid,,False,False,assets/dex/bisharp.png
+626,bouffalant,bouffalant,Bash Buffalo Pokémon,V,133,normal,95,110,95,40,95,55,490,reckless|sap-sipper|soundproof,True,ground,,,45,70,medium,brown,quadruped,,False,False,assets/dex/bouffalant.png
+627,rufflet,rufflet,Eaglet Pokémon,V,134,normal/flying,70,83,50,37,50,60,350,keen-eye|sheer-force|hustle,True,flying,,,190,70,slow,white,wings,,False,False,assets/dex/rufflet.png
+628,braviary,braviary,Valiant Pokémon,V,135,normal/flying,100,123,75,57,75,80,510,keen-eye|sheer-force|defiant,True,flying,,,60,70,slow,red,wings,,False,False,assets/dex/braviary.png
+629,vullaby,vullaby,Diapered Pokémon,V,136,dark/flying,70,55,75,45,65,60,370,big-pecks|overcoat|weak-armor,True,flying,,,190,35,slow,brown,wings,,False,False,assets/dex/vullaby.png
+630,mandibuzz,mandibuzz,Bone Vulture Pokémon,V,137,dark/flying,110,65,105,55,95,80,510,big-pecks|overcoat|weak-armor,True,flying,,,60,35,slow,brown,wings,,False,False,assets/dex/mandibuzz.png
+631,heatmor,heatmor,Anteater Pokémon,V,138,fire,85,97,66,105,66,65,484,gluttony|flash-fire|white-smoke,True,ground,,,90,70,medium,red,upright,,False,False,assets/dex/heatmor.png
+632,durant,durant,Iron Ant Pokémon,V,139,bug/steel,58,109,112,48,48,109,484,swarm|hustle|truant,True,bug,,,90,70,medium,gray,armor,,False,False,assets/dex/durant.png
+633,deino,deino,Irate Pokémon,V,140,dark/dragon,52,65,50,45,50,38,300,hustle,False,dragon,,,45,35,slow,blue,quadruped,,False,False,assets/dex/deino.png
+634,zweilous,zweilous,Hostile Pokémon,V,141,dark/dragon,72,85,70,65,70,58,420,hustle,False,dragon,,,45,35,slow,blue,quadruped,,False,False,assets/dex/zweilous.png
+635,hydreigon,hydreigon,Brutal Pokémon,V,142,dark/dragon,92,105,90,125,90,98,600,levitate,False,dragon,,,45,35,slow,blue,upright,,False,False,assets/dex/hydreigon.png
+636,larvesta,larvesta,Torch Pokémon,V,143,bug/fire,55,85,55,50,55,60,360,flame-body|swarm,True,bug,,,45,70,slow,white,armor,,False,False,assets/dex/larvesta.png
+637,volcarona,volcarona,Sun Pokémon,V,144,bug/fire,85,60,65,135,105,100,550,flame-body|swarm,True,bug,,,15,70,slow,white,bug-wings,,False,False,assets/dex/volcarona.png
+638,cobalion,cobalion,Iron Will Pokémon,V,145,steel/fighting,91,90,129,90,72,108,580,justified,False,no-eggs,,,3,35,slow,blue,quadruped,,True,False,assets/dex/cobalion.png
+639,terrakion,terrakion,Cavern Pokémon,V,146,rock/fighting,91,129,90,72,90,108,580,justified,False,no-eggs,,,3,35,slow,gray,quadruped,,True,False,assets/dex/terrakion.png
+640,virizion,virizion,Grassland Pokémon,V,147,grass/fighting,91,90,72,90,129,108,580,justified,False,no-eggs,,,3,35,slow,green,quadruped,,True,False,assets/dex/virizion.png
+641,tornadus-incarnate,tornadus-incarnate,Cyclone Pokémon,V,148,flying,79,115,70,125,80,111,580,prankster|defiant,True,no-eggs,,,3,90,slow,green,arms,,True,False,assets/dex/tornadus-incarnate.png
+642,thundurus-incarnate,thundurus-incarnate,Bolt Strike Pokémon,V,149,electric/flying,79,115,70,125,80,111,580,prankster|defiant,True,no-eggs,,,3,90,slow,blue,arms,,True,False,assets/dex/thundurus-incarnate.png
+643,reshiram,reshiram,Vast White Pokémon,V,150,dragon/fire,100,120,100,150,120,90,680,turboblaze,False,no-eggs,,,3,0,slow,white,wings,,True,False,assets/dex/reshiram.png
+644,zekrom,zekrom,Deep Black Pokémon,V,151,dragon/electric,100,150,120,120,100,90,680,teravolt,False,no-eggs,,,3,0,slow,black,upright,,True,False,assets/dex/zekrom.png
+645,landorus-incarnate,landorus-incarnate,Abundance Pokémon,V,152,ground/flying,89,125,90,115,80,101,600,sand-force|sheer-force,True,no-eggs,,,3,90,slow,brown,arms,,True,False,assets/dex/landorus-incarnate.png
+646,kyurem,kyurem,Boundary Pokémon,V,153,dragon/ice,125,130,90,130,90,95,660,pressure,False,no-eggs,,,3,0,slow,gray,upright,,True,False,assets/dex/kyurem.png
+647,keldeo-ordinary,keldeo-ordinary,Colt Pokémon,V,154,water/fighting,91,72,90,129,90,108,580,justified,False,no-eggs,,,3,35,slow,yellow,quadruped,,False,True,assets/dex/keldeo-ordinary.png
+648,meloetta-aria,meloetta-aria,Melody Pokémon,V,155,normal/psychic,100,77,77,128,128,90,600,serene-grace,False,no-eggs,,,3,100,slow,white,humanoid,,False,True,assets/dex/meloetta-aria.png
+649,genesect,genesect,Paleozoic Pokémon,V,156,bug/steel,71,120,95,120,95,99,600,download,False,no-eggs,,,3,0,slow,purple,humanoid,,False,True,assets/dex/genesect.png
+650,chespin,chespin,Spiny Nut Pokémon,VI,1,grass,56,61,65,48,45,38,313,overgrow|bulletproof,True,ground,,,45,70,medium-slow,green,upright,,False,False,assets/dex/chespin.png
+651,quilladin,quilladin,Spiny Armor Pokémon,VI,2,grass,61,78,95,56,58,57,405,overgrow|bulletproof,True,ground,,,45,70,medium-slow,green,upright,,False,False,assets/dex/quilladin.png
+652,chesnaught,chesnaught,Spiny Armor Pokémon,VI,3,grass/fighting,88,107,122,74,75,64,530,overgrow|bulletproof,True,ground,,,45,70,medium-slow,green,upright,,False,False,assets/dex/chesnaught.png
+653,fennekin,fennekin,Fox Pokémon,VI,4,fire,40,45,40,62,60,60,307,blaze|magician,True,ground,,,45,70,medium-slow,red,quadruped,,False,False,assets/dex/fennekin.png
+654,braixen,braixen,Fox Pokémon,VI,5,fire,59,59,58,90,70,73,409,blaze|magician,True,ground,,,45,70,medium-slow,red,upright,,False,False,assets/dex/braixen.png
+655,delphox,delphox,Fox Pokémon,VI,6,fire/psychic,75,69,72,114,100,104,534,blaze|magician,True,ground,,,45,70,medium-slow,red,upright,,False,False,assets/dex/delphox.png
+656,froakie,froakie,Bubble Frog Pokémon,VI,7,water,41,56,40,62,44,71,314,torrent|protean,True,water1,,,45,70,medium-slow,blue,quadruped,,False,False,assets/dex/froakie.png
+657,frogadier,frogadier,Bubble Frog Pokémon,VI,8,water,54,63,52,83,56,97,405,torrent|protean,True,water1,,,45,70,medium-slow,blue,humanoid,,False,False,assets/dex/frogadier.png
+658,greninja,greninja,Ninja Pokémon,VI,9,water/dark,72,95,67,103,71,122,530,torrent|protean,True,water1,,,45,70,medium-slow,blue,humanoid,,False,False,assets/dex/greninja.png
+659,bunnelby,bunnelby,Digging Pokémon,VI,10,normal,38,36,38,32,36,57,237,pickup|cheek-pouch|huge-power,True,ground,,,255,70,medium,brown,upright,,False,False,assets/dex/bunnelby.png
+660,diggersby,diggersby,Digging Pokémon,VI,11,normal/ground,85,56,77,50,77,78,423,pickup|cheek-pouch|huge-power,True,ground,,,127,70,medium,brown,upright,,False,False,assets/dex/diggersby.png
+661,fletchling,fletchling,Tiny Robin Pokémon,VI,12,normal/flying,45,50,43,40,38,62,278,big-pecks|gale-wings,True,flying,,,255,70,medium-slow,red,wings,,False,False,assets/dex/fletchling.png
+662,fletchinder,fletchinder,Ember Pokémon,VI,13,fire/flying,62,73,55,56,52,84,382,flame-body|gale-wings,True,flying,,,120,70,medium-slow,red,wings,,False,False,assets/dex/fletchinder.png
+663,talonflame,talonflame,Scorching Pokémon,VI,14,fire/flying,78,81,71,74,69,126,499,flame-body|gale-wings,True,flying,,,45,70,medium-slow,red,wings,,False,False,assets/dex/talonflame.png
+664,scatterbug,scatterbug,Scatterdust Pokémon,VI,15,bug,38,35,40,27,25,35,200,shield-dust|compound-eyes|friend-guard,True,bug,,,255,70,medium,black,armor,,False,False,assets/dex/scatterbug.png
+665,spewpa,spewpa,Scatterdust Pokémon,VI,16,bug,45,22,60,27,30,29,213,shed-skin|friend-guard,True,bug,,,120,70,medium,black,blob,,False,False,assets/dex/spewpa.png
+666,vivillon,vivillon,Scale Pokémon,VI,17,bug/flying,80,52,50,90,50,89,411,shield-dust|compound-eyes|friend-guard,True,bug,,,45,70,medium,white,bug-wings,,False,False,assets/dex/vivillon.png
+667,litleo,litleo,Lion Cub Pokémon,VI,18,fire/normal,62,50,58,73,54,72,369,rivalry|unnerve|moxie,True,ground,,,220,70,medium-slow,brown,quadruped,,False,False,assets/dex/litleo.png
+668,pyroar-male,pyroar-male,Royal Pokémon,VI,19,fire/normal,86,68,72,109,66,106,507,rivalry|unnerve|moxie,True,ground,,,65,70,medium-slow,brown,quadruped,,False,False,assets/dex/pyroar-male.png
+669,flabebe,flabebe,Single Bloom Pokémon,VI,20,fairy,44,38,39,61,79,42,303,flower-veil|symbiosis,True,fairy,,,225,70,medium,white,arms,,False,False,assets/dex/flabebe.png
+670,floette,floette,Single Bloom Pokémon,VI,21,fairy,54,45,47,75,98,52,371,flower-veil|symbiosis,True,fairy,,,120,70,medium,white,arms,,False,False,assets/dex/floette.png
+671,florges,florges,Garden Pokémon,VI,22,fairy,78,65,68,112,154,75,552,flower-veil|symbiosis,True,fairy,,,45,70,medium,white,arms,,False,False,assets/dex/florges.png
+672,skiddo,skiddo,Mount Pokémon,VI,23,grass,66,65,48,62,57,52,350,sap-sipper|grass-pelt,True,ground,,,200,70,medium,brown,quadruped,,False,False,assets/dex/skiddo.png
+673,gogoat,gogoat,Mount Pokémon,VI,24,grass,123,100,62,97,81,68,531,sap-sipper|grass-pelt,True,ground,,,45,70,medium,brown,quadruped,,False,False,assets/dex/gogoat.png
+674,pancham,pancham,Playful Pokémon,VI,25,fighting,67,82,62,46,48,43,348,iron-fist|mold-breaker|scrappy,True,ground|humanshape,,,220,70,medium,white,upright,,False,False,assets/dex/pancham.png
+675,pangoro,pangoro,Daunting Pokémon,VI,26,fighting/dark,95,124,78,69,71,58,495,iron-fist|mold-breaker|scrappy,True,ground|humanshape,,,65,70,medium,white,humanoid,,False,False,assets/dex/pangoro.png
+676,furfrou,furfrou,Poodle Pokémon,VI,27,normal,75,80,60,65,90,102,472,fur-coat,False,ground,,,160,70,medium,white,quadruped,,False,False,assets/dex/furfrou.png
+677,espurr,espurr,Restraint Pokémon,VI,28,psychic,62,48,54,63,60,68,355,keen-eye|infiltrator|own-tempo,True,ground,,,190,70,medium,gray,upright,,False,False,assets/dex/espurr.png
+678,meowstic-male,meowstic-male,Constraint Pokémon,VI,29,psychic,74,48,76,83,81,104,466,keen-eye|infiltrator|prankster,True,ground,,,75,70,medium,blue,upright,,False,False,assets/dex/meowstic-male.png
+679,honedge,honedge,Sword Pokémon,VI,30,steel/ghost,45,80,100,35,37,28,325,no-guard,False,mineral,,,180,70,medium,brown,blob,,False,False,assets/dex/honedge.png
+680,doublade,doublade,Sword Pokémon,VI,31,steel/ghost,59,110,150,45,49,35,448,no-guard,False,mineral,,,90,70,medium,brown,heads,,False,False,assets/dex/doublade.png
+681,aegislash-shield,aegislash-shield,Royal Sword Pokémon,VI,32,steel/ghost,60,50,140,50,140,60,500,stance-change,False,mineral,,,45,70,medium,brown,blob,,False,False,assets/dex/aegislash-shield.png
+682,spritzee,spritzee,Perfume Pokémon,VI,33,fairy,78,52,60,63,65,23,341,healer|aroma-veil,True,fairy,,,200,70,medium,pink,arms,,False,False,assets/dex/spritzee.png
+683,aromatisse,aromatisse,Fragrance Pokémon,VI,34,fairy,101,72,72,99,89,29,462,healer|aroma-veil,True,fairy,,,140,70,medium,pink,humanoid,,False,False,assets/dex/aromatisse.png
+684,swirlix,swirlix,Cotton Candy Pokémon,VI,35,fairy,62,48,66,59,57,49,341,sweet-veil|unburden,True,fairy,,,200,70,medium,white,legs,,False,False,assets/dex/swirlix.png
+685,slurpuff,slurpuff,Meringue Pokémon,VI,36,fairy,82,80,86,85,75,72,480,sweet-veil|unburden,True,fairy,,,140,70,medium,white,humanoid,,False,False,assets/dex/slurpuff.png
+686,inkay,inkay,Revolving Pokémon,VI,37,dark/psychic,53,54,53,37,46,45,288,contrary|suction-cups|infiltrator,True,water1|water2,,,190,70,medium,blue,tentacles,,False,False,assets/dex/inkay.png
+687,malamar,malamar,Overturning Pokémon,VI,38,dark/psychic,86,92,88,68,75,73,482,contrary|suction-cups|infiltrator,True,water1|water2,,,80,70,medium,blue,blob,,False,False,assets/dex/malamar.png
+688,binacle,binacle,Two-Handed Pokémon,VI,39,rock/water,42,52,67,39,56,50,306,tough-claws|sniper|pickpocket,True,water3,,,120,70,medium,brown,heads,,False,False,assets/dex/binacle.png
+689,barbaracle,barbaracle,Collective Pokémon,VI,40,rock/water,72,105,115,54,86,68,500,tough-claws|sniper|pickpocket,True,water3,,,45,70,medium,brown,heads,,False,False,assets/dex/barbaracle.png
+690,skrelp,skrelp,Mock Kelp Pokémon,VI,41,poison/water,50,60,60,60,60,30,320,poison-point|poison-touch|adaptability,True,water1|dragon,,,225,70,medium,brown,blob,,False,False,assets/dex/skrelp.png
+691,dragalge,dragalge,Mock Kelp Pokémon,VI,42,poison/dragon,65,75,90,97,123,44,494,poison-point|poison-touch|adaptability,True,water1|dragon,,,55,70,medium,brown,blob,,False,False,assets/dex/dragalge.png
+692,clauncher,clauncher,Water Gun Pokémon,VI,43,water,50,53,62,58,63,44,330,mega-launcher,False,water1|water3,,,225,70,slow,blue,armor,,False,False,assets/dex/clauncher.png
+693,clawitzer,clawitzer,Howitzer Pokémon,VI,44,water,71,73,88,120,89,59,500,mega-launcher,False,water1|water3,,,55,70,slow,blue,squiggle,,False,False,assets/dex/clawitzer.png
+694,helioptile,helioptile,Generator Pokémon,VI,45,electric/normal,44,38,33,61,43,70,289,dry-skin|sand-veil|solar-power,True,monster|dragon,,,190,70,medium,yellow,upright,,False,False,assets/dex/helioptile.png
+695,heliolisk,heliolisk,Generator Pokémon,VI,46,electric/normal,62,55,52,109,94,109,481,dry-skin|sand-veil|solar-power,True,monster|dragon,,,75,70,medium,yellow,upright,,False,False,assets/dex/heliolisk.png
+696,tyrunt,tyrunt,Royal Heir Pokémon,VI,47,rock/dragon,58,89,77,45,45,48,362,strong-jaw|sturdy,True,monster|dragon,,,45,70,medium,brown,upright,,False,False,assets/dex/tyrunt.png
+697,tyrantrum,tyrantrum,Despot Pokémon,VI,48,rock/dragon,82,121,119,69,59,71,521,strong-jaw|rock-head,True,monster|dragon,,,45,70,medium,red,upright,,False,False,assets/dex/tyrantrum.png
+698,amaura,amaura,Tundra Pokémon,VI,49,rock/ice,77,59,50,67,63,46,362,refrigerate|snow-warning,True,monster,,,45,70,medium,blue,quadruped,,False,False,assets/dex/amaura.png
+699,aurorus,aurorus,Tundra Pokémon,VI,50,rock/ice,123,77,72,99,92,58,521,refrigerate|snow-warning,True,monster,,,45,70,medium,blue,quadruped,,False,False,assets/dex/aurorus.png
+700,sylveon,sylveon,Intertwining Pokémon,VI,51,fairy,95,65,65,110,130,60,525,cute-charm|pixilate,True,ground,,,45,70,medium,pink,quadruped,,False,False,assets/dex/sylveon.png
+701,hawlucha,hawlucha,Wrestling Pokémon,VI,52,fighting/flying,78,92,75,74,63,118,500,limber|unburden|mold-breaker,True,flying|humanshape,,,100,70,medium,green,humanoid,,False,False,assets/dex/hawlucha.png
+702,dedenne,dedenne,Antenna Pokémon,VI,53,electric/fairy,67,58,57,81,67,101,431,cheek-pouch|pickup|plus,True,ground|fairy,,,180,70,medium,yellow,upright,,False,False,assets/dex/dedenne.png
+703,carbink,carbink,Jewel Pokémon,VI,54,rock/fairy,50,50,150,50,150,50,500,clear-body|sturdy,True,fairy|mineral,,,60,70,slow,gray,ball,,False,False,assets/dex/carbink.png
+704,goomy,goomy,Soft Tissue Pokémon,VI,55,dragon,45,50,35,55,75,40,300,sap-sipper|hydration|gooey,True,dragon,,,45,35,slow,purple,squiggle,,False,False,assets/dex/goomy.png
+705,sliggoo,sliggoo,Soft Tissue Pokémon,VI,56,dragon,68,75,53,83,113,60,452,sap-sipper|hydration|gooey,True,dragon,,,45,35,slow,purple,squiggle,,False,False,assets/dex/sliggoo.png
+706,goodra,goodra,Dragon Pokémon,VI,57,dragon,90,100,70,110,150,80,600,sap-sipper|hydration|gooey,True,dragon,,,45,35,slow,purple,upright,,False,False,assets/dex/goodra.png
+707,klefki,klefki,Key Ring Pokémon,VI,58,steel/fairy,57,80,91,80,87,75,470,prankster|magician,True,mineral,,,75,70,fast,gray,ball,,False,False,assets/dex/klefki.png
+708,phantump,phantump,Stump Pokémon,VI,59,ghost/grass,43,70,48,50,60,38,309,natural-cure|frisk|harvest,True,plant|indeterminate,,,120,70,medium,brown,arms,,False,False,assets/dex/phantump.png
+709,trevenant,trevenant,Elder Tree Pokémon,VI,60,ghost/grass,85,110,76,65,82,56,474,natural-cure|frisk|harvest,True,plant|indeterminate,,,60,70,medium,brown,tentacles,,False,False,assets/dex/trevenant.png
+710,pumpkaboo-average,pumpkaboo-average,Pumpkin Pokémon,VI,61,ghost/grass,49,66,70,44,55,51,335,pickup|frisk|insomnia,True,indeterminate,,,120,70,medium,brown,ball,,False,False,assets/dex/pumpkaboo-average.png
+711,gourgeist-average,gourgeist-average,Pumpkin Pokémon,VI,62,ghost/grass,65,90,122,58,75,84,494,pickup|frisk|insomnia,True,indeterminate,,,60,70,medium,brown,blob,,False,False,assets/dex/gourgeist-average.png
+712,bergmite,bergmite,Ice Chunk Pokémon,VI,63,ice,55,69,85,32,35,28,304,own-tempo|ice-body|sturdy,True,monster|mineral,,,190,70,medium,blue,quadruped,,False,False,assets/dex/bergmite.png
+713,avalugg,avalugg,Iceberg Pokémon,VI,64,ice,95,117,184,44,46,28,514,own-tempo|ice-body|sturdy,True,monster|mineral,,,55,70,medium,blue,quadruped,,False,False,assets/dex/avalugg.png
+714,noibat,noibat,Sound Wave Pokémon,VI,65,flying/dragon,40,30,35,45,40,55,245,frisk|infiltrator|telepathy,True,flying|dragon,,,190,70,medium,purple,wings,,False,False,assets/dex/noibat.png
+715,noivern,noivern,Sound Wave Pokémon,VI,66,flying/dragon,85,70,80,97,80,123,535,frisk|infiltrator|telepathy,True,flying|dragon,,,45,70,medium,purple,wings,,False,False,assets/dex/noivern.png
+716,xerneas,xerneas,Life Pokémon,VI,67,fairy,126,131,95,131,98,99,680,fairy-aura,False,no-eggs,,,45,0,slow,blue,quadruped,,True,False,assets/dex/xerneas.png
+717,yveltal,yveltal,Destruction Pokémon,VI,68,dark/flying,126,131,95,131,98,99,680,dark-aura,False,no-eggs,,,45,0,slow,red,wings,,True,False,assets/dex/yveltal.png
+718,zygarde-50,zygarde-50,Order Pokémon,VI,69,dragon/ground,108,100,121,81,95,95,600,aura-break,False,no-eggs,,,3,0,slow,green,squiggle,,True,False,assets/dex/zygarde-50.png
+719,diancie,diancie,Jewel Pokémon,VI,70,rock/fairy,50,100,150,100,150,50,600,clear-body,False,no-eggs,,,3,70,slow,pink,arms,,False,True,assets/dex/diancie.png
+720,hoopa,hoopa,Mischief Pokémon,VI,71,psychic/ghost,80,110,60,150,130,70,600,magician,False,no-eggs,,,3,100,slow,purple,arms,,False,True,assets/dex/hoopa.png
+721,volcanion,volcanion,Steam Pokémon,VI,72,fire/water,80,110,120,130,90,70,600,water-absorb,False,no-eggs,,,3,100,slow,brown,quadruped,,False,True,assets/dex/volcanion.png
+722,rowlet,rowlet,Grass Quill Pokémon,VII,1,grass/flying,68,55,55,50,50,42,320,overgrow|long-reach,True,flying,,,45,70,medium-slow,brown,wings,,False,False,assets/dex/rowlet.png
+723,dartrix,dartrix,Blade Quill Pokémon,VII,2,grass/flying,78,75,75,70,70,52,420,overgrow|long-reach,True,flying,,,45,70,medium-slow,brown,wings,,False,False,assets/dex/dartrix.png
+724,decidueye,decidueye,Arrow Quill Pokémon,VII,3,grass/ghost,78,107,75,100,100,70,530,overgrow|long-reach,True,flying,,,45,70,medium-slow,brown,wings,,False,False,assets/dex/decidueye.png
+725,litten,litten,Fire Cat Pokémon,VII,4,fire,45,65,40,60,40,70,320,blaze|intimidate,True,ground,,,45,70,medium-slow,red,quadruped,,False,False,assets/dex/litten.png
+726,torracat,torracat,Fire Cat Pokémon,VII,5,fire,65,85,50,80,50,90,420,blaze|intimidate,True,ground,,,45,70,medium-slow,red,quadruped,,False,False,assets/dex/torracat.png
+727,incineroar,incineroar,Heel Pokémon,VII,6,fire/dark,95,115,90,80,90,60,530,blaze|intimidate,True,ground,,,45,70,medium-slow,red,upright,,False,False,assets/dex/incineroar.png
+728,popplio,popplio,Sea Lion Pokémon,VII,7,water,50,54,54,66,56,40,320,torrent|liquid-voice,True,water1|ground,,,45,70,medium-slow,blue,fish,,False,False,assets/dex/popplio.png
+729,brionne,brionne,Pop Star Pokémon,VII,8,water,60,69,69,91,81,50,420,torrent|liquid-voice,True,water1|ground,,,45,70,medium-slow,blue,fish,,False,False,assets/dex/brionne.png
+730,primarina,primarina,Soloist Pokémon,VII,9,water/fairy,80,74,74,126,116,60,530,torrent|liquid-voice,True,water1|ground,,,45,70,medium-slow,blue,fish,,False,False,assets/dex/primarina.png
+731,pikipek,pikipek,Woodpecker Pokémon,VII,10,normal/flying,35,75,30,30,30,65,265,keen-eye|skill-link|pickup,True,flying,,,255,70,medium,black,wings,,False,False,assets/dex/pikipek.png
+732,trumbeak,trumbeak,Bugle Beak Pokémon,VII,11,normal/flying,55,85,50,40,50,75,355,keen-eye|skill-link|pickup,True,flying,,,120,70,medium,black,wings,,False,False,assets/dex/trumbeak.png
+733,toucannon,toucannon,Cannon Pokémon,VII,12,normal/flying,80,120,75,75,75,60,485,keen-eye|skill-link|sheer-force,True,flying,,,45,70,medium,black,wings,,False,False,assets/dex/toucannon.png
+734,yungoos,yungoos,Loitering Pokémon,VII,13,normal,48,70,30,30,30,45,253,stakeout|strong-jaw|adaptability,True,ground,,,255,70,medium,brown,quadruped,,False,False,assets/dex/yungoos.png
+735,gumshoos,gumshoos,Stakeout Pokémon,VII,14,normal,88,110,60,55,60,45,418,stakeout|strong-jaw|adaptability,True,ground,,,127,70,medium,brown,quadruped,,False,False,assets/dex/gumshoos.png
+736,grubbin,grubbin,Larva Pokémon,VII,15,bug,47,62,45,55,45,46,300,swarm,False,bug,,,255,70,medium,gray,armor,,False,False,assets/dex/grubbin.png
+737,charjabug,charjabug,Battery Pokémon,VII,16,bug/electric,57,82,95,55,75,36,400,battery,False,bug,,,120,70,medium,green,squiggle,,False,False,assets/dex/charjabug.png
+738,vikavolt,vikavolt,Stag Beetle Pokémon,VII,17,bug/electric,77,70,90,145,75,43,500,levitate,False,bug,,,45,70,medium,blue,armor,,False,False,assets/dex/vikavolt.png
+739,crabrawler,crabrawler,Boxing Pokémon,VII,18,fighting,47,82,57,42,47,63,338,hyper-cutter|iron-fist|anger-point,True,water3,,,225,70,medium,purple,armor,,False,False,assets/dex/crabrawler.png
+740,crabominable,crabominable,Woolly Crab Pokémon,VII,19,fighting/ice,97,132,77,62,67,43,478,hyper-cutter|iron-fist|anger-point,True,water3,,,60,70,medium,white,armor,,False,False,assets/dex/crabominable.png
+741,oricorio-baile,oricorio-baile,Dancing Pokémon,VII,20,fire/flying,75,70,70,98,70,93,476,dancer,False,flying,,,45,70,medium,red,wings,,False,False,assets/dex/oricorio-baile.png
+742,cutiefly,cutiefly,Bee Fly Pokémon,VII,21,bug/fairy,40,45,40,55,40,84,304,honey-gather|shield-dust|sweet-veil,True,bug|fairy,,,190,70,medium,yellow,armor,,False,False,assets/dex/cutiefly.png
+743,ribombee,ribombee,Bee Fly Pokémon,VII,22,bug/fairy,60,55,60,95,70,124,464,honey-gather|shield-dust|sweet-veil,True,bug|fairy,,,75,70,medium,yellow,bug-wings,,False,False,assets/dex/ribombee.png
+744,rockruff,rockruff,Puppy Pokémon,VII,23,rock,45,65,40,30,40,60,280,keen-eye|vital-spirit|steadfast,True,ground,,,190,70,medium,brown,quadruped,,False,False,assets/dex/rockruff.png
+745,lycanroc-midday,lycanroc-midday,Wolf Pokémon,VII,24,rock,75,115,65,55,65,112,487,keen-eye|sand-rush|steadfast,True,ground,,,90,70,medium,brown,quadruped,,False,False,assets/dex/lycanroc-midday.png
+746,wishiwashi-solo,wishiwashi-solo,Small Fry Pokémon,VII,25,water,45,20,20,25,25,40,175,schooling,False,water2,,,60,70,fast,blue,fish,,False,False,assets/dex/wishiwashi-solo.png
+747,mareanie,mareanie,Brutal Star Pokémon,VII,26,poison/water,50,53,62,43,52,45,305,merciless|limber|regenerator,True,water1,,,190,70,medium,blue,blob,,False,False,assets/dex/mareanie.png
+748,toxapex,toxapex,Brutal Star Pokémon,VII,27,poison/water,50,63,152,53,142,35,495,merciless|limber|regenerator,True,water1,,,75,70,medium,blue,tentacles,,False,False,assets/dex/toxapex.png
+749,mudbray,mudbray,Donkey Pokémon,VII,28,ground,70,100,70,45,55,45,385,own-tempo|stamina|inner-focus,True,ground,,,190,70,medium,brown,quadruped,,False,False,assets/dex/mudbray.png
+750,mudsdale,mudsdale,Draft Horse Pokémon,VII,29,ground,100,125,100,55,85,35,500,own-tempo|stamina|inner-focus,True,ground,,,60,70,medium,brown,quadruped,,False,False,assets/dex/mudsdale.png
+751,dewpider,dewpider,Water Bubble Pokémon,VII,30,water/bug,38,40,52,40,72,27,269,water-bubble|water-absorb,True,water1|bug,,,200,70,medium,green,legs,,False,False,assets/dex/dewpider.png
+752,araquanid,araquanid,Water Bubble Pokémon,VII,31,water/bug,68,70,92,50,132,42,454,water-bubble|water-absorb,True,water1|bug,,,100,70,medium,green,armor,,False,False,assets/dex/araquanid.png
+753,fomantis,fomantis,Sickle Grass Pokémon,VII,32,grass,40,55,35,50,35,35,250,leaf-guard|contrary,True,plant,,,190,70,medium,pink,upright,,False,False,assets/dex/fomantis.png
+754,lurantis,lurantis,Bloom Sickle Pokémon,VII,33,grass,70,105,90,80,90,45,480,leaf-guard|contrary,True,plant,,,75,70,medium,pink,humanoid,,False,False,assets/dex/lurantis.png
+755,morelull,morelull,Illuminating Pokémon,VII,34,grass/fairy,40,35,55,65,75,15,285,illuminate|effect-spore|rain-dish,True,plant,,,190,70,medium,purple,blob,,False,False,assets/dex/morelull.png
+756,shiinotic,shiinotic,Illuminating Pokémon,VII,35,grass/fairy,60,45,80,90,100,30,405,illuminate|effect-spore|rain-dish,True,plant,,,75,70,medium,purple,humanoid,,False,False,assets/dex/shiinotic.png
+757,salandit,salandit,Toxic Lizard Pokémon,VII,36,poison/fire,48,44,40,71,40,77,320,corrosion|oblivious,True,monster|dragon,,,120,70,medium,black,quadruped,,False,False,assets/dex/salandit.png
+758,salazzle,salazzle,Toxic Lizard Pokémon,VII,37,poison/fire,68,64,60,111,60,117,480,corrosion|oblivious,True,monster|dragon,,,45,70,medium,black,quadruped,,False,False,assets/dex/salazzle.png
+759,stufful,stufful,Flailing Pokémon,VII,38,normal/fighting,70,75,50,45,50,50,340,fluffy|klutz|cute-charm,True,ground,,,140,70,medium,pink,quadruped,,False,False,assets/dex/stufful.png
+760,bewear,bewear,Strong Arm Pokémon,VII,39,normal/fighting,120,125,80,55,60,60,500,fluffy|klutz|unnerve,True,ground,,,70,70,medium,pink,upright,,False,False,assets/dex/bewear.png
+761,bounsweet,bounsweet,Fruit Pokémon,VII,40,grass,42,30,38,30,38,32,210,leaf-guard|oblivious|sweet-veil,True,plant,,,235,70,medium-slow,purple,legs,,False,False,assets/dex/bounsweet.png
+762,steenee,steenee,Fruit Pokémon,VII,41,grass,52,40,48,40,48,62,290,leaf-guard|oblivious|sweet-veil,True,plant,,,120,70,medium-slow,purple,humanoid,,False,False,assets/dex/steenee.png
+763,tsareena,tsareena,Fruit Pokémon,VII,42,grass,72,120,98,50,98,72,510,leaf-guard|queenly-majesty|sweet-veil,True,plant,,,45,70,medium-slow,purple,humanoid,,False,False,assets/dex/tsareena.png
+764,comfey,comfey,Posy Picker Pokémon,VII,43,fairy,51,52,90,82,110,100,485,flower-veil|triage|natural-cure,True,plant,,,60,70,fast,green,ball,,False,False,assets/dex/comfey.png
+765,oranguru,oranguru,Sage Pokémon,VII,44,normal/psychic,90,60,80,90,110,60,490,inner-focus|telepathy|symbiosis,True,ground,,,45,70,slow,white,humanoid,,False,False,assets/dex/oranguru.png
+766,passimian,passimian,Teamwork Pokémon,VII,45,fighting,100,120,90,40,60,80,490,receiver|defiant,True,ground,,,45,70,slow,white,upright,,False,False,assets/dex/passimian.png
+767,wimpod,wimpod,Turn Tail Pokémon,VII,46,bug/water,25,35,40,20,30,80,230,wimp-out,False,bug|water3,,,90,70,medium,gray,tentacles,,False,False,assets/dex/wimpod.png
+768,golisopod,golisopod,Hard Scale Pokémon,VII,47,bug/water,75,125,140,60,90,40,530,emergency-exit,False,bug|water3,,,45,70,medium,gray,humanoid,,False,False,assets/dex/golisopod.png
+769,sandygast,sandygast,Sand Heap Pokémon,VII,48,ghost/ground,55,55,80,70,45,15,320,water-compaction|sand-veil,True,indeterminate,,,140,70,medium,brown,squiggle,,False,False,assets/dex/sandygast.png
+770,palossand,palossand,Sand Castle Pokémon,VII,49,ghost/ground,85,75,110,100,75,35,480,water-compaction|sand-veil,True,indeterminate,,,60,70,medium,brown,squiggle,,False,False,assets/dex/palossand.png
+771,pyukumuku,pyukumuku,Sea Cucumber Pokémon,VII,50,water,55,60,130,30,130,5,410,innards-out|unaware,True,water1,,,60,70,fast,black,squiggle,,False,False,assets/dex/pyukumuku.png
+772,type-null,type-null,Synthetic Pokémon,VII,51,normal,95,95,95,95,95,59,534,battle-armor,False,no-eggs,,,3,0,slow,gray,quadruped,,True,False,assets/dex/type-null.png
+773,silvally,silvally,Synthetic Pokémon,VII,52,normal,95,95,95,95,95,95,570,rks-system,False,no-eggs,,,3,0,slow,gray,quadruped,,True,False,assets/dex/silvally.png
+774,minior-red-meteor,minior-red-meteor,Meteor Pokémon,VII,53,rock/flying,60,60,100,60,100,60,440,shields-down,False,mineral,,,30,70,medium-slow,brown,ball,,False,False,assets/dex/minior-red-meteor.png
+775,komala,komala,Drowsing Pokémon,VII,54,normal,65,115,65,75,95,65,480,comatose,False,ground,,,45,70,slow,blue,humanoid,,False,False,assets/dex/komala.png
+776,turtonator,turtonator,Blast Turtle Pokémon,VII,55,fire/dragon,60,78,135,91,85,36,485,shell-armor,False,monster|dragon,,,70,70,medium,red,upright,,False,False,assets/dex/turtonator.png
+777,togedemaru,togedemaru,Roly-Poly Pokémon,VII,56,electric/steel,65,98,63,40,73,96,435,iron-barbs|lightning-rod|sturdy,True,ground|fairy,,,180,70,medium,gray,upright,,False,False,assets/dex/togedemaru.png
+778,mimikyu-disguised,mimikyu-disguised,Disguise Pokémon,VII,57,ghost/fairy,55,90,80,50,105,96,476,disguise,False,indeterminate,,,45,70,medium,yellow,squiggle,,False,False,assets/dex/mimikyu-disguised.png
+779,bruxish,bruxish,Gnash Teeth Pokémon,VII,58,water/psychic,68,105,70,70,70,92,475,dazzling|strong-jaw|wonder-skin,True,water2,,,80,70,medium,pink,fish,,False,False,assets/dex/bruxish.png
+780,drampa,drampa,Placid Pokémon,VII,59,normal/dragon,78,60,85,135,91,36,485,berserk|sap-sipper|cloud-nine,True,monster|dragon,,,70,70,medium,white,squiggle,,False,False,assets/dex/drampa.png
+781,dhelmise,dhelmise,Sea Creeper Pokémon,VII,60,ghost/grass,70,131,100,86,90,40,517,steelworker,False,mineral,,,25,70,medium,green,blob,,False,False,assets/dex/dhelmise.png
+782,jangmo-o,jangmo-o,Scaly Pokémon,VII,61,dragon,45,55,65,45,45,45,300,bulletproof|soundproof|overcoat,True,dragon,,,45,70,slow,gray,quadruped,,False,False,assets/dex/jangmo-o.png
+783,hakamo-o,hakamo-o,Scaly Pokémon,VII,62,dragon/fighting,55,75,90,65,70,65,420,bulletproof|soundproof|overcoat,True,dragon,,,45,70,slow,gray,upright,,False,False,assets/dex/hakamo-o.png
+784,kommo-o,kommo-o,Scaly Pokémon,VII,63,dragon/fighting,75,110,125,100,105,85,600,bulletproof|soundproof|overcoat,True,dragon,,,45,70,slow,gray,upright,,False,False,assets/dex/kommo-o.png
+785,tapu-koko,tapu-koko,Land Spirit Pokémon,VII,64,electric/fairy,70,115,85,95,75,130,570,electric-surge|telepathy,True,no-eggs,,,3,70,slow,yellow,arms,,True,False,assets/dex/tapu-koko.png
+786,tapu-lele,tapu-lele,Land Spirit Pokémon,VII,65,psychic/fairy,70,85,75,130,115,95,570,psychic-surge|telepathy,True,no-eggs,,,3,70,slow,pink,arms,,True,False,assets/dex/tapu-lele.png
+787,tapu-bulu,tapu-bulu,Land Spirit Pokémon,VII,66,grass/fairy,70,130,115,85,95,75,570,grassy-surge|telepathy,True,no-eggs,,,3,70,slow,red,arms,,True,False,assets/dex/tapu-bulu.png
+788,tapu-fini,tapu-fini,Land Spirit Pokémon,VII,67,water/fairy,70,75,115,95,130,85,570,misty-surge|telepathy,True,no-eggs,,,3,70,slow,purple,arms,,True,False,assets/dex/tapu-fini.png
+789,cosmog,cosmog,Nebula Pokémon,VII,68,psychic,43,29,31,29,31,37,200,unaware,False,no-eggs,,,45,0,slow,blue,ball,,True,False,assets/dex/cosmog.png
+790,cosmoem,cosmoem,Protostar Pokémon,VII,69,psychic,43,29,131,29,131,37,400,sturdy,False,no-eggs,,,45,0,slow,blue,ball,,True,False,assets/dex/cosmoem.png
+791,solgaleo,solgaleo,Sunne Pokémon,VII,70,psychic/steel,137,137,107,113,89,97,680,full-metal-body,False,no-eggs,,,45,0,slow,white,quadruped,,True,False,assets/dex/solgaleo.png
+792,lunala,lunala,Moone Pokémon,VII,71,psychic/ghost,137,113,89,137,107,97,680,shadow-shield,False,no-eggs,,,45,0,slow,purple,wings,,True,False,assets/dex/lunala.png
+793,nihilego,nihilego,Parasite Pokémon,VII,72,rock/poison,109,53,47,127,131,103,570,beast-boost,False,no-eggs,,,45,0,slow,white,tentacles,,False,False,assets/dex/nihilego.png
+794,buzzwole,buzzwole,Swollen Pokémon,VII,73,bug/fighting,107,139,139,53,53,79,570,beast-boost,False,no-eggs,,,45,0,slow,red,tentacles,,False,False,assets/dex/buzzwole.png
+795,pheromosa,pheromosa,Lissome Pokémon,VII,74,bug/fighting,71,137,37,137,37,151,570,beast-boost,False,no-eggs,,,45,0,slow,white,humanoid,,False,False,assets/dex/pheromosa.png
+796,xurkitree,xurkitree,Glowing Pokémon,VII,75,electric,83,89,71,173,71,83,570,beast-boost,False,no-eggs,,,45,0,slow,black,upright,,False,False,assets/dex/xurkitree.png
+797,celesteela,celesteela,Launch Pokémon,VII,76,steel/flying,97,101,103,107,101,61,570,beast-boost,False,no-eggs,,,45,0,slow,green,humanoid,,False,False,assets/dex/celesteela.png
+798,kartana,kartana,Drawn Sword Pokémon,VII,77,grass/steel,59,181,131,59,31,109,570,beast-boost,False,no-eggs,,,45,0,slow,white,humanoid,,False,False,assets/dex/kartana.png
+799,guzzlord,guzzlord,Junkivore Pokémon,VII,78,dark/dragon,223,101,53,97,53,43,570,beast-boost,False,no-eggs,,,45,0,slow,black,upright,,False,False,assets/dex/guzzlord.png
+800,necrozma,necrozma,Prism Pokémon,VII,79,psychic,97,107,101,127,89,79,600,prism-armor,False,no-eggs,,,255,0,slow,black,arms,,True,False,assets/dex/necrozma.png
+801,magearna,magearna,Artificial Pokémon,VII,80,steel/fairy,80,95,115,130,115,65,600,soul-heart,False,no-eggs,,,3,0,slow,gray,humanoid,,False,True,assets/dex/magearna.png
+802,marshadow,marshadow,Gloomdweller Pokémon,VII,81,fighting/ghost,90,125,80,90,90,125,600,technician,False,no-eggs,,,3,0,slow,gray,humanoid,,False,True,assets/dex/marshadow.png
+803,poipole,poipole,Poison Pin Pokémon,VII,82,poison,67,73,67,73,67,73,420,beast-boost,False,no-eggs,,,45,0,slow,purple,upright,,False,False,assets/dex/poipole.png
+804,naganadel,naganadel,Poison Pin Pokémon,VII,83,poison/dragon,73,73,73,127,73,121,540,beast-boost,False,no-eggs,,,45,0,slow,purple,wings,,False,False,assets/dex/naganadel.png
+805,stakataka,stakataka,Rampart Pokémon,VII,84,rock/steel,61,131,211,53,101,13,570,beast-boost,False,no-eggs,,,30,0,slow,gray,quadruped,,False,False,assets/dex/stakataka.png
+806,blacephalon,blacephalon,Fireworks Pokémon,VII,85,fire/ghost,53,127,53,151,79,107,570,beast-boost,False,no-eggs,,,30,0,slow,white,humanoid,,False,False,assets/dex/blacephalon.png
+807,zeraora,zeraora,Thunderclap Pokémon,VII,86,electric,88,112,75,102,80,143,600,volt-absorb,False,no-eggs,,,3,0,slow,yellow,humanoid,,False,True,assets/dex/zeraora.png
+808,meltan,meltan,Hex Nut Pokémon,VII,87,steel,46,65,65,55,35,34,300,magnet-pull,False,no-eggs,,,3,0,slow,gray,ball,,False,True,assets/dex/meltan.png
+809,melmetal,melmetal,Hex Nut Pokémon,VII,88,steel,135,143,143,80,65,34,600,iron-fist,False,no-eggs,,,3,0,slow,gray,humanoid,,False,True,assets/dex/melmetal.png
+810,grookey,grookey,Chimp Pokémon,VIII,1,grass,50,65,50,40,40,65,310,overgrow|grassy-surge,True,ground|plant,,,45,50,medium-slow,green,upright,,False,False,assets/dex/grookey.png
+811,thwackey,thwackey,Beat Pokémon,VIII,2,grass,70,85,70,55,60,80,420,overgrow|grassy-surge,True,ground|plant,,,45,50,medium-slow,green,upright,,False,False,assets/dex/thwackey.png
+812,rillaboom,rillaboom,Drummer Pokémon,VIII,3,grass,100,125,90,60,70,85,530,overgrow|grassy-surge,True,ground|plant,,,45,50,medium-slow,green,humanoid,,False,False,assets/dex/rillaboom.png
+813,scorbunny,scorbunny,Rabbit Pokémon,VIII,4,fire,50,71,40,40,40,69,310,blaze|libero,True,ground|humanshape,,,45,50,medium-slow,white,upright,,False,False,assets/dex/scorbunny.png
+814,raboot,raboot,Rabbit Pokémon,VIII,5,fire,65,86,60,55,60,94,420,blaze|libero,True,ground|humanshape,,,45,50,medium-slow,gray,upright,,False,False,assets/dex/raboot.png
+815,cinderace,cinderace,Striker Pokémon,VIII,6,fire,80,116,75,65,75,119,530,blaze|libero,True,ground|humanshape,,,45,50,medium-slow,white,upright,,False,False,assets/dex/cinderace.png
+816,sobble,sobble,Water Lizard Pokémon,VIII,7,water,50,40,40,70,40,70,310,torrent|sniper,True,water1|ground,,,45,50,medium-slow,blue,quadruped,,False,False,assets/dex/sobble.png
+817,drizzile,drizzile,Water Lizard Pokémon,VIII,8,water,65,60,55,95,55,90,420,torrent|sniper,True,water1|ground,,,45,50,medium-slow,blue,upright,,False,False,assets/dex/drizzile.png
+818,inteleon,inteleon,Secret Agent Pokémon,VIII,9,water,70,85,65,125,65,120,530,torrent|sniper,True,water1|ground,,,45,50,medium-slow,blue,upright,,False,False,assets/dex/inteleon.png
+819,skwovet,skwovet,Cheeky Pokémon,VIII,10,normal,70,55,55,35,35,25,275,cheek-pouch|gluttony,True,ground,,,255,50,medium,brown,upright,,False,False,assets/dex/skwovet.png
+820,greedent,greedent,Greedy Pokémon,VIII,11,normal,120,95,95,55,75,20,460,cheek-pouch|gluttony,True,ground,,,90,50,medium,brown,upright,,False,False,assets/dex/greedent.png
+821,rookidee,rookidee,Tiny Bird Pokémon,VIII,12,flying,38,47,35,33,35,57,245,keen-eye|unnerve|big-pecks,True,flying,,,255,50,medium-slow,blue,wings,,False,False,assets/dex/rookidee.png
+822,corvisquire,corvisquire,Raven Pokémon,VIII,13,flying,68,67,55,43,55,77,365,keen-eye|unnerve|big-pecks,True,flying,,,120,50,medium-slow,blue,wings,,False,False,assets/dex/corvisquire.png
+823,corviknight,corviknight,Raven Pokémon,VIII,14,flying/steel,98,87,105,53,85,67,495,pressure|unnerve|mirror-armor,True,flying,,,45,50,medium-slow,purple,wings,,False,False,assets/dex/corviknight.png
+824,blipbug,blipbug,Larva Pokémon,VIII,15,bug,25,20,20,25,45,45,180,swarm|compound-eyes|telepathy,True,bug,,,255,50,medium,blue,armor,,False,False,assets/dex/blipbug.png
+825,dottler,dottler,Radome Pokémon,VIII,16,bug/psychic,50,35,80,50,90,30,335,swarm|compound-eyes|telepathy,True,bug,,,120,50,medium,yellow,armor,,False,False,assets/dex/dottler.png
+826,orbeetle,orbeetle,Seven Spot Pokémon,VIII,17,bug/psychic,60,45,110,80,120,90,505,swarm|frisk|telepathy,True,bug,,,45,50,medium,red,wings,,False,False,assets/dex/orbeetle.png
+827,nickit,nickit,Fox Pokémon,VIII,18,dark,40,28,28,47,52,50,245,run-away|unburden|stakeout,True,ground,,,255,50,fast,brown,quadruped,,False,False,assets/dex/nickit.png
+828,thievul,thievul,Fox Pokémon,VIII,19,dark,70,58,58,87,92,90,455,run-away|unburden|stakeout,True,ground,,,127,50,fast,brown,quadruped,,False,False,assets/dex/thievul.png
+829,gossifleur,gossifleur,Flowering Pokémon,VIII,20,grass,40,40,60,40,60,10,250,cotton-down|regenerator|effect-spore,True,plant,,,190,50,medium,green,blob,,False,False,assets/dex/gossifleur.png
+830,eldegoss,eldegoss,Cotton Bloom Pokémon,VIII,21,grass,60,50,90,80,120,60,460,cotton-down|regenerator|effect-spore,True,plant,,,75,50,medium,green,blob,,False,False,assets/dex/eldegoss.png
+831,wooloo,wooloo,Sheep Pokémon,VIII,22,normal,42,40,55,40,45,48,270,fluffy|run-away|bulletproof,True,ground,,,255,50,medium,white,quadruped,,False,False,assets/dex/wooloo.png
+832,dubwool,dubwool,Sheep Pokémon,VIII,23,normal,72,80,100,60,90,88,490,fluffy|steadfast|bulletproof,True,ground,,,127,50,medium,white,quadruped,,False,False,assets/dex/dubwool.png
+833,chewtle,chewtle,Snapping Pokémon,VIII,24,water,50,64,50,38,38,44,284,strong-jaw|shell-armor|swift-swim,True,monster|water1,,,255,50,medium,green,quadruped,,False,False,assets/dex/chewtle.png
+834,drednaw,drednaw,Bite Pokémon,VIII,25,water/rock,90,115,90,48,68,74,485,strong-jaw|shell-armor|swift-swim,True,monster|water1,,,75,50,medium,green,quadruped,,False,False,assets/dex/drednaw.png
+835,yamper,yamper,Puppy Pokémon,VIII,26,electric,59,45,50,40,50,26,270,ball-fetch|rattled,True,ground,,,255,50,fast,yellow,quadruped,,False,False,assets/dex/yamper.png
+836,boltund,boltund,Dog Pokémon,VIII,27,electric,69,90,60,90,60,121,490,strong-jaw|competitive,True,ground,,,45,50,fast,yellow,quadruped,,False,False,assets/dex/boltund.png
+837,rolycoly,rolycoly,Coal Pokémon,VIII,28,rock,30,40,50,40,50,30,240,steam-engine|heatproof|flash-fire,True,mineral,,,255,50,medium-slow,black,ball,,False,False,assets/dex/rolycoly.png
+838,carkol,carkol,Coal Pokémon,VIII,29,rock/fire,80,60,90,60,70,50,410,steam-engine|flame-body|flash-fire,True,mineral,,,120,50,medium-slow,black,legs,,False,False,assets/dex/carkol.png
+839,coalossal,coalossal,Coal Pokémon,VIII,30,rock/fire,110,80,120,80,90,30,510,steam-engine|flame-body|flash-fire,True,mineral,,,45,50,medium-slow,black,humanoid,,False,False,assets/dex/coalossal.png
+840,applin,applin,Apple Core Pokémon,VIII,31,grass/dragon,40,40,80,40,40,20,260,ripen|gluttony|bulletproof,True,plant|dragon,,,255,50,slow-then-very-fast,green,squiggle,,False,False,assets/dex/applin.png
+841,flapple,flapple,Apple Wing Pokémon,VIII,32,grass/dragon,70,110,80,95,60,70,485,ripen|gluttony|hustle,True,plant|dragon,,,45,50,slow-then-very-fast,green,wings,,False,False,assets/dex/flapple.png
+842,appletun,appletun,Apple Nectar Pokémon,VIII,33,grass/dragon,110,85,80,100,80,30,485,ripen|gluttony|thick-fat,True,plant|dragon,,,45,50,slow-then-very-fast,green,quadruped,,False,False,assets/dex/appletun.png
+843,silicobra,silicobra,Sand Snake Pokémon,VIII,34,ground,52,57,75,35,50,46,315,sand-spit|shed-skin|sand-veil,True,ground|dragon,,,255,50,medium,green,squiggle,,False,False,assets/dex/silicobra.png
+844,sandaconda,sandaconda,Sand Snake Pokémon,VIII,35,ground,72,107,125,65,70,71,510,sand-spit|shed-skin|sand-veil,True,ground|dragon,,,120,50,medium,green,squiggle,,False,False,assets/dex/sandaconda.png
+845,cramorant,cramorant,Gulp Pokémon,VIII,36,flying/water,70,85,55,85,95,85,475,gulp-missile,False,water1|flying,,,45,50,medium,blue,wings,,False,False,assets/dex/cramorant.png
+846,arrokuda,arrokuda,Rush Pokémon,VIII,37,water,41,63,40,40,30,66,280,swift-swim|propeller-tail,True,water2,,,255,50,slow,brown,fish,,False,False,assets/dex/arrokuda.png
+847,barraskewda,barraskewda,Skewer Pokémon,VIII,38,water,61,123,60,60,50,136,490,swift-swim|propeller-tail,True,water2,,,60,50,slow,brown,fish,,False,False,assets/dex/barraskewda.png
+848,toxel,toxel,Baby Pokémon,VIII,39,electric/poison,40,38,35,54,35,40,242,rattled|static|klutz,True,no-eggs,,,75,50,medium-slow,purple,upright,,False,False,assets/dex/toxel.png
+849,toxtricity-amped,toxtricity-amped,Punk Pokémon,VIII,40,electric/poison,75,98,70,114,70,75,502,punk-rock|plus|technician,True,humanshape,,,45,50,medium-slow,purple,upright,,False,False,assets/dex/toxtricity-amped.png
+850,sizzlipede,sizzlipede,Radiator Pokémon,VIII,41,fire/bug,50,65,45,50,50,45,305,flash-fire|white-smoke|flame-body,True,bug,,,190,50,medium,red,tentacles,,False,False,assets/dex/sizzlipede.png
+851,centiskorch,centiskorch,Radiator Pokémon,VIII,42,fire/bug,100,115,65,90,90,65,525,flash-fire|white-smoke|flame-body,True,bug,,,75,50,medium,red,tentacles,,False,False,assets/dex/centiskorch.png
+852,clobbopus,clobbopus,Tantrum Pokémon,VIII,43,fighting,50,68,60,50,50,32,310,limber|technician,True,water1|humanshape,,,180,50,medium-slow,brown,tentacles,,False,False,assets/dex/clobbopus.png
+853,grapploct,grapploct,Jujitsu Pokémon,VIII,44,fighting,80,118,90,70,80,42,480,limber|technician,True,water1|humanshape,,,45,50,medium-slow,blue,tentacles,,False,False,assets/dex/grapploct.png
+854,sinistea,sinistea,Black Tea Pokémon,VIII,45,ghost,40,45,45,74,54,50,308,weak-armor|cursed-body,True,mineral|indeterminate,,,120,50,medium,purple,ball,,False,False,assets/dex/sinistea.png
+855,polteageist,polteageist,Black Tea Pokémon,VIII,46,ghost,60,65,65,134,114,70,508,weak-armor|cursed-body,True,mineral|indeterminate,,,60,50,medium,purple,ball,,False,False,assets/dex/polteageist.png
+856,hatenna,hatenna,Calm Pokémon,VIII,47,psychic,42,30,45,56,53,39,265,healer|anticipation|magic-bounce,True,fairy,,,235,50,slow,pink,legs,,False,False,assets/dex/hatenna.png
+857,hattrem,hattrem,Serene Pokémon,VIII,48,psychic,57,40,65,86,73,49,370,healer|anticipation|magic-bounce,True,fairy,,,120,50,slow,pink,humanoid,,False,False,assets/dex/hattrem.png
+858,hatterene,hatterene,Silent Pokémon,VIII,49,psychic/fairy,57,90,95,136,103,29,510,healer|anticipation|magic-bounce,True,fairy,,,45,50,slow,pink,blob,,False,False,assets/dex/hatterene.png
+859,impidimp,impidimp,Wily Pokémon,VIII,50,dark/fairy,45,45,30,55,40,50,265,prankster|frisk|pickpocket,True,fairy|humanshape,,,255,50,medium,pink,humanoid,,False,False,assets/dex/impidimp.png
+860,morgrem,morgrem,Devious Pokémon,VIII,51,dark/fairy,65,60,45,75,55,70,370,prankster|frisk|pickpocket,True,fairy|humanshape,,,120,50,medium,pink,humanoid,,False,False,assets/dex/morgrem.png
+861,grimmsnarl,grimmsnarl,Bulk Up Pokémon,VIII,52,dark/fairy,95,120,65,95,75,60,510,prankster|frisk|pickpocket,True,fairy|humanshape,,,45,50,medium,purple,humanoid,,False,False,assets/dex/grimmsnarl.png
+862,obstagoon,obstagoon,Blocking Pokémon,VIII,53,dark/normal,93,90,101,60,81,95,520,reckless|guts|defiant,True,ground,,,45,50,medium,gray,upright,,False,False,assets/dex/obstagoon.png
+863,perrserker,perrserker,Viking Pokémon,VIII,54,steel,70,110,100,50,60,50,440,battle-armor|tough-claws|steely-spirit,True,ground,,,90,50,medium,brown,upright,,False,False,assets/dex/perrserker.png
+864,cursola,cursola,Coral Pokémon,VIII,55,ghost,60,95,50,145,130,30,510,weak-armor|perish-body,True,water1|water3,,,30,50,fast,white,arms,,False,False,assets/dex/cursola.png
+865,sirfetchd,sirfetchd,Wild Duck Pokémon,VIII,56,fighting,62,135,95,68,82,65,507,steadfast|scrappy,True,flying|ground,,,45,50,medium,white,wings,,False,False,assets/dex/sirfetchd.png
+866,mr-rime,mr-rime,Comedian Pokémon,VIII,57,ice/psychic,80,85,75,110,100,70,520,tangled-feet|screen-cleaner|ice-body,True,humanshape,,,45,50,medium,purple,humanoid,,False,False,assets/dex/mr-rime.png
+867,runerigus,runerigus,Grudge Pokémon,VIII,58,ground/ghost,58,95,145,50,105,30,483,wandering-spirit,False,mineral|indeterminate,,,90,50,medium,gray,blob,,False,False,assets/dex/runerigus.png
+868,milcery,milcery,Cream Pokémon,VIII,59,fairy,45,40,40,50,61,34,270,sweet-veil|aroma-veil,True,fairy|indeterminate,,,200,50,medium,white,ball,,False,False,assets/dex/milcery.png
+869,alcremie,alcremie,Cream Pokémon,VIII,60,fairy,65,60,75,110,121,64,495,sweet-veil|aroma-veil,True,fairy|indeterminate,,,100,50,medium,white,blob,,False,False,assets/dex/alcremie.png
+870,falinks,falinks,Formation Pokémon,VIII,61,fighting,65,100,100,70,60,75,470,battle-armor|defiant,True,fairy|mineral,,,45,50,medium,yellow,heads,,False,False,assets/dex/falinks.png
+871,pincurchin,pincurchin,Sea Urchin Pokémon,VIII,62,electric,48,101,95,91,85,15,435,lightning-rod|electric-surge,True,water1|indeterminate,,,75,50,medium,purple,tentacles,,False,False,assets/dex/pincurchin.png
+872,snom,snom,Worm Pokémon,VIII,63,ice/bug,30,25,35,45,30,20,185,shield-dust|ice-scales,True,bug,,,190,50,medium,white,squiggle,,False,False,assets/dex/snom.png
+873,frosmoth,frosmoth,Frost Moth Pokémon,VIII,64,ice/bug,70,65,60,125,90,65,475,shield-dust|ice-scales,True,bug,,,75,50,medium,white,bug-wings,,False,False,assets/dex/frosmoth.png
+874,stonjourner,stonjourner,Big Rock Pokémon,VIII,65,rock,100,125,135,20,20,70,470,power-spot,False,mineral,,,60,50,slow,gray,legs,,False,False,assets/dex/stonjourner.png
+875,eiscue-ice,eiscue-ice,Penguin Pokémon,VIII,66,ice,75,80,110,65,90,50,470,ice-face,False,water1|ground,,,60,50,slow,blue,upright,,False,False,assets/dex/eiscue-ice.png
+876,indeedee-male,indeedee-male,Emotion Pokémon,VIII,67,psychic/normal,60,65,55,105,95,95,475,inner-focus|synchronize|psychic-surge,True,fairy,,,30,140,fast,purple,upright,,False,False,assets/dex/indeedee-male.png
+877,morpeko-full-belly,morpeko-full-belly,Two-Sided Pokémon,VIII,68,electric/dark,58,95,58,70,58,97,436,hunger-switch,False,ground|fairy,,,180,50,medium,yellow,humanoid,,False,False,assets/dex/morpeko-full-belly.png
+878,cufant,cufant,Copperderm Pokémon,VIII,69,steel,72,80,49,40,49,40,330,sheer-force|heavy-metal,True,ground|mineral,,,190,50,medium,yellow,quadruped,,False,False,assets/dex/cufant.png
+879,copperajah,copperajah,Copperderm Pokémon,VIII,70,steel,122,130,69,80,69,30,500,sheer-force|heavy-metal,True,ground|mineral,,,90,50,medium,green,quadruped,,False,False,assets/dex/copperajah.png
+880,dracozolt,dracozolt,Fossil Pokémon,VIII,71,electric/dragon,90,100,90,80,70,75,505,volt-absorb|hustle|sand-rush,True,no-eggs,,,45,50,slow,green,upright,,False,False,assets/dex/dracozolt.png
+881,arctozolt,arctozolt,Fossil Pokémon,VIII,72,electric/ice,90,100,90,90,80,55,505,volt-absorb|static|slush-rush,True,no-eggs,,,45,50,slow,blue,upright,,False,False,assets/dex/arctozolt.png
+882,dracovish,dracovish,Fossil Pokémon,VIII,73,water/dragon,90,90,100,70,80,75,505,water-absorb|strong-jaw|sand-rush,True,no-eggs,,,45,50,slow,green,legs,,False,False,assets/dex/dracovish.png
+883,arctovish,arctovish,Fossil Pokémon,VIII,74,water/ice,90,90,100,80,90,55,505,water-absorb|ice-body|slush-rush,True,no-eggs,,,45,50,slow,blue,fish,,False,False,assets/dex/arctovish.png
+884,duraludon,duraludon,Alloy Pokémon,VIII,75,steel/dragon,70,95,115,120,50,85,535,light-metal|heavy-metal|stalwart,True,mineral|dragon,,,45,50,medium,white,upright,,False,False,assets/dex/duraludon.png
+885,dreepy,dreepy,Lingering Pokémon,VIII,76,dragon/ghost,28,60,30,40,30,82,270,clear-body|infiltrator|cursed-body,True,indeterminate|dragon,,,45,50,slow,green,squiggle,,False,False,assets/dex/dreepy.png
+886,drakloak,drakloak,Caretaker Pokémon,VIII,77,dragon/ghost,68,80,50,60,50,102,410,clear-body|infiltrator|cursed-body,True,indeterminate|dragon,,,45,50,slow,green,arms,,False,False,assets/dex/drakloak.png
+887,dragapult,dragapult,Stealth Pokémon,VIII,78,dragon/ghost,88,120,75,100,75,142,600,clear-body|infiltrator|cursed-body,True,indeterminate|dragon,,,45,50,slow,green,upright,,False,False,assets/dex/dragapult.png
+888,zacian,zacian,Warrior Pokémon,VIII,79,fairy,92,120,115,80,115,138,660,intrepid-sword,False,no-eggs,,,10,0,slow,blue,quadruped,,True,False,assets/dex/zacian.png
+889,zamazenta,zamazenta,Warrior Pokémon,VIII,80,fighting,92,120,115,80,115,138,660,dauntless-shield,False,no-eggs,,,10,0,slow,red,quadruped,,True,False,assets/dex/zamazenta.png
+890,eternatus,eternatus,Gigantic Pokémon,VIII,81,poison/dragon,140,85,95,145,95,130,690,pressure,False,no-eggs,,,255,0,slow,purple,wings,,True,False,assets/dex/eternatus.png
+891,kubfu,kubfu,Wushu Pokémon,VIII,82,fighting,60,90,60,53,50,72,385,inner-focus,False,no-eggs,,,3,50,slow,gray,upright,,True,False,assets/dex/kubfu.png
+892,urshifu-single-strike,urshifu-single-strike,Wushu Pokémon,VIII,83,fighting/dark,100,130,100,63,60,97,550,unseen-fist,False,no-eggs,,,3,50,slow,gray,humanoid,,True,False,assets/dex/urshifu-single-strike.png
+893,zarude,zarude,Rogue Monkey Pokémon,VIII,84,dark/grass,105,120,105,70,95,105,600,leaf-guard,False,no-eggs,,,3,0,slow,green,upright,,False,True,assets/dex/zarude.png
+894,regieleki,regieleki,Electron Pokémon,VIII,85,electric,80,100,50,100,50,200,580,transistor,False,no-eggs,,,3,35,slow,yellow,humanoid,,True,False,assets/dex/regieleki.png
+895,regidrago,regidrago,Dragon Orb Pokémon,VIII,86,dragon,200,100,50,100,50,80,580,dragons-maw,False,no-eggs,,,3,35,slow,green,humanoid,,True,False,assets/dex/regidrago.png
+896,glastrier,glastrier,Wild Horse Pokémon,VIII,87,ice,100,145,130,65,110,30,580,chilling-neigh,False,no-eggs,,,3,35,slow,white,quadruped,,True,False,assets/dex/glastrier.png
+897,spectrier,spectrier,Swift Horse Pokémon,VIII,88,ghost,100,65,60,145,80,130,580,grim-neigh,False,no-eggs,,,3,35,slow,black,quadruped,,True,False,assets/dex/spectrier.png
+898,calyrex,calyrex,King Pokémon,VIII,89,psychic/grass,100,80,80,80,80,80,500,unnerve,False,no-eggs,,,3,100,slow,green,humanoid,,True,False,assets/dex/calyrex.png
+899,wyrdeer,wyrdeer,Big Horn Pokémon,VIII,90,normal/psychic,103,105,72,105,75,65,525,intimidate|frisk|sap-sipper,True,ground,,,135,50,slow,gray,quadruped,,False,False,assets/dex/wyrdeer.png
+900,kleavor,kleavor,Axe Pokémon,VIII,91,bug/rock,70,135,95,45,70,85,500,swarm|sheer-force|sharpness,True,bug,,,115,50,medium,brown,bug-wings,,False,False,assets/dex/kleavor.png
+901,ursaluna,ursaluna,Peat Pokémon,VIII,92,ground/normal,130,140,105,45,80,50,550,guts|bulletproof|unnerve,True,ground,,,75,50,medium,brown,quadruped,,False,False,assets/dex/ursaluna.png
+902,basculegion-male,basculegion-male,Big Fish Pokémon,VIII,93,water/ghost,120,112,65,80,75,78,530,swift-swim|adaptability|mold-breaker,True,water2,,,135,50,medium,green,fish,,False,False,assets/dex/basculegion-male.png
+903,sneasler,sneasler,Free Climb Pokémon,VIII,94,fighting/poison,80,130,60,40,80,120,510,pressure|unburden|poison-touch,True,ground,,,135,50,medium-slow,gray,upright,,False,False,assets/dex/sneasler.png
+904,overqwil,overqwil,Pin Cluster Pokémon,VIII,95,dark/poison,85,115,95,65,65,85,510,poison-point|swift-swim|intimidate,True,water2,,,135,50,medium,black,fish,,False,False,assets/dex/overqwil.png
+905,enamorus-incarnate,enamorus-incarnate,Love-Hate Pokémon,VIII,96,fairy/flying,74,115,70,135,80,106,580,cute-charm|contrary,True,no-eggs,,,3,50,slow,pink,arms,,True,False,assets/dex/enamorus-incarnate.png
+906,sprigatito,sprigatito,Grass Cat Pokémon,IX,1,grass,40,61,54,45,45,65,310,overgrow|protean,True,ground|plant,,,45,50,medium-slow,green,quadruped,,False,False,assets/dex/sprigatito.png
+907,floragato,floragato,Grass Cat Pokémon,IX,2,grass,61,80,63,60,63,83,410,overgrow|protean,True,ground|plant,,,45,50,medium-slow,green,upright,,False,False,assets/dex/floragato.png
+908,meowscarada,meowscarada,Magician Pokémon,IX,3,grass/dark,76,110,70,81,70,123,530,overgrow|protean,True,ground|plant,,,45,50,medium-slow,green,upright,,False,False,assets/dex/meowscarada.png
+909,fuecoco,fuecoco,Fire Croc Pokémon,IX,4,fire,67,45,59,63,40,36,310,blaze|unaware,True,ground,,,45,50,medium-slow,red,upright,,False,False,assets/dex/fuecoco.png
+910,crocalor,crocalor,Fire Croc Pokémon,IX,5,fire,81,55,78,90,58,49,411,blaze|unaware,True,ground,,,45,50,medium-slow,red,upright,,False,False,assets/dex/crocalor.png
+911,skeledirge,skeledirge,Singer Pokémon,IX,6,fire/ghost,104,75,100,110,75,66,530,blaze|unaware,True,ground,,,45,50,medium-slow,red,quadruped,,False,False,assets/dex/skeledirge.png
+912,quaxly,quaxly,Duckling Pokémon,IX,7,water,55,65,45,50,45,50,310,torrent|moxie,True,water1|flying,,,45,50,medium-slow,white,upright,,False,False,assets/dex/quaxly.png
+913,quaxwell,quaxwell,Practicing Pokémon,IX,8,water,70,85,65,65,60,65,410,torrent|moxie,True,water1|flying,,,45,50,medium-slow,blue,upright,,False,False,assets/dex/quaxwell.png
+914,quaquaval,quaquaval,Dancer Pokémon,IX,9,water/fighting,85,120,80,85,75,85,530,torrent|moxie,True,water1|flying,,,45,50,medium-slow,blue,upright,,False,False,assets/dex/quaquaval.png
+915,lechonk,lechonk,Hog Pokémon,IX,10,normal,54,45,40,35,45,35,254,aroma-veil|gluttony|thick-fat,True,ground,,,255,50,medium,gray,quadruped,,False,False,assets/dex/lechonk.png
+916,oinkologne-male,oinkologne-male,Hog Pokémon,IX,11,normal,110,100,75,59,80,65,489,lingering-aroma|gluttony|thick-fat,True,ground,,,100,50,medium,gray,quadruped,,False,False,assets/dex/oinkologne-male.png
+917,tarountula,tarountula,String Ball Pokémon,IX,12,bug,35,41,45,29,40,20,210,insomnia|stakeout,True,bug,,,255,50,slow-then-very-fast,white,armor,,False,False,assets/dex/tarountula.png
+918,spidops,spidops,Trap Pokémon,IX,13,bug,60,79,92,52,86,35,404,insomnia|stakeout,True,bug,,,120,50,slow-then-very-fast,green,armor,,False,False,assets/dex/spidops.png
+919,nymble,nymble,Grasshopper Pokémon,IX,14,bug,33,46,40,21,25,45,210,swarm|tinted-lens,True,bug,,,190,20,medium,gray,armor,,False,False,assets/dex/nymble.png
+920,lokix,lokix,Grasshopper Pokémon,IX,15,bug/dark,71,102,78,52,55,92,450,swarm|tinted-lens,True,bug,,,30,0,medium,gray,humanoid,,False,False,assets/dex/lokix.png
+921,pawmi,pawmi,Mouse Pokémon,IX,16,electric,45,50,20,40,25,60,240,static|natural-cure|iron-fist,True,ground,,,190,50,medium,yellow,quadruped,,False,False,assets/dex/pawmi.png
+922,pawmo,pawmo,Mouse Pokémon,IX,17,electric/fighting,60,75,40,50,40,85,350,volt-absorb|natural-cure|iron-fist,True,ground,,,80,50,medium,yellow,upright,,False,False,assets/dex/pawmo.png
+923,pawmot,pawmot,Hands-On Pokémon,IX,18,electric/fighting,70,115,70,70,60,105,490,volt-absorb|natural-cure|iron-fist,True,ground,,,45,50,medium,yellow,upright,,False,False,assets/dex/pawmot.png
+924,tandemaus,tandemaus,Couple Pokémon,IX,19,normal,50,50,45,40,45,75,305,run-away|pickup|own-tempo,True,ground|fairy,,,150,50,fast,white,heads,,False,False,assets/dex/tandemaus.png
+925,maushold-family-of-four,maushold-family-of-four,Family Pokémon,IX,20,normal,74,75,70,65,75,111,470,friend-guard|cheek-pouch|technician,True,ground|fairy,,,75,50,fast,white,heads,,False,False,assets/dex/maushold-family-of-four.png
+926,fidough,fidough,Puppy Pokémon,IX,21,fairy,37,55,70,30,55,65,312,own-tempo|klutz,True,ground|mineral,,,190,50,medium-slow,yellow,quadruped,,False,False,assets/dex/fidough.png
+927,dachsbun,dachsbun,Dog Pokémon,IX,22,fairy,57,80,115,50,80,95,477,well-baked-body|aroma-veil,True,ground|mineral,,,90,50,medium-slow,brown,quadruped,,False,False,assets/dex/dachsbun.png
+928,smoliv,smoliv,Olive Pokémon,IX,23,grass/normal,41,35,45,58,51,30,260,early-bird|harvest,True,plant,,,255,50,medium-slow,green,legs,,False,False,assets/dex/smoliv.png
+929,dolliv,dolliv,Olive Pokémon,IX,24,grass/normal,52,53,60,78,78,33,354,early-bird|harvest,True,plant,,,120,50,medium-slow,green,humanoid,,False,False,assets/dex/dolliv.png
+930,arboliva,arboliva,Olive Pokémon,IX,25,grass/normal,78,69,90,125,109,39,510,seed-sower|harvest,True,plant,,,45,50,medium-slow,green,humanoid,,False,False,assets/dex/arboliva.png
+931,squawkabilly-green-plumage,squawkabilly-green-plumage,Parrot Pokémon,IX,26,normal/flying,82,96,51,45,51,92,417,intimidate|hustle|guts,True,flying,,,190,50,slow-then-very-fast,green,wings,,False,False,assets/dex/squawkabilly-green-plumage.png
+932,nacli,nacli,Rock Salt Pokémon,IX,27,rock,55,55,75,35,35,25,280,purifying-salt|sturdy|clear-body,True,mineral,,,255,50,medium-slow,brown,ball,,False,False,assets/dex/nacli.png
+933,naclstack,naclstack,Rock Salt Pokémon,IX,28,rock,60,60,100,35,65,35,355,purifying-salt|sturdy|clear-body,True,mineral,,,120,50,medium-slow,brown,quadruped,,False,False,assets/dex/naclstack.png
+934,garganacl,garganacl,Rock Salt Pokémon,IX,29,rock,100,100,130,45,90,35,500,purifying-salt|sturdy|clear-body,True,mineral,,,45,50,medium-slow,brown,humanoid,,False,False,assets/dex/garganacl.png
+935,charcadet,charcadet,Fire Child Pokémon,IX,30,fire,40,50,40,50,40,35,255,flash-fire|flame-body,True,humanshape,,,90,50,slow,red,humanoid,,False,False,assets/dex/charcadet.png
+936,armarouge,armarouge,Fire Warrior Pokémon,IX,31,fire/psychic,85,60,100,125,80,75,525,flash-fire|weak-armor,True,humanshape,,,25,20,slow,red,humanoid,,False,False,assets/dex/armarouge.png
+937,ceruledge,ceruledge,Fire Blades Pokémon,IX,32,fire/ghost,75,125,80,60,100,85,525,flash-fire|weak-armor,True,humanshape,,,25,20,slow,blue,humanoid,,False,False,assets/dex/ceruledge.png
+938,tadbulb,tadbulb,EleTadpole Pokémon,IX,33,electric,61,31,41,59,35,45,272,own-tempo|static|damp,True,water1,,,190,50,medium,yellow,ball,,False,False,assets/dex/tadbulb.png
+939,bellibolt,bellibolt,EleFrog Pokémon,IX,34,electric,109,64,91,103,83,45,495,electromorphosis|static|damp,True,water1,,,50,50,medium,green,humanoid,,False,False,assets/dex/bellibolt.png
+940,wattrel,wattrel,Storm Petrel Pokémon,IX,35,electric/flying,40,40,35,55,40,70,280,wind-power|volt-absorb|competitive,True,water1|flying,,,180,50,medium-slow,black,wings,,False,False,assets/dex/wattrel.png
+941,kilowattrel,kilowattrel,Frigatebird Pokémon,IX,36,electric/flying,70,70,60,105,60,125,490,wind-power|volt-absorb|competitive,True,water1|flying,,,90,50,medium-slow,yellow,wings,,False,False,assets/dex/kilowattrel.png
+942,maschiff,maschiff,Rascal Pokémon,IX,37,dark,60,78,60,40,51,51,340,intimidate|run-away|stakeout,True,ground,,,150,50,medium-slow,brown,quadruped,,False,False,assets/dex/maschiff.png
+943,mabosstiff,mabosstiff,Boss Pokémon,IX,38,dark,80,120,90,60,70,85,505,intimidate|guard-dog|stakeout,True,ground,,,75,50,medium-slow,gray,quadruped,,False,False,assets/dex/mabosstiff.png
+944,shroodle,shroodle,Toxic Mouse Pokémon,IX,39,poison/normal,40,65,35,40,35,75,290,unburden|pickpocket|prankster,True,ground,,,190,50,medium-slow,gray,quadruped,,False,False,assets/dex/shroodle.png
+945,grafaiai,grafaiai,Toxic Monkey Pokémon,IX,40,poison/normal,63,95,65,80,72,110,485,unburden|poison-touch|prankster,True,ground,,,90,50,medium-slow,gray,upright,,False,False,assets/dex/grafaiai.png
+946,bramblin,bramblin,Tumbleweed Pokémon,IX,41,grass/ghost,40,65,30,45,35,60,275,wind-rider|infiltrator,True,plant,,,190,50,medium,brown,ball,,False,False,assets/dex/bramblin.png
+947,brambleghast,brambleghast,Tumbleweed Pokémon,IX,42,grass/ghost,55,115,70,80,70,90,480,wind-rider|infiltrator,True,plant,,,45,50,medium,brown,ball,,False,False,assets/dex/brambleghast.png
+948,toedscool,toedscool,Woodear Pokémon,IX,43,ground/grass,40,40,35,50,100,70,335,mycelium-might,False,plant,,,190,50,medium-slow,yellow,legs,,False,False,assets/dex/toedscool.png
+949,toedscruel,toedscruel,Woodear Pokémon,IX,44,ground/grass,80,70,65,80,120,100,515,mycelium-might,False,plant,,,90,50,medium-slow,black,tentacles,,False,False,assets/dex/toedscruel.png
+950,klawf,klawf,Ambush Pokémon,IX,45,rock,70,100,115,35,55,75,450,anger-shell|shell-armor|regenerator,True,water3,,,120,50,medium,red,armor,,False,False,assets/dex/klawf.png
+951,capsakid,capsakid,Spicy Pepper Pokémon,IX,46,grass,50,62,40,62,40,50,304,chlorophyll|insomnia|klutz,True,plant,,,190,50,medium,green,upright,,False,False,assets/dex/capsakid.png
+952,scovillain,scovillain,Spicy Pepper Pokémon,IX,47,grass/fire,65,108,65,108,65,75,486,chlorophyll|insomnia|moody,True,plant,,,75,50,medium,green,upright,,False,False,assets/dex/scovillain.png
+953,rellor,rellor,Rolling Pokémon,IX,48,bug,41,50,60,31,58,30,270,compound-eyes|shed-skin,True,bug,,,190,50,fast,brown,armor,,False,False,assets/dex/rellor.png
+954,rabsca,rabsca,Rolling Pokémon,IX,49,bug/psychic,75,50,85,115,100,45,470,synchronize|telepathy,True,bug,,,45,50,fast,green,armor,,False,False,assets/dex/rabsca.png
+955,flittle,flittle,Frill Pokémon,IX,50,psychic,30,35,30,55,30,75,255,anticipation|frisk|speed-boost,True,flying,,,120,50,medium-slow,yellow,legs,,False,False,assets/dex/flittle.png
+956,espathra,espathra,Ostrich Pokémon,IX,51,psychic,95,60,60,101,60,105,481,opportunist|frisk|speed-boost,True,flying,,,60,50,medium-slow,yellow,upright,,False,False,assets/dex/espathra.png
+957,tinkatink,tinkatink,Metalsmith Pokémon,IX,52,fairy/steel,50,45,45,35,64,58,297,mold-breaker|own-tempo|pickpocket,True,fairy,,,190,50,medium-slow,pink,humanoid,,False,False,assets/dex/tinkatink.png
+958,tinkatuff,tinkatuff,Hammer Pokémon,IX,53,fairy/steel,65,55,55,45,82,78,380,mold-breaker|own-tempo|pickpocket,True,fairy,,,90,50,medium-slow,pink,humanoid,,False,False,assets/dex/tinkatuff.png
+959,tinkaton,tinkaton,Hammer Pokémon,IX,54,fairy/steel,85,75,77,70,105,94,506,mold-breaker|own-tempo|pickpocket,True,fairy,,,45,50,medium-slow,pink,humanoid,,False,False,assets/dex/tinkaton.png
+960,wiglett,wiglett,Garden Eel Pokémon,IX,55,water,10,55,25,35,25,95,245,gooey|rattled|sand-veil,True,water3,,,255,50,medium,white,blob,,False,False,assets/dex/wiglett.png
+961,wugtrio,wugtrio,Garden Eel Pokémon,IX,56,water,35,100,50,50,70,120,425,gooey|rattled|sand-veil,True,water3,,,50,50,medium,red,blob,,False,False,assets/dex/wugtrio.png
+962,bombirdier,bombirdier,Item Drop Pokémon,IX,57,flying/dark,70,103,85,60,85,82,485,big-pecks|keen-eye|rocky-payload,True,flying,,,25,50,slow,white,wings,,False,False,assets/dex/bombirdier.png
+963,finizen,finizen,Dolphin Pokémon,IX,58,water,70,45,40,45,40,75,315,water-veil,False,ground|water2,,,200,50,slow,blue,fish,,False,False,assets/dex/finizen.png
+964,palafin-zero,palafin-zero,Dolphin Pokémon,IX,59,water,100,70,72,53,62,100,457,zero-to-hero,False,ground|water2,,,45,50,slow,blue,fish,,False,False,assets/dex/palafin-zero.png
+965,varoom,varoom,Single-Cyl Pokémon,IX,60,steel/poison,45,70,63,30,45,47,300,overcoat|slow-start,True,mineral,,,190,50,medium,gray,legs,,False,False,assets/dex/varoom.png
+966,revavroom,revavroom,Multi-Cyl Pokémon,IX,61,steel/poison,80,119,90,54,67,90,500,overcoat|filter,True,mineral,,,75,50,medium,gray,legs,,False,False,assets/dex/revavroom.png
+967,cyclizar,cyclizar,Mount Pokémon,IX,62,dragon/normal,70,95,65,85,65,121,501,shed-skin|regenerator,True,ground,,,190,50,medium-slow,green,quadruped,,False,False,assets/dex/cyclizar.png
+968,orthworm,orthworm,Earthworm Pokémon,IX,63,steel,70,85,145,60,55,65,480,earth-eater|sand-veil,True,ground,,,25,50,slow,pink,squiggle,,False,False,assets/dex/orthworm.png
+969,glimmet,glimmet,Ore Pokémon,IX,64,rock/poison,48,35,42,105,60,60,350,toxic-debris|corrosion,True,mineral,,,70,50,medium-slow,blue,ball,,False,False,assets/dex/glimmet.png
+970,glimmora,glimmora,Ore Pokémon,IX,65,rock/poison,83,55,90,130,81,86,525,toxic-debris|corrosion,True,mineral,,,25,50,medium-slow,blue,ball,,False,False,assets/dex/glimmora.png
+971,greavard,greavard,Ghost Dog Pokémon,IX,66,ghost,50,61,60,30,55,34,290,pickup|fluffy,True,ground,,,120,50,medium-slow,white,quadruped,,False,False,assets/dex/greavard.png
+972,houndstone,houndstone,Ghost Dog Pokémon,IX,67,ghost,72,101,100,50,97,68,488,sand-rush|fluffy,True,ground,,,60,50,medium-slow,white,quadruped,,False,False,assets/dex/houndstone.png
+973,flamigo,flamigo,Synchronize Pokémon,IX,68,flying/fighting,82,115,74,75,64,90,500,scrappy|tangled-feet|costar,True,flying,,,100,50,medium-slow,pink,wings,,False,False,assets/dex/flamigo.png
+974,cetoddle,cetoddle,Terra Whale Pokémon,IX,69,ice,108,68,45,30,40,43,334,thick-fat|snow-cloak|sheer-force,True,ground,,,150,50,medium-slow,white,upright,,False,False,assets/dex/cetoddle.png
+975,cetitan,cetitan,Terra Whale Pokémon,IX,70,ice,170,113,65,45,55,73,521,thick-fat|slush-rush|sheer-force,True,ground,,,50,50,medium-slow,white,upright,,False,False,assets/dex/cetitan.png
+976,veluza,veluza,Jettison Pokémon,IX,71,water/psychic,90,102,73,78,65,70,478,mold-breaker|sharpness,True,water2,,,100,50,fast,gray,fish,,False,False,assets/dex/veluza.png
+977,dondozo,dondozo,Big Catfish Pokémon,IX,72,water,150,100,115,65,65,35,530,unaware|oblivious|water-veil,True,water2,,,25,50,slow,blue,fish,,False,False,assets/dex/dondozo.png
+978,tatsugiri-curly,tatsugiri-curly,Mimicry Pokémon,IX,73,dragon/water,68,50,60,120,95,82,475,commander|storm-drain,True,water2,,,100,50,medium-slow,pink,fish,,False,False,assets/dex/tatsugiri-curly.png
+979,annihilape,annihilape,Rage Monkey Pokémon,IX,74,fighting/ghost,110,115,80,50,90,90,535,vital-spirit|inner-focus|defiant,True,ground,,,45,50,medium,gray,humanoid,,False,False,assets/dex/annihilape.png
+980,clodsire,clodsire,Spiny Fish Pokémon,IX,75,poison/ground,130,75,60,45,100,20,430,poison-point|water-absorb|unaware,True,water1|ground,,,90,50,medium,brown,quadruped,,False,False,assets/dex/clodsire.png
+981,farigiraf,farigiraf,Long Neck Pokémon,IX,76,normal/psychic,120,90,70,110,70,60,520,cud-chew|armor-tail|sap-sipper,True,ground,,,45,50,medium,brown,quadruped,,False,False,assets/dex/farigiraf.png
+982,dudunsparce-two-segment,dudunsparce-two-segment,Land Snake Pokémon,IX,77,normal,125,100,80,85,75,55,520,serene-grace|run-away|rattled,True,ground,,,45,50,medium,yellow,squiggle,,False,False,assets/dex/dudunsparce-two-segment.png
+983,kingambit,kingambit,Big Blade Pokémon,IX,78,dark/steel,100,135,120,60,85,50,550,defiant|supreme-overlord|pressure,True,humanshape,,,25,50,medium,black,humanoid,,False,False,assets/dex/kingambit.png
+984,great-tusk,great-tusk,Paradox Pokémon,IX,79,ground/fighting,115,131,131,53,53,87,570,protosynthesis,False,no-eggs,,,30,0,slow,purple,quadruped,,False,False,assets/dex/great-tusk.png
+985,scream-tail,scream-tail,Paradox Pokémon,IX,80,fairy/psychic,115,65,99,65,115,111,570,protosynthesis,False,no-eggs,,,50,0,slow,pink,upright,,False,False,assets/dex/scream-tail.png
+986,brute-bonnet,brute-bonnet,Paradox Pokémon,IX,81,grass/dark,111,127,99,79,99,55,570,protosynthesis,False,no-eggs,,,50,0,slow,gray,quadruped,,False,False,assets/dex/brute-bonnet.png
+987,flutter-mane,flutter-mane,Paradox Pokémon,IX,82,ghost/fairy,55,55,55,135,135,135,570,protosynthesis,False,no-eggs,,,30,0,slow,gray,wings,,False,False,assets/dex/flutter-mane.png
+988,slither-wing,slither-wing,Paradox Pokémon,IX,83,bug/fighting,85,135,79,85,105,81,570,protosynthesis,False,no-eggs,,,30,0,slow,red,quadruped,,False,False,assets/dex/slither-wing.png
+989,sandy-shocks,sandy-shocks,Paradox Pokémon,IX,84,electric/ground,85,81,97,121,85,101,570,protosynthesis,False,no-eggs,,,30,0,slow,gray,quadruped,,False,False,assets/dex/sandy-shocks.png
+990,iron-treads,iron-treads,Paradox Pokémon,IX,85,ground/steel,90,112,120,72,70,106,570,quark-drive,False,no-eggs,,,30,0,slow,gray,quadruped,,False,False,assets/dex/iron-treads.png
+991,iron-bundle,iron-bundle,Paradox Pokémon,IX,86,ice/water,56,80,114,124,60,136,570,quark-drive,False,no-eggs,,,50,0,slow,red,upright,,False,False,assets/dex/iron-bundle.png
+992,iron-hands,iron-hands,Paradox Pokémon,IX,87,fighting/electric,154,140,108,50,68,50,570,quark-drive,False,no-eggs,,,50,0,slow,gray,humanoid,,False,False,assets/dex/iron-hands.png
+993,iron-jugulis,iron-jugulis,Paradox Pokémon,IX,88,dark/flying,94,80,86,122,80,108,570,quark-drive,False,no-eggs,,,30,0,slow,blue,upright,,False,False,assets/dex/iron-jugulis.png
+994,iron-moth,iron-moth,Paradox Pokémon,IX,89,fire/poison,80,70,60,140,110,110,570,quark-drive,False,no-eggs,,,30,0,slow,yellow,bug-wings,,False,False,assets/dex/iron-moth.png
+995,iron-thorns,iron-thorns,Paradox Pokémon,IX,90,rock/electric,100,134,110,70,84,72,570,quark-drive,False,no-eggs,,,30,0,slow,green,upright,,False,False,assets/dex/iron-thorns.png
+996,frigibax,frigibax,Ice Fin Pokémon,IX,91,dragon/ice,65,75,45,35,45,55,320,thermal-exchange|ice-body,True,mineral|dragon,,,45,50,slow,gray,upright,,False,False,assets/dex/frigibax.png
+997,arctibax,arctibax,Ice Fin Pokémon,IX,92,dragon/ice,90,95,66,45,65,62,423,thermal-exchange|ice-body,True,mineral|dragon,,,25,50,slow,gray,upright,,False,False,assets/dex/arctibax.png
+998,baxcalibur,baxcalibur,Ice Dragon Pokémon,IX,93,dragon/ice,115,145,92,75,86,87,600,thermal-exchange|ice-body,True,mineral|dragon,,,10,50,slow,gray,upright,,False,False,assets/dex/baxcalibur.png
+999,gimmighoul,gimmighoul,Coin Chest Pokémon,IX,94,ghost,45,30,70,75,70,10,300,rattled,False,no-eggs,,,45,50,slow,brown,blob,,False,False,assets/dex/gimmighoul.png
+1000,gholdengo,gholdengo,Coin Entity Pokémon,IX,95,steel/ghost,87,60,95,133,91,84,550,good-as-gold,False,no-eggs,,,45,50,slow,yellow,humanoid,,False,False,assets/dex/gholdengo.png
+1001,wo-chien,wo-chien,Ruinous Pokémon,IX,96,dark/grass,85,85,100,95,135,70,570,tablets-of-ruin,False,no-eggs,,,6,0,slow,brown,squiggle,,True,False,assets/dex/wo-chien.png
+1002,chien-pao,chien-pao,Ruinous Pokémon,IX,97,dark/ice,80,120,80,90,65,135,570,sword-of-ruin,False,no-eggs,,,6,0,slow,white,quadruped,,True,False,assets/dex/chien-pao.png
+1003,ting-lu,ting-lu,Ruinous Pokémon,IX,98,dark/ground,155,110,125,55,80,45,570,vessel-of-ruin,False,no-eggs,,,6,0,slow,brown,quadruped,,True,False,assets/dex/ting-lu.png
+1004,chi-yu,chi-yu,Ruinous Pokémon,IX,99,dark/fire,55,80,80,135,120,100,570,beads-of-ruin,False,no-eggs,,,6,0,slow,red,fish,,True,False,assets/dex/chi-yu.png
+1005,roaring-moon,roaring-moon,Paradox Pokémon,IX,100,dragon/dark,105,139,71,55,101,119,590,protosynthesis,False,no-eggs,,,10,0,slow,green,quadruped,,False,False,assets/dex/roaring-moon.png
+1006,iron-valiant,iron-valiant,Paradox Pokémon,IX,101,fairy/fighting,74,130,90,120,60,116,590,quark-drive,False,no-eggs,,,10,0,slow,white,humanoid,,False,False,assets/dex/iron-valiant.png
+1007,koraidon,koraidon,Paradox Pokémon,IX,102,fighting/dragon,100,135,115,85,100,135,670,orichalcum-pulse,False,no-eggs,,,3,0,slow,red,upright,,True,False,assets/dex/koraidon.png
+1008,miraidon,miraidon,Paradox Pokémon,IX,103,electric/dragon,100,85,100,135,115,135,670,hadron-engine,False,no-eggs,,,3,0,slow,blue,quadruped,,True,False,assets/dex/miraidon.png
+1009,walking-wake,walking-wake,Paradox Pokémon,IX,104,water/dragon,99,83,91,125,83,109,590,protosynthesis,False,no-eggs,,,5,0,slow,blue,upright,,False,False,assets/dex/walking-wake.png
+1010,iron-leaves,iron-leaves,Paradox Pokémon,IX,105,grass/psychic,90,130,88,70,108,104,590,quark-drive,False,no-eggs,,,5,0,slow,green,quadruped,,False,False,assets/dex/iron-leaves.png
+1011,dipplin,dipplin,Candy Apple Pokémon,IX,106,grass/dragon,80,80,110,95,80,40,485,supersweet-syrup|gluttony|sticky-hold,True,plant|dragon,,,45,50,slow,green,heads,,False,False,assets/dex/dipplin.png
+1012,poltchageist,poltchageist,Matcha Pokémon,IX,107,grass/ghost,40,45,45,74,54,50,308,hospitality|heatproof,True,mineral|indeterminate,,,120,50,slow,green,ball,,False,False,assets/dex/poltchageist.png
+1013,sinistcha,sinistcha,Matcha Pokémon,IX,108,grass/ghost,71,60,106,121,80,70,508,hospitality|heatproof,True,mineral|indeterminate,,,60,50,slow,green,ball,,False,False,assets/dex/sinistcha.png
+1014,okidogi,okidogi,Retainer Pokémon,IX,109,poison/fighting,88,128,115,58,86,80,555,toxic-chain|guard-dog,True,no-eggs,,,3,0,slow,black,upright,,True,False,assets/dex/okidogi.png
+1015,munkidori,munkidori,Retainer Pokémon,IX,110,poison/psychic,88,75,66,130,90,106,555,toxic-chain|frisk,True,no-eggs,,,3,0,slow,black,humanoid,,True,False,assets/dex/munkidori.png
+1016,fezandipiti,fezandipiti,Retainer Pokémon,IX,111,poison/fairy,88,91,82,70,125,99,555,toxic-chain|technician,True,no-eggs,,,3,0,slow,black,wings,,True,False,assets/dex/fezandipiti.png
+1017,ogerpon,ogerpon,Mask Pokémon,IX,112,grass,80,120,84,60,96,110,550,defiant,False,no-eggs,,,5,50,slow,green,humanoid,,True,False,assets/dex/ogerpon.png
+1018,archaludon,archaludon,Alloy Pokémon,IX,113,steel/dragon,90,105,130,125,65,85,600,stamina|sturdy|stalwart,True,mineral|dragon,,,10,50,medium,white,upright,,False,False,assets/dex/archaludon.png
+1019,hydrapple,hydrapple,Apple Hydra Pokémon,IX,114,grass/dragon,106,80,110,120,80,44,540,supersweet-syrup|regenerator|sticky-hold,True,plant|dragon,,,10,50,slow-then-very-fast,green,heads,,False,False,assets/dex/hydrapple.png
+1020,gouging-fire,gouging-fire,Paradox Pokémon,IX,115,fire/dragon,105,115,121,65,93,91,590,protosynthesis,False,no-eggs,,,10,0,slow,brown,quadruped,,False,False,assets/dex/gouging-fire.png
+1021,raging-bolt,raging-bolt,Paradox Pokémon,IX,116,electric/dragon,125,73,91,137,89,75,590,protosynthesis,False,no-eggs,,,10,0,slow,yellow,quadruped,,False,False,assets/dex/raging-bolt.png
+1022,iron-boulder,iron-boulder,Paradox Pokémon,IX,117,rock/psychic,90,120,80,68,108,124,590,quark-drive,False,no-eggs,,,10,0,slow,gray,quadruped,,False,False,assets/dex/iron-boulder.png
+1023,iron-crown,iron-crown,Paradox Pokémon,IX,118,steel/psychic,90,72,100,122,108,98,590,quark-drive,False,no-eggs,,,10,0,slow,blue,quadruped,,False,False,assets/dex/iron-crown.png
+1024,terapagos,terapagos,Tera Pokémon,IX,119,normal,90,65,85,65,85,60,450,tera-shift,False,no-eggs,,,255,50,slow,blue,quadruped,,True,False,assets/dex/terapagos.png
+1025,pecharunt,pecharunt,Subjugation Pokémon,IX,120,poison/ghost,88,88,160,88,88,88,600,poison-puppeteer,False,no-eggs,,,3,0,slow,purple,ball,,False,True,assets/dex/pecharunt.png

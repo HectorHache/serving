@@ -1,0 +1,12 @@
+gate_pattern,legendaries,locations,rule,guide_page
+Surf cave,"Raikou, Entei, Suicune","Cueva Refulgente, Cueva Grisalla, Cueva Lóbrega","Surf to the far end of each cave, then follow the only path down.",p448-449
+Mercury Key door,"Cresselia, Darkrai","Catedral Señorial, Criptas de Luminalia",A Llave Mercurica at recipe tier 9 opens the sealed door. Nothing else does.,p450
+Braille inscription,"Regirock, Regice, Registeel","Cueva Desenlace, Gruta Helada, Sima Ardiente","Each Regi answers a different dot-language inscription, and each puzzle uses a different interaction: a lone rock, the Lens of Truth under a sign, and a message that must be answered.",p451-452
+Party composition,Regigigas,"Caverna Atlas, Ruta 21","Regice in slot 1, Regirock slot 3, Registeel slot 5. The requirement is your save file, not your bag.",p452-453
+Party composition,Registeel (second half),"Sima Ardiente, Isla de la Prision",Needs a Wailord Z as the first party member. Wailord Z is fishable in Ciudad Relieve.,p452
+Chase sequence,"Uxie, Mesprit, Azelf",Cueva Psique behind Pueblo Mosaico,"Each flees on first contact to a different islet. Mesprit needs the north exit of Gruta Tierraunida, Azelf needs the tide up.",p453-454
+Item chain,Magearna,Pueblo Petroglifo to Ciudad Novarte,"Corazon Mecanico, fished with Dive under a rock wall, then handed to an NPC in the bottom-left house.",p453
+Word puzzle,Eternatus,Catacumbas Occidentales,"Capture Unown until they spell ETERNO, put them in the party, then interact.","p371, p477"
+Collectible chain,Arceus,Columna Lanza,"All 18 elemental plates, then a portal opens at p467 to the summit.",p467
+Tide state,Azelf (second gate),Ruta 9,The bell in the Prosperity Sanctuary raises and lowers the tide at will.,p454
+Purchase then altar,"Cobalion, Terrakion, Virizion, Keldeo",Ciudad Fractal to Santuario de los Reyes,"The Espada del Rey Olvidado is not cheap. The altar needs the Gogoat mount, reached via Ruta 5.",p455-457

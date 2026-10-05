@@ -1,0 +1,10 @@
+system,how_to_enter,rules,guide_page
+Random,"Offered in the carriage, immediately before the starter question, on any new file after one full clear.","Two variants, with or without randomised evolutions. Species, moves, abilities and held items are all randomised. Encounters are generated continuously on the fly rather than from a fixed per-area table. Difficulty scales progressively by route tier.",5
+Monotype,"Receive your starter in the carriage, then talk to the scientist with a star icon beside the Flare Laboratory in Pueblo Lienzo.","Not every type is offered, because some types have too few Pokemon. Wild encounters do not change; captures outside the chosen type are simply blocked. A species is capturable if any stage of its line touches the type.",5
+Nuzlocke,"Built in, no activation needed to describe it.","A fainted Pokemon cannot be used again. Assisted Nuzlocke exists: defeated Regents hand over Cenizas Sagradas, Sacred Ashes, which revive fallen partners.",5
+Level cap,Always on.,"A Pokemon at the cap for your current badge count gains exactly 1 EXP per battle. The in-game message is ""Has alcanzado el limite de nivel para el no de medallas que tienes.""",4
+Shiny odds,Always on.,"0.001, one in 1000.",4
+Infinite Rare Candies,Every Pokemon Center.,"Interact with the mug on the counter, then check your bag.",4
+Day and night,Always on.,The game reads the host PC clock. Umbreon only evolves at night because the game thinks it is night.,4
+Controller,Always on.,"Any Xbox or PC compatible controller, rebound with F1.",4
+Online,N/A,None. The developer states plainly that he lacks both the knowledge and the means to ship one.,4

@@ -1,0 +1,637 @@
+pokemon,type,hp,atk,def,spa,spd,vel,bst,abilities,moves,notes,type_change,new_bst
+Bulbasaur,,+5,,,,,,323,SIN CAMBIOS,ÁCIDO/BRINCO/ CORTEFURIA,Bulbasaur no tenía ataques veneno a niveles bajos.,,323
+Ivysaur,,+20,,+10,+10,,,445,SIN CAMBIOS,ÁCIDO/BRINCO/ CORTEFURIA,Su evolución es ahora al nivel 45.,,445
+Venusaur,,+10,,,,,,535,SIN CAMBIOS,ÁCIDO/BRINCO/ CORTEFURIA,Ligero aumento de salud.,,535
+Mega- Venusaur,,+10,,,,,,635,SIN CAMBIOS,ÁCIDO/BRINCO/ CORTEFURIA,Ligero aumento de salud.,,635
+Charman- der,,+5,,,,,,314,SIN CAMBIOS,CORTEFURIA,Ligero aumento de salud.,,314
+Charme- leon,,+20,,+5,+10,+5,,445,SIN CAMBIOS,CORTEFURIA,Su evolución es ahora al nivel 45.,,445
+Charizard,,+10,,,,,,544,SIN CAMBIOS,ALA BIS/RÁFAGA ESCAMAS,Ligero aumento de salud y ataques interesantes.,,544
+Mega- CharizardX,,+10,,,,,,644,SIN CAMBIOS,ALA BIS/RÁFAGA ESCAMAS,Ligero aumento de salud y ataques interesantes.,,644
+Mega- CharizardY,,+10,,,,,,644,SIN CAMBIOS,ALA BIS/RÁFAGA ESCAMAS,Ligero aumento de salud y ataques interesantes.,,644
+Squirtle,,+5,,,,,,319,SIN CAMBIOS,NINGUNO,Ligero aumento de salud.,,319
+Wartortle,,+20,,+5,+10,+5,,445,SIN CAMBIOS,NINGUNO,Su evolución es ahora al nivel 45.,,445
+Blastoise,,+10,-5,,+5,,,540,SIN CAMBIOS,DISPARO CERTERO/ RAYO SEÑAL,Se optó por darle Disparo Certero para que en su versión mega aprovechase la habilidad MegaDisparador.,,540
+Mega- Blastoise,,+10,,,,,,640,SIN CAMBIOS,DISPARO CERTERO/ RAYO SEÑAL,,,640
+Caterpie,,,+10,,,,,205,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de ataque físico.,,205
+Metapod,,,+40,,,,,245,SIN CAMBIOS,FOCO ENERGÍA,Gran aumento de ataque físico.,,245
+Butterfree,,,,,+10,+10,+20,435,SIN CAMBIOS,SIN CAMBIOS,Aumento de estadísticas para Butterfree.,,435
+Mega- Butterfree,,,+10,+20,+30,+50,+40,545,SIN CAMBIOS,SIN CAMBIOS,"En Galar los Gigamax no aumentan stats, aquí sí.",,545
+Weedle,,,+10,,,,,205,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de ataque físico.,,205
+Kakuna,,,+40,,,,,245,SIN CAMBIOS,FOCO ENERGÍA,Gran aumento de ataque físico.,,245
+Beedrill,,,+10,,+20,,+20,445,PENETRANTE (HA),GOLPE RASTRERO/ HIPERTALADRO,Penetrante: Movimientos punzantes pueden retroceder,,445
+Pidgey,,,+5,,+5,,,261,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de ataque físico y ataque especial.,,261
+Pidgeotto,,,+23,,+30,,+10,412,SIN CAMBIOS,VOZARRÓN,Gran aumento de estadísticas para Pidgeotto.,,412
+Pidgeot,,,+15,,+35,,,529,INDEFENSO (HA),VOZARRÓN,Indefenso: Tanto usuario como rival nunca fallarán.,,529
+Raticate,,+10,+19,,,,+13,455,SIN CAMBIOS,SIN CAMBIOS,Aumento de estadísticas para Raticate.,,455
+Fearow,,,+25,,,,,467,PENETRANTE,HIPERTALADRO,Penetrante: Movimientos punzantes pueden retroceder,,467
+Arbok,,+10,,,,,+15,473,ENSAÑAMIENTO (HA),SIN CAMBIOS,Ensañamiento: Mete siempre crítico si rival envenenado.,,473
+Raichu Alola,,SIN CAMBIOS,,,,,,,PSICOGÉNESIS,SIN CAMBIOS,Psicogénesis: Invoca campo psíquico al salir.,,
+Sandshrew,,SIN CAMBIOS,,,,,,,PIEL TOSCA,SIN CAMBIOS,"Piel Tosca: Si el rival usa mov. contacto, recibe daño.",,
+Sandslash,,,+10,,,,+5,465,PIEL TOSCA,CUERNOCERTERO/ELECTROPUNZADA,"Piel Tosca: Si el rival usa mov. contacto, recibe daño.",,465
+Sandslash Alola,,,,,,,+15,465,SIN CAMBIOS,CUERNOCERTERO/ELECTROPUNZADA,Mayor velocidad y nuevos ataques para Sandslash Alola.,,465
+Nidoqueen,,,-10,,+10,,,505,SIN CAMBIOS,SIN CAMBIOS,Pierde ataque físico pero lo gana en ataque especial.,,505
+Clefairy,,SIN CAMBIOS,,,,,,,IGNORANTE,SIN CAMBIOS,Ignorante: Ignora los aumentos de stats del rival.,,
+Vulpix,,,,,+10,,,309,SIN CAMBIOS,SIN CAMBIOS,Ligero boosteo para ser más ofensivo.,,309
+Ninetales,,,,,+14,,,519,SIN CAMBIOS,CANTO ARDIENTE,Gran boosteo para ser más ofensivo.,,519
+Ninetales Alola,,,,,+14,,,519,SIN CAMBIOS,ESCALOFRÍO,Gran boosteo para ser más ofensivo.,,519
+Jigglypuff,,SIN CAMBIOS,,,,,,,NEBULOGÉNESIS (HA),SIN CAMBIOS,Nebulogénesis: Invoca campo hada al salir.,,
+Wigglytuff,,,-5,+15,,+10,,455,NEBULOGÉNESIS (HA),ESTRUENDO,Nebulogénesis: Invoca campo hada al salir.,,455
+Zubat,,,+10,,,,+20,275,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de ataque físico y velocidad.,,275
+Golbat,,,,,,,+10,465,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de velocidad.,,465
+Vileplume,,,,,,+5,,495,SIN CAMBIOS,ÁCIDO MÁLICO/TIERRA VIVA/CAÑÓN FLORAL,Ligero aumento de defensa especial y ataques chulos.,,495
+Venonat,,,,,+20,,,325,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de ataque especial.,,325
+Venomoth,,,,,+10,+15,,475,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de ataque especial y defensa especial.,,475
+Diglett,,+20,+5,+10,,,,300,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de estadísticas para Diglett.,,300
+Dugtrio,,+30,,+20,,,,475,SIN CAMBIOS,SIN CAMBIOS,Más salud y defensa para Dugtrio.,,475
+Meowth,,,+20,,,,,310,SIN CAMBIOS,SIN CAMBIOS,Más ataque físico para Meowth.,,310
+Persian,,+10,+35,,+20,,,505,GARRA DURA (HA),TRIPLE AXEL/ARENAS ARDIENTES,Garra dura: Los ataques de contacto hacen más daño.,,505
+Persian Alola,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,SIN CAMBIOS,Persian Alola adquiere stab en el tipo Normal.,,
+Psyduck,,+10,,,,,,330,CÓLERA (HA),SIN CAMBIOS,Cólera: +1 At.Esp si la salud es menos del 50%.,,330
+Golduck,,,+10,,,,,510,CÓLERA (HA),TRIPLE INMERSIÓN/ DANZA ACUÁTICA,Cólera: +1 At.Esp si la salud es menos del 50%.,,510
+Mankey,,SIN CAMBIOS,,,,,,,ACOMETIDA,SIN CAMBIOS,"Acometida: En el 1º turno, aumenta ataque y velocidad.",,
+Primeape,,,+10,,,,+10,475,ACOMETIDA,SIN CAMBIOS,"Acometida: En el 1º turno, aumenta ataque y velocidad.",,475
+Poliwag,,+15,+10,,+15,+10,-15,335,SIN CAMBIOS,SIN CAMBIOS,Mejoría en varias estadísticas para Poliwag.,,335
+Poliwhirl,,,+15,,+15,+5,-10,410,SIN CAMBIOS,SIN CAMBIOS,Mejoría en varias estadísticas para Poliwhirl.,,410
+Poliwrath,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,TAJO ACUÁTICO/ ENVITE ACUÁTICO,Movimientos interesantes nuevos.,,
+Abra,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,CONFUSIÓN*,"Aquí Abra tiene movimientos por nivel, no es inútil.",,
+Mega- Machamp,,,+30,+20,+10,+10,+20,595,SIN CAMBIOS,SIN CAMBIOS,"En Galar los Gigamax no aumentan stats, aquí sí.",,595
+Victreebell,,,+5,+5,-5,,,495,SIN CAMBIOS,ATRAPABICHO,Aumento de ataque y defensa y ataque nuevo.,,495
+Geodude,,+10,,,,,,310,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de salud.,,310
+Graveler,,+25,,,,,,415,SIN CAMBIOS,SIN CAMBIOS,Gran aumento de salud.,,415
+Golem,,+30,,,,,,525,SIN CAMBIOS,SIN CAMBIOS,Aumento considerable de puntos de salud.,,525
+Golem Alola,,+30,,,,,,525,SIN CAMBIOS,SIN CAMBIOS,Aumento considerable de puntos de salud.,,525
+Ponyta,,SIN CAMBIOS,,,,,,,ACOMETIDA (HA),SIN CAMBIOS,"Acometida: En el 1º turno, aumenta ataque y velocidad.",,
+Rapidash,,+20,+10,,,,,530,AUDAZ/ ACOMETIDA(HA),ERUPCIÓNIRA/PATADA ÍGNEA-SALTO,"Acometida: En el 1º turno, aumenta ataque y velocidad.",,530
+Rapidash Galar,,,+10,,,,,510,SIN CAMBIOS,HIPERTALADRO/PATADA SALTO,Ligero aumento de ataque físico y ataques nuevos.,,510
+Slowbro Galar,,,-35,-15,+10,+40,,490,MEGADISPARADOR,SIN CAMBIOS,Megadisparador: Potencia ataques de pulsos y auras.,,490
+Farfetch'd Galar,,,,,+2,,,379,SIN CAMBIOS,T.ACUÁTICO/GARRA UMBRÍA/PSICOCORTE,Obtiene ataques para jugar con el crítico.,,379
+Doduo,,SIN CAMBIOS,,,,,,,CAMORRISTA/ EXPERTO,SIN CAMBIOS,Experto: Potencia ataques de potencia 60 o menos.,,
+Dodrio,,+10,,,,,,480,CAMORRISTA/ EXPERTO,TRIPLEPATADA/ PATADA SALTO ALTA,Camorrista: Las patadas son un 20% más fuertes.,,480
+Dewgong,,,+20,,+20,,,515,PELAJE RECIO,HIPERTALADRO/ ESCALOFRÍO,Pelaje Recio: Los ataques físicos le hacen -50%.,,515
+Grimer,,,-20,,+20,,,325,SIN CAMBIOS,SIN CAMBIOS,"Reajuste en las estadísticas, ahora es mixto.",,325
+Shellder,,,,,+5,,+10,320,SIN CAMBIOS,SIN CAMBIOS,Mejoría en ataque especial y velocidad para Shellder.,,320
+Mega- Gengar,,,+10,,-10,,,600,SIN CAMBIOS,SIN CAMBIOS,Ligero nerfeo al poder dañino de Mega-Gengar.,,600
+Onix,,+20,+15,,,,,420,SIN CAMBIOS,SIN CAMBIOS,Mejoría en salud y ataque físico para Onix.,,420
+Drowzee,,,,,+20,,,348,MAL SUEÑO,SIN CAMBIOS,Mal sueño: Resta salud a enemigos dormido por turno.,,348
+Hypno,,,+12,,+12,,,507,MAL SUEÑO,ESCALOFRÍO,Mal sueño: Resta salud a enemigos dormido por turno.,,507
+Krabby,,,,,+15,+10,,350,SIN CAMBIOS,SIN CAMBIOS,Mejoría en ataque especial y defensa especial.,,350
+Kingler,,+20,,,,,,495,SIN CAMBIOS,MARTILLO HIELO,Mejoría en salud para Kingler y ataque nuevo.,,495
+Mega- Kingler,,+20,+40,+20,+20,+20,,595,GARRA DURA,MARTILLO HIELO,"En Galar los Gigamax no aumentan stats, aquí sí.",,595
+Voltorb,,SIN CAMBIOS,,,,,,,ELECTROGÉNESIS,SIN CAMBIOS,Electrogénesis: Crea campo eléctrico al salir.,,
+Voltorb Hisui,,SIN CAMBIOS,,,,,,,HERBOGÉNESIS,SIN CAMBIOS,Herbogénesis: Crea campo hierba al salir.,,
+Electrode,,,,,+10,,,500,ELECTROGÉNESIS,SIN CAMBIOS,Electrogénesis: Crea campo eléctrico al salir.,,500
+Electrode Hisui,,SIN CAMBIOS,,,,,,,HERBOGÉNESIS,SIN CAMBIOS,Herbogénesis: Crea campo hierba al salir.,,
+Exeggcute,,SIN CAMBIOS,,,,,,,ENCADENADO (HA),SIN CAMBIOS,Encadenado: Ataques multihits siempre dan 5.,,
+Exeggutor,,,,,,+5,,535,SEQUÍA (HA),SIN CAMBIOS,Sequía: Invoca el clima soleado al salir.,,535
+Exeggutor Alola,,,-10,,,,+10,530,SIN CAMBIOS,SIN CAMBIOS,Reajuste en las estadísticas para ser más veloz.,,530
+Marowak Alola,,,,,,,+20,445,SIN CAMBIOS,SIN CAMBIOS,Mejoría de velocidad para Marowak Alola.,,445
+Hitmonlee,,+10,,,,,,465,CAMORRISTA,SIN CAMBIOS,Camorrista: Las patadas son un 20% más fuertes.,,465
+Hitmon- chan,,+10,,,,,,465,SIN CAMBIOS,PUÑO JET,Ligera mejora en puntos de salud y ataque nuevo.,,465
+Lickitung,,SIN CAMBIOS,,,,,,,BABA,SIN CAMBIOS,Baba: -1 vel al rival si le atacan con mov. contacto.,,
+Koffing,,SIN CAMBIOS,,,,,,,NEBULOGÉNESIS (HA),SIN CAMBIOS,Nebulogénesis: Invoca campo hada al salir.,,
+Weezing,,,,,+10,,,500,NEBULOGÉNESIS (HA),SIN CAMBIOS,Nebulogénesis: Invoca campo hada al salir.,,500
+Weezing Galar,,,,,+10,,,500,SIN CAMBIOS,SIN CAMBIOS,Aumento ligero del poder ofensivo de Weezing Galar.,,500
+Tangela,,SIN CAMBIOS,,,,,,,HERBOGÉNESIS (HA),ARENAS ARDIENTES,Herbogénesis: Crea campo hierba al salir.,,
+Kangaskhan,,SIN CAMBIOS,,,,,,,ACOMETIDA (HA),FURIA TAURINA,"Acometida: En el 1º turno, aumenta ataque y velocidad.",,
+Mega-Kangaskhan,,,-10,,,,,580,SIN CAMBIOS,FURIA TAURINA,Ligero nerfeo al poder dañino de Mega-Kangaskhan.,,580
+Seadra,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,DISPARO CERTERO,Movimiento nuevo para Seadra.,,
+Goldeen,,SIN CAMBIOS,,,,,,,PENETRANTE,SIN CAMBIOS,Penetrante: Movimientos punzantes pueden retroceder,,
+Seaking,,,+18,,,,+22,490,PENETRANTE,T.ACUÁTICO/HIPERTALADRO/ BRANQUIBOCADO,Penetrante: Movimientos punzantes pueden retroceder,,490
+Staryu,,SIN CAMBIOS,,,,,,,ILUMINACIÓN*,SIN CAMBIOS,Iluminación reduce en 1 la precisión del rival.,,
+Starmie,,SIN CAMBIOS,,,,,,,ILUMINACIÓN*,SIN CAMBIOS,Iluminación reduce en 1 la precisión del rival.,,
+Mr. Mime,,+10,,,,,,470,PSICOGÉNESIS (HA),SIN CAMBIOS,Psicogénesis: Invoca campo psíquico al salir.,,470
+Jynx,,,,,,,+10,465,RITMO PROPIO,ESCALOFRÍO,Ritmo Propio: Evita queda confundido.,,465
+Tauros,,,+10,,,,,500,ACOMETIDA (HA),SIN CAMBIOS,"Acometida: En el 1º turno, aumenta ataque y velocidad.",,500
+Tauros Paldea,,SIN CAMBIOS,,,,,,,ACOMETIDA (HA),SIN CAMBIOS,"Acometida: En el 1º turno, aumenta ataque y velocidad.",,
+Gyarados,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,VASTO IMPACTO,Ataque interesante nuevo para Gyarados.,,
+Lapras,,,-10,,+10,,,535,SIN CAMBIOS,SIN CAMBIOS,Lapras obtiene más uso por el lado del ataque especial.,,535
+Mega- Lapras,,,+10,+20,+40,+10,+20,635,PIEL HELADA,SIN CAMBIOS,"En Galar los Gigamax no aumentan stats, aquí sí.",,635
+Ditto,,SIN CAMBIOS,,,,,,,IMPOSTOR*,SIN CAMBIOS,"Impostor pasa a ser habilidad normal, más divertido.",,
+Eevee,,+10,+20,+10,+20,+10,+20,415,SIN CAMBIOS,SIN CAMBIOS,Mejoría en todas las estadísticas para Eevee.,,415
+Jolteon,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,AMPLIFICADOR,Movimiento interesante nuevo para Jolteon.,,
+Flareon,,+10,,,-10,,,525,SIN CAMBIOS,PATADA ÍGNEA/ ERUPCIÓN DE IRA,Ligero aumento de puntos de salud y ataques nuevos.,,525
+Kabutops,,SIN CAMBIOS,,,,,,,CORTANTE (HA),TAJO ACUÁTICO,Cortante: Ataques de filo son un 50% más fuertes.,,
+Articuno Galar,,+20,,,,,,600,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de salud.,,600
+Zapdos,,SIN CAMBIOS,,,,,,,PARARRAYOS (HA),SIN CAMBIOS,Zapdos mantiene la oculta que tuvo en 5º gen.,,
+Zapdos Galar,,+20,,,,,,600,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de salud.,,600
+Moltres Galar,,+20,,,,,,600,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de salud.,,600
+Mewtwo,,+4,,+10,,+40,,734,SIN CAMBIOS,SIN CAMBIOS,Para compensar que no tiene sus megas se hizo más def.,,734
+Chikorita,,+5,,,,,,323,PRIMER AUXILIO (HA),VOZ CAUTIVADORA,Primer Auxilio: Ataques curativos tienen prioridad.,,323
+Bayleef,,+20,,+5,+10,+5,,445,PRIMER AUXILIO (HA),BESO DRENAJE/   BRILLO MÁGICO,Su evolución es ahora al nivel 45.,,445
+Meganium,,+10,,,+7,,,542,PRIMER AUXILIO (HA),BRILLO MÁGICO/ FUERZA LUNAR,Primer Auxilio: Ataques curativos tienen prioridad.,,542
+Cyndaquil,,+5,,,,,,314,CÓLERA (HA),SIN CAMBIOS,Cólera: +1 At.Esp si la salud es menos del 50%.,,314
+Quilava,,+20,,+5,+10,+5,,445,CÓLERA (HA),VOZARRÓN/ ESTRUENDO,Su evolución es ahora al nivel 45.,,445
+Typhlosion,,+10,-10,,,,+10,544,CÓLERA (HA),VOZARRÓN/TIERRA VIVA/ESTRUENDO,Cólera: +1 At.Esp si la salud es menos del 50%.,,544
+Typhlosion Hisui,,SIN CAMBIOS,,,,,,,CÓLERA,VOZARRÓN/TIERRA VIVA/ESTRUENDO,Cólera: +1 At.Esp si la salud es menos del 50%.,,
+Totodile,,+5,,,,,,319,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de salud.,,319
+Croconaw,,+20,+10,+5,,+5,,445,SIN CAMBIOS,TAJO ACUÁTICO/ ENVITE ACUÁTICO,Su evolución es ahora al nivel 45.,,445
+Feraligatr,,+10,,,,,,540,SIN CAMBIOS,TAJO ACUÁTICO/ ENVITE ACUÁTICO,Feraligatr gana un nuevo tipo y nuevos ataques.,,540
+Sentret,,,+20,,,,+50,285,SIN CAMBIOS,SIN CAMBIOS,Mejería bestial de velocidad y extra de ataque físico.,,285
+Furret,,,+14,,,+10,+20,459,PELAJE RECIO,SIN CAMBIOS,Pelaje Recio: Los ataques físicos le hacen -50%.,,459
+Hoothoot,,,,,+30,,,292,SIN CAMBIOS,SIN CAMBIOS,Gran mejoría en el ataque especial.,,292
+Noctowl,,,,+15,+9,,,476,SIN CAMBIOS,SIN CAMBIOS,Mejoría en la defensa física y ataque especial.,,476
+Ledyba,,,+20,,+20,,,305,SIN CAMBIOS,SIN CAMBIOS,Mejoría en ambas estadísticas ofensivas.,,305
+Ledian,,+15,+55,,,,,460,PIEL CELESTE (HA),PUÑO JET/ALA BIS/PLANCHA,Piel Celeste: Los ataques normales son volador (+20%),,460
+Spinarak,,,,,,+10,+40,300,SIN CAMBIOS,ESCALOFRÍO,Mejoría general de estadísticas.,,300
+Ariados,,+15,+20,,,-10,+35,460,TOQUE TÓXICO,ESCALOFRÍO,Toque tóxico: Movs de contacto pueden envenenar.,,460
+Crobat,,SIN CAMBIOS,,,,,,,FRANCOTIRADOR,PSICOCOLMILLO,Francotirador: Ataques críticos hacen más daño.,,
+Chinchou,,SIN CAMBIOS,,,,,,,ILUMINACIÓN*,SIN CAMBIOS,Iluminación reduce en 1 la precisión del rival.,,
+Lanturn,,SIN CAMBIOS,,,,,,,ILUMINACIÓN*,CARGA PARÁBOLA,Iluminación reduce en 1 la precisión del rival.,,
+Cleffa,,SIN CAMBIOS,,,,,,,IGNORANTE,SIN CAMBIOS,Ignorante: Ignora los aumentos de stats del rival.,,
+Igglybuff,,SIN CAMBIOS,,,,,,,NEBULOGÉNESIS (HA),SIN CAMBIOS,Nebulogénesis: Invoca campo hada al salir.,,
+Natu,,SIN CAMBIOS,,,,,,,FUERZA CEREBRAL (HA),SIN CAMBIOS,Fuerza Cerebral: Ataques supereficaces hacen + daño.,,
+Xatu,,,,,,,+5,475,FUERZA CEREBRAL (HA),VENDAVAL/ALA AURAL,Fuerza Cerebral: Ataques supereficaces hacen + daño.,,475
+Bellossom,,,,-10,+10,,,490,SIN CAMBIOS,TIERRA VIVA/ CLOROFILÁSER,Ligera mejoría en ataque especial y ataques nuevos.,,490
+Azumarill,,,,,-10,,,410,SIN CAMBIOS,SIN CAMBIOS,Es la versión antigua de Azumarill hasta 5º gen.,,410
+Sudowoodo,,+15,+10,+5,,+10,,450,AUDAZ (HA),HACHAZOPÉTREO/ GARROTEARBÓREO,Audaz: Ataques que dañan al usuario son más fuertes.,,450
+Politoed,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,ESTRUENDO,Nuevo tipo y poderoso movimiento para Politoed.,,
+Hoppip,,,+10,,+10,,,270,SIN CAMBIOS,LÁTIGO CEPA,Ligera mejoría en ambos ataques.,,270
+Skiploom,,,+20,,,,,360,SIN CAMBIOS,SIN CAMBIOS,Mejoría en ataque físico.,,360
+Jumpluff,,,+35,,,,,495,SIN CAMBIOS,SIN CAMBIOS,Gran mejoría en ataque físico.,,495
+Sunkern,,,+20,,+20,,,220,SIN CAMBIOS,SIN CAMBIOS,Mejoría en ambas estadísticas de ataque.,,220
+Sunflora,,,,+10,+10,+10,,455,HERBOGÉNESIS/ SEQUÍA (HA),LANZALLAMAS/CAÑÓN FLORAL/FOGONAZO,Herbogénesis: Crea campo hierba al salir.,,455
+Wooper,,,+10,,+10,+10,,240,SIN CAMBIOS,SIN CAMBIOS,Mejoría en ambos ataques y def. especial.,,240
+Quagsire,,,+15,+10,,,,455,SIN CAMBIOS,PUÑO JET,Mejoría en ambos ataques y def. especial.,,455
+Espeon,,SIN CAMBIOS,,,,,,,FUERZA CEREBRAL,SIN CAMBIOS,Fuerza Cerebral: Ataques supereficaces hacen + daño.,,
+Slowking,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,ESCALOFRÍO,Ataque muy interesante para Slowking.,,
+Slowking Galar,,SIN CAMBIOS,,,,,,,ESPANTO,SIN CAMBIOS,Espanto: Baja ataque especial en 1 al rival.,,
+Misdreavus,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,SIN CAMBIOS,Misdreavus gana el tipo Hada (Guiño a Melenaleteo),,
+Unown,,+32,,,+8,+32,,408,SIN CAMBIOS,PSÍQUICO/PAZ MENTAL/PREMONICIÓN,"Unown ahora puede tener su uso, antes era horrible.",,408
+Girafarig,,SIN CAMBIOS,,,,,,,PSICOGÉNESIS,SIN CAMBIOS,Psicogénesis: Invoca campo psíquico al salir.,,
+Dunsparce,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,CARANTOÑA,Ataque con el que consigue una cobertura útil.,,
+Steelix,,,+15,,,,,525,SIN CAMBIOS,ENROSQUE,Buena mejoría de ataque físico para Steelix.,,525
+Mega- Steelix,,SIN CAMBIOS,,,,,,,POTENCIA BRUTA,ENROSQUE,M.Steelix adquiere potencia bruta para ser ofensivo.,,
+Snubbull,,SIN CAMBIOS,,,,,,,ACOMETIDA,SIN CAMBIOS,"Acometida: En el 1º turno, aumenta ataque y velocidad.",,
+Granbull,,SIN CAMBIOS,,,,,,,ACOMETIDA,CHOQUE ANÍMICO,"Acometida: En el 1º turno, aumenta ataque y velocidad.",,
+Qwilfish,,SIN CAMBIOS,,,,,,,CAPA TÓXICA,SIN CAMBIOS,Capa Tóxica: Suelta púas tóxicas si es golpeado físico.,,
+Ursaring,,,-20,-10,,-10,,460,SIN CAMBIOS,SIN CAMBIOS,"Nerf para que con ""Eviolite"" no estuviera tan fuerte.",,460
+Slugma,,+20,,+20,,,,290,BABA,SIN CAMBIOS,Baba: -1 vel al rival si le atacan con mov. contacto.,,290
+Magcargo,,+10,,+20,+10,,,470,BABA,FOCO RESPLANDOR,Baba: -1 vel al rival si le atacan con mov. contacto.,,470
+Corsola,,+20,+30,-10,+30,-10,,470,SIN CAMBIOS,SALAZÓN/ACUA COLA,Mejoría general de estadísticas para Corsola.,,470
+Octillery,,SIN CAMBIOS,,,,,,,MEGADISPARADOR (HA),DISPARO CERTERO/ RECUPERACIÓN,Disparo Certero se beneficia de Megadisparador.,,
+Delibird,,+20,+20,+20,+35,+20,+15,460,SIN CAMBIOS,ESCALOFRÍO/RENCOR REPRIMIDO/VENDAVAL,"Delibird aprende ataques por nivel y no solo ""Presente"".",,460
+Houndour,,SIN CAMBIOS,,,,,,,ESPANTO (HA),SIN CAMBIOS,Espanto: Baja ataque especial en 1 al rival.,,
+Houndoom,,SIN CAMBIOS,,,,,,,ESPANTO (HA),SIN CAMBIOS,Espanto: Baja ataque especial en 1 al rival.,,
+Kingdra,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,DISPARO CERTERO,Disparo Certero combado con Francotirador es letal.,,
+Phanpy,,SIN CAMBIOS,,,,,,,ACOMETIDA,SIN CAMBIOS,"Acometida: En el 1º turno, aumenta ataque y velocidad.",,
+Donphan,,SIN CAMBIOS,,,,,,,ACOMETIDA,QUEMARRUEDA/ ARREMETIDA,"Acometida: En el 1º turno, aumenta ataque y velocidad.",,
+Stantler,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,FURIA TAURINA,Stantler ganó el tipo Psíquico y un movimiento.,,
+Tyrogue,,+20,+25,+25,,+10,+30,320,SIN CAMBIOS,SIN CAMBIOS,Tyrogue recibe muchas mejores estadísticas.,,320
+Smoochum,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,ESCALOFRÍO,Escalofrío es un movimiento interesante.,,
+Miltank,,,+10,,,,,500,SIN CAMBIOS,FURIA TAURINA,Miltank recibe mejoría de stats y ataque nuevo.,,500
+Raikou,,SIN CAMBIOS,,,,,,,ABS. ELECTRICIDAD (HA),SIN CAMBIOS,Absorber electricidad: Es inmune a movs. eléctricos.,,
+Entei,,SIN CAMBIOS,,,,,,,ABS. FUEGO (HA),SIN CAMBIOS,Absorber fuego: Es inmune a movs. ígneos.,,
+Suicune,,SIN CAMBIOS,,,,,,,ABS. AGUA (HA),SIN CAMBIOS,Absorber agua: Es inmune a movs. acuáticos.,,
+Treecko,,+5,,,,,,315,SIN CAMBIOS,SIN CAMBIOS,Ligera mejoría en salud.,,315
+Grovyle,,+20,,+5,+10,+5,,445,SILVANO (HA),SIN CAMBIOS,Su evolución es ahora al nivel 45.,,445
+Sceptile,,+10,+20,,-20,,,540,SILVANO (HA),SIN CAMBIOS,Silvano: Mayor daño si campo hierba está activo.,,540
+Mega- Sceptile,,+10,+35,,-35,,,640,SILVANO,SIN CAMBIOS,Silvano: Mayor daño si campo hierba está activo.,,640
+Torchic,,+5,,,,,,315,SIN CAMBIOS,SIN CAMBIOS,Ligera mejoría en salud.,,315
+Combusken,,+20,+5,+5,,+5,,440,CAMORRISTA,SIN CAMBIOS,Su evolución es ahora al nivel 45.,,440
+Blaziken,,+10,,,,,,540,CAMORRISTA,SIN CAMBIOS,Camorrista: Las patadas son un 20% más fuertes.,,540
+Mega- Blaziken,,+10,,,,,,640,SIN CAMBIOS,SIN CAMBIOS,Ligera mejoría en salud.,,640
+Mudkip,,+5,,,,,,315,SIN CAMBIOS,SIN CAMBIOS,Ligera mejoría en salud.,,315
+Marshtomp,,+20,,+10,,+10,,445,SIN CAMBIOS,SIN CAMBIOS,Su evolución es ahora al nivel 45.,,445
+Swampert,,+5,,,,,,540,SIN CAMBIOS,SIN CAMBIOS,Ligera mejoría en salud.,,540
+Mega- Swampert,,+10,,,,,,645,SIN CAMBIOS,SIN CAMBIOS,Ligera mejoría en salud.,,645
+Mightyena,,,+20,,,,+20,460,SIN CAMBIOS,SIN CAMBIOS,Mejoría en ataque físico y velocidad.,,460
+Zigzagoon Galar,,SIN CAMBIOS,,,,,,,AGALLAS,SIN CAMBIOS,"Agallas: Si tiene estado alterado,+50% el ataque.",,
+Linoone Galar,,+2,,,,,,422,AGALLAS,SIN CAMBIOS,"Agallas: Si tiene estado alterado,+50% el ataque.",,422
+Beautifly,,+10,,+10,+10,+25,+20,470,SIN CAMBIOS,VENDAVAL,Mejoría general de estadísticas y ataque nuevo.,,470
+Dustox,,+10,,,+40,+15,+15,465,SIN CAMBIOS,SIN CAMBIOS,Mejoría general de estadísticas para Dustox.,,465
+Ludicolo,,,+10,,,,,490,SIN CAMBIOS,DANZA ACUÁTICA,Mejora de ataque físico y nuevo ataque de tipo Agua.,,490
+Seedot,,+10,+15,,+20,+20,+25,310,ESPESURA,LÁTIGO CEPA,Espesura: Aumenta poder planta en un apuro.,,310
+Nuzleaf,,,,+10,,+10,+30,390,ESPESURA,SIN CAMBIOS,Espesura: Aumenta poder planta en un apuro.,,390
+Shiftry,,,+10,,+5,,+10,505,SILVANO/     CORTANTE (HA),SIN CAMBIOS,Cortante: Ataques de filo son un 50% más fuertes.,,505
+Taillow,,,+10,,,,,280,SIN CAMBIOS,SIN CAMBIOS,Ligera mejoría en el ataque físico para Taillow.,,280
+Swellow,,+15,+20,,-25,,,465,SIN CAMBIOS,SIN CAMBIOS,Mejoría en salud y ataque físico para Swellow.,,465
+Pelipper,,+20,,,,,,460,SIN CAMBIOS,SIN CAMBIOS,Mejoría en salud para Pelipper.,,460
+Ralts,,+20,,+10,+15,+10,,253,SIN CAMBIOS,SIN CAMBIOS,Mejoría general de estadísticas para Ralts.,,253
+Kirlia,,+17,,+10,+15,+20,,340,SIN CAMBIOS,SIN CAMBIOS,Mejoría general de estadísticas para Kirlia.,,340
+Mega- Gardevoir,,,+10,,-10,,,618,SIN CAMBIOS,SIN CAMBIOS,Ligero nerfeo al poder dañino de Mega-Gardevoir.,,618
+Surskit,,+15,,,+10,+8,,302,SIN CAMBIOS,SIN CAMBIOS,Mejoría general de estadísticas para Suskit.,,302
+Masquerain,,,,,,+8,,462,SIN CAMBIOS,SIN CAMBIOS,Masquerain mantiene el Bicho/Agua de Surskit.,,462
+Whismur,,,+9,+13,,+13,,275,PUNK ROCK,SIN CAMBIOS,Punk Rock: Potencia ataques sonoros y recibe menos daño.,,275
+Loudred,,,+9,,+9,+10,,388,PUNK ROCK,SIN CAMBIOS,Punk Rock: Potencia ataques sonoros y recibe menos daño.,,388
+Exploud,,,+10,,+10,,,510,PUNK ROCK,SIN CAMBIOS,Punk Rock: Potencia ataques sonoros y recibe menos daño.,,510
+Skitty,,,+20,,,,+10,290,PIEL FEÉRICA,SIN CAMBIOS,Piel Feérica: Los ataques normales son hadas (+20%),,290
+Delcatty,,+20,+30,+10,+35,+10,+10,515,PIEL FEÉRICA,SIN CAMBIOS,Piel Feérica: Los ataques normales son hadas (+20%),,515
+Sableye,,+15,+15,+15,+15,+15,,455,SIN CAMBIOS,ESCALOFRÍO/ TERREMOTO,Mejora muy buena de estadísticas para Sableye.,,455
+Mega- Sableye,,,+40,-30,-20,-30,+90,530,GARRA DURA,ESCALOFRÍO/ TERREMOTO,M.Sableye adquiere garra dura para ser ofensivo.,,530
+Mawile,,+15,,,,,,395,SIN CAMBIOS,CHOQUE ANÍMICO,Mawile tiene su mega como evolución permanente.,,395
+Mega- Mawile,,+25,+10,-20,,-25,+15,485,MISMAS QUE MAWILE BASE. NO POTENCIA.,CHOQUE ANÍMICO,Mega-Mawile es evolución permanente de Mawile.,,485
+Aggron,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,FURIA TAURINA,Movimiento interesante nuevo para Aggron.,,
+Manectric,,SIN CAMBIOS,,,,,,,TENACIDAD (HA),SIN CAMBIOS,"Tenacidad: Si ve bajada una stat, +2 ataque especial.",,
+Plusle,,,,,+20,,,425,SIN CAMBIOS,AMPLIFICADOR,Mejoría en ataque especial para Plusle.,,425
+Minun,,,,,,+20,,425,SIN CAMBIOS,AMPLIFICADOR,Mejoría en defensa especial para Minun.,,425
+Volbeat,,,-20,-20,+53,-10,+20,453,ILUMINACIÓN*,CHISPAZO,Iluminación reduce en 1 la precisión del rival.,,453
+Illumise,,,+6,-20,+22,+15,,453,ILUMINACIÓN*,LUMINICOLA/     FUERZA LUNAR,Iluminación reduce en 1 la precisión del rival.,,453
+Roselia,,,+10,,,,,410,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento en el ataque físico para Roselia.,,410
+Gulpin,,,,,+10,,,312,CORROSIÓN/BABA,SIN CAMBIOS,Corrosión: Permite envenenar a Veneno y Acero.,,312
+Swalot,,,,,+7,,,474,CORROSIÓN/BABA,SIN CAMBIOS,Corrosión: Permite envenenar a Veneno y Acero.,,474
+Carvanha,,SIN CAMBIOS,,,,,,,ACOMETIDA,SIN CAMBIOS,"Acometida: En el 1º turno, aumenta ataque y velocidad.",,
+Sharpedo,,,,+10,-5,+10,+5,480,ACOMETIDA,ENVITE ACUÁTICO,"Acometida: En el 1º turno, aumenta ataque y velocidad.",,480
+Numel,,SIN CAMBIOS,,,,,,,COMBUSTIBLE (HA),SIN CAMBIOS,Combustible: +6 de vel. si le pegan con agua o fuego.,,
+Camerupt,,,,+10,,+10,,480,POTENCIA BRUTA/ COMBUSTIBLE (HA),SIN CAMBIOS,Combustible: +6 de vel. si le pegan con agua o fuego.,,480
+Mega- Camerupt,,,,,-10,,+10,600,SIN CAMBIOS,SIN CAMBIOS,Ligero nerfeo al poder dañino de Mega-Camerupt.,,600
+Torkoal,,,,,+10,,,480,COMBUSTIBLE (HA),CHORRO DE VAPOR/ CAUTIVAPOR,Combustible: +6 de vel. si le pegan con agua o fuego.,,480
+Spoink,,SIN CAMBIOS,,,,,,,OLOR PORCINO,HIPNOSIS,Olor Porcino: -2 de evasión al enemigo si usa contacto.,,
+Grumpig,,,,+10,+10,,,490,OLOR PORCINO,HIPNOSIS,Olor Porcino: -2 de evasión al enemigo si usa contacto.,,490
+Spinda,,+10,+40,,+40,,,450,SIN CAMBIOS,ESTRUENDO,Mejoría en salud y ambos ataques.,,450
+Cacturne,,+15,,,,,,490,SIN CAMBIOS,IRREVERENCIA/   PATADA TROPICAL,Ligera mejoría en puntos de salud para Cacturne.,,490
+Swablu,,,+20,,+20,,,350,SIN CAMBIOS,SIN CAMBIOS,Ligera mejoría en ambos ataques en Swablu.,,350
+Altaria,,,+20,,+20,-10,,520,PIEL FEÉRICA,SIN CAMBIOS,Piel Feérica: Los ataques normales son hadas (+20%),,520
+Mega- Altaria,,,,,+10,,+10,610,SIN CAMBIOS,SIN CAMBIOS,Ligero boosteo para Mega-Altaria.,,610
+Zangoose,,+10,,+10,,+10,+10,498,SIN CAMBIOS,SIN CAMBIOS,Mejoría en varias estadísticas para Zangoose.,,498
+Seviper,,SIN CAMBIOS,,,,,,,ENSAÑAMIENTO,DANZA DRAGÓN,Ensañamiento: Mete siempre crítico si rival envenenado.,,
+Lunatone,,,,+5,+20,+5,,490,SIN CAMBIOS,SIN CAMBIOS,Mejoría en varias estadísticas para Lunatone.,,490
+Solrock,,,+20,+5,,+5,,490,SIN CAMBIOS,SIN CAMBIOS,Mejoría en varias estadísticas para Solrock.,,490
+Barboach,,+10,+17,,+19,,,334,SIN CAMBIOS,SIN CAMBIOS,Mejoría en varias estadísticas para Barboach.,,334
+Whiscash,,,+12,,,+10,,490,ADAPTABLE (HA),SIN CAMBIOS,Adaptable: El stab pasa a ser x2 en vez de 1.5,,490
+Baltoy,,,,,+20,,,320,SIN CAMBIOS,SIN CAMBIOS,Mejoría en ataque especial para Baltoy.,,320
+Claydol,,+10,-10,,+20,,,520,SIN CAMBIOS,LÁSER DOBLE/ RECOGEARENA,Mejoría en salud y ataque especial para Claydol.,,520
+Anorith,,SIN CAMBIOS,,,,,,,CORAZA IRA,SIN CAMBIOS,Coraza Ira: Sube ataques y velocidad si pierde 50% de HP,,
+Armaldo,,SIN CAMBIOS,,,,,,,CORAZA IRA,TAJO ACUÁTICO,Coraza Ira: Sube ataques y velocidad si pierde 50% de HP,,
+Feebas,,+30,+30,+15,+50,,-10,315,SIN CAMBIOS,BURBUJA/HIDROPULSO,Feebas aprende ataques por nivel aquí.,,315
+Castform,,+20,,+20,+30,+20,,510,SIN CAMBIOS,SIN CAMBIOS,Aumento considerable de stats para Castform.,,510
+Kecleon,,,+10,,,,,450,SIN CAMBIOS,SIN CAMBIOS,Ligera mejoría en ataque físico.,,450
+Mega- Banette,,+20,-35,,-10,-10,+5,525,CACHEO/CUERPO MALDITO (HA),SIN CAMBIOS,Mega-Banette es evolución permanente de Banette.,,525
+Duskull,,,+15,,,,,310,SIN CAMBIOS,SIN CAMBIOS,Ligera mejoría en ataque físico.,,310
+Tropius,,,+22,,+18,,,500,PIEL CELESTE/  SEQUÍA (HA),PATADATROPICAL/VOZ-ARRÓN/ÁCIDOMÁLICO,Piel Celeste: Los ataques normales son volador (+20%),,500
+Chimecho,,SIN CAMBIOS,,,,,,,TINTINEO,ESTRUENDO,Tintineo: Usa CampanaCura y movs normales son psiquicos.,,
+Absol,,+15,,,,,,480,SIN CAMBIOS,ESPADA LAMENTO,Ligero aumento de puntos de salud y ataque nuevo.,,480
+Glalie,,+10,+10,,+10,,,510,PODER GÉLIDO,ROMPEHIELOS/ ESCALOFRÍO,"Poder Gélido: +1 Atk, AtkEsp y Vel si hay clima nevado.",,510
+Mega-Glalie,,+10,+10,,+10,,,600,SIN CAMBIOS,ROMPEHIELOS/ ESCALOFRÍO,Aumento de estadísticas y ataques nuevos.,,600
+Walrein,,,+10,,,,,540,SIN CAMBIOS,RELAJO,Más ataque físico y mov. nuevo para Walrein.,,540
+Clamperl,,+30,,+10,+20,,,405,SIN CAMBIOS,SIN CAMBIOS,Aumentos en varias estadísticas para Clamperl.,,405
+Huntail,,SIN CAMBIOS,,,,,,,MANDÍBULA FUERTE,SIN CAMBIOS,Mandíbula Fuerte: Potencia los ataques de mandíbula.,,
+Relicanth,,,+10,,,,,495,SIN CAMBIOS,SIN CAMBIOS,Aumento ligero del poder ofensivo de Relicanth.,,495
+Luvdisc,,+20,,,+70,,+3,423,SIN CAMBIOS,FUERZA LUNAR,Luvdisc consigue ser Hada y estadísticas mejores.,,423
+Metagross,,SIN CAMBIOS,,,,,,,PUÑO FÉRREO (HA),SIN CAMBIOS,Puño Férreo: Ataques de puño son más poderosos.,,
+Turtwig,,+5,,,,,,323,SIN CAMBIOS,SIN CAMBIOS,Ligera mejoría en salud.,,323
+Grotle,,+15,+10,+5,,+5,+5,445,SIN CAMBIOS,SIN CAMBIOS,Su evolución es ahora al nivel 45.,,445
+Torterra,,+10,,,,,,535,CABEZA ROCA (HA),SIN CAMBIOS,Cabeza Roca: El usuario no recibe daño de retroceso.,,535
+Chimchar,,+5,,,,,,314,SIN CAMBIOS,SIN CAMBIOS,Ligera mejoría en salud.,,314
+Monferno,,+20,+10,+5,,+5,,445,SIN CAMBIOS,SIN CAMBIOS,Su evolución es ahora al nivel 45.,,445
+Infernape,,+10,,,,,,544,SIN CAMBIOS,SIN CAMBIOS,Ligera mejoría en salud.,,544
+Piplup,,+5,,,,,,319,SIN CAMBIOS,SIN CAMBIOS,Ligera mejoría en salud.,,319
+Prinplup,,+20,,+5,+10,+5,,445,SIN CAMBIOS,DISPARO ESPEJO/  FOCO RESPLANDOR,Su evolución es ahora al nivel 45.,,445
+Empoleon,,+10,,,,,,540,SIN CAMBIOS,SIN CAMBIOS,Ligera mejoría en salud.,,540
+Shinx,,,,,,,+20,283,SIN CAMBIOS,SIN CAMBIOS,Shinx es ahora más veloz.,,283
+Luxio,,,,,+5,,+20,388,SIN CAMBIOS,SIN CAMBIOS,Luxio gana ataque especial y bastante velocidad.,,388
+Luxray,,,,,-10,,+10,523,MANDÍBULA FUERTE,SIN CAMBIOS,Mandíbula Fuerte: Potencia los ataques de mandíbula.,,523
+Budew,,+10,+20,,+5,-10,,305,SIN CAMBIOS,SIN CAMBIOS,Mejoría en salud y ambos ataques.,,305
+Roserade,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,CAÑÓN FLORAL,Movimiento muy interesante para Roserade.,,
+Cranidos,,SIN CAMBIOS,,,,,,,ACOMETIDA (HA),SIN CAMBIOS,"Acometida: En el 1º turno, aumenta ataque y velocidad.",,
+Rampardos,,,,,,,+10,505,ACOMETIDA (HA),SIN CAMBIOS,"Acometida: En el 1º turno, aumenta ataque y velocidad.",,505
+Bastiodon,,+10,,,,,,505,SIN CAMBIOS,SIN CAMBIOS,Bastiodon tiene ahora más salud.,,505
+Wormadan,,+20,,+10,+11,,,465,SIN CAMBIOS,SIN CAMBIOS,"Mejora de salud, defensa y ataque especial.",,465
+Mothim,,,-10,+10,+11,+20,+20,475,SIN CAMBIOS,VENDAVAL,Mejora general muy buena para Mothim.,,475
+Vespiquen,,,+10,,-10,,,474,INTIMIDACIÓN,SIN CAMBIOS,Intimidación: -1 de ataque al rival al salir al campo.,,474
+Pachirisu,,,,,+45,,+20,470,PELAJE RECIO,SIN CAMBIOS,El campeón del mundo 2014 recibe muchas mejoras.,,470
+Floatzel,,,+5,,,,,500,SIN CAMBIOS,PUÑO JET/         TRIPLE INMERSIÓN,Ligero aumento de ataque físico y ataques nuevos.,,500
+Cherrim,,-5,-15,-5,-15,-15,-30,365,CLOROFILA,SIN CAMBIOS,Cherrim tiene evolución regional por eso el nerf.,,365
+Shellos,,SIN CAMBIOS,,,,,,,BABA,SIN CAMBIOS,Baba: -1 vel. al rival si le atacan con mov. contacto.,,
+Gastrodon,,SIN CAMBIOS,,,,,,,BABA,SIN CAMBIOS,Baba: -1 vel. al rival si le atacan con mov. contacto.,,
+Drifblim,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,VENDAVAL,Poderoso movimiento de tipo Volador para Drifblim.,,
+Lopunny,,,+30,,,,,510,CAMORRISTA/ INTRÉPIDO (HA),SIN CAMBIOS,Camorrista: Las patadas son un 20% más fuertes.,,510
+Mismagius,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,FUERZA LUNAR/ RENCOR REPRIMIDO,Mismagius gana el tipo Hada (Guiño a Melenaleteo),,
+Honchkrow,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,IRREVERENCIA,Movimiento nuevo interesante de tipo Siniestro.,,
+Purugly,,+14,+20,,,,,486,SIN CAMBIOS,SIN CAMBIOS,Aumento de salud y ataque físico para Purugly.,,486
+Chingling,,+10,,,,+10,,305,TINTINEO,SIN CAMBIOS,Tintineo: Usa CampanaCura y movs normales son psiquicos.,,305
+Skuntank,,,+10,,,,,489,SIN CAMBIOS,IRREVERENCIA,Aumento de ataque físico y ataque nuevo interesante.,,489
+Bronzong,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,RECUPERACIÓN,Recuperación le da mucha ayuda a Bronzong.,,
+Bonsly,,,,,,,+40,330,SIN CAMBIOS,SIN CAMBIOS,Bonsly es muchísimo más veloz de lo normal.,,330
+Mime Jr.,,+40,,,+20,,+30,400,SIN CAMBIOS,SIN CAMBIOS,Mejoría en varias estadísticas para Mime Jr.,,400
+Chatot,,,+25,+10,+8,+10,+9,473,PUNK ROCK (HA),SIN CAMBIOS,Punk Rock: Potencia ataques sonoros y recibe menos daño.,,473
+Spiritomb,,+10,,,,,,495,ESPANTO,RENCOR REPRIMIDO,Espanto: Baja ataque especial en 1 al rival.,,495
+Croagunk,,+15,+10,+10,,+10,,345,SIN CAMBIOS,SIN CAMBIOS,Mejoría general para Croagunk.,,345
+Toxicroak,,,,,,,+5,495,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de velocidad.,,495
+Carnivine,,+6,+10,,,,,470,MANDÍBULA FUERTE (HA),COLM.ÍGNEO-HIELO-RAYO/ATRAPABICHO,Mandíbula Fuerte: Potencia los ataques de mandíbula.,,470
+Finneon,,,,,+20,,,350,SIN CAMBIOS,SIN CAMBIOS,Aumento interesante de ataque especial.,,350
+Lumineon,,+10,,,+31,,,501,SIN CAMBIOS,DANZA ALETEO,"Movimiento muy poderoso para Lumineon, más stats.",,501
+Snover,,SIN CAMBIOS,,,,,,,ESCAMA DE HIELO,ESCALOFRÍO,Escama de Hielo: Los ataques especiales le hacen -50%.,,
+Abomasnow,,,,+10,,+10,,514,ESCAMA DE HIELO,ESCALOFRÍO/    RENCOR REPRIMIDO,Escama de Hielo: Los ataques especiales le hacen -50%.,,514
+Lickilicky,,SIN CAMBIOS,,,,,,,BABA,SIN CAMBIOS,Baba: -1 vel al rival si le atacan con mov. contacto.,,
+Rhyperior,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,HIPERTALADRO/ ARREMETIDA,Movimientos interesantes para Rhyperior.,,
+Tangrowth,,,+10,,,,-10,535,HERBOGÉNESIS (HA),SIN CAMBIOS,Herbogénesis: Crea campo hierba al salir.,,535
+Electivire,,SIN CAMBIOS,,,,,,,PUÑO FÉRREO (HA),SIN CAMBIOS,Puño Férreo: Ataques de puño son más poderosos.,,
+Magmortar,,SIN CAMBIOS,,,,,,,MEGADISPARADOR (HA),ESFERA AURAL/   PULSO UMBRÍO,Nuevos ataques para aprovechar la hab. nueva,,
+Glaceon,,SIN CAMBIOS,,,,,,,PODER GÉLIDO,TIERRA VIVA,"Poder Gélido: +1 Atk, AtkEsp y Vel si hay clima nevado.",,
+Mamoswine,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,ARREMETIDA/VIENTO CARÁMBANO,Movimientos interesantes para Mamoswine.,,
+Mega- Gallade,,,-10,,+10,,,618,SIN CAMBIOS,SIN CAMBIOS,Ligero nerfeo al poder dañino de Mega-Gallade.,,618
+Probopass,,SIN CAMBIOS,,,,,,,LEVITACIÓN (HA),SIN CAMBIOS,Levitación: Al usuario no le afectan ataques tierra.,,
+Dusknoir,,SIN CAMBIOS,,,,,,,PUÑO FÉRREO,PUÑO DRENAJE,Puño Férreo: Ataques de puño son más poderosos.,,
+Froslass,,,,,+10,,,490,PODER GÉLIDO,ESCALOFRÍO/    RENCOR REPRIMIDO,"Poder Gélido: +1 Atk, AtkEsp y Vel si hay clima nevado.",,490
+Rotom Ventilador,,,,-21,+2,-2,+21,490,ELECTROMOTOR,SIN CAMBIOS,Electromotor: +1 de vel si recibe ataque eléctrico.,,490
+Rotom Cortador,,,,-21,+2,-2,+21,490,SIN CAMBIOS,SIN CAMBIOS,Mejoría en los puntos de velocidad para esta forma.,,490
+Phione,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,SALPICADURA,Venganza de Eric a Elena por Volcarona en Reminiscencia.,,
+Shaymin Cielo,,,-3,,,,+3,600,SIN CAMBIOS,SIN CAMBIOS,Ligerísima mejora para Shaymin forma cielo.,,600
+Snivy,,+5,,,,,,313,SIN CAMBIOS,SIN CAMBIOS,Ligera mejoría en salud.,,313
+Servine,,+20,+15,+5,+15,+5,,473,SIN CAMBIOS,PSICORRAYO/GARRADRAGÓN/DRAGOALIENTO,Su evolución es ahora al nivel 45.,,473
+Serperior,,+10,+10,,+10,,,558,SIN CAMBIOS,PSICOCOLMILLO/PSÍQUI-CO/BOMBALODO,Serperior es ahora más versátil con esos ataques.,,558
+Tepig,,+5,,,,,,313,POTENCIA BRUTA (HA),SIN CAMBIOS,Ligera mejoría en salud.,,313
+Pignite,,+20,+10,+5,,+5,,458,POTENCIA BRUTA (HA),TRITURAR,Su evolución es ahora al nivel 45.,,458
+Emboar,,+10,,,,,,538,POTENCIA BRUTA (HA),TRITURAR/RELAJO/ VOLTIO CRUEL*,Voltio Cruel ahora se beneficia de Potencia Bruta.,,538
+Oshawott,,+5,,,,,,313,SIN CAMBIOS,SIN CAMBIOS,Ligera mejoría en salud.,,313
+Dewott,,+20,+20,+5,,+5,,463,CORTANTE (HA),SIN CAMBIOS,Su evolución es ahora al nivel 45.,,463
+Samurott,,+10,+8,,-8,,,538,CORTANTE (HA),A BOCAJARRO/   TRIPLE INMERSIÓN,Cortante: Ataques de filo son un 50% más fuertes.,,538
+Watchog,,+10,+10,,,,+33,473,ILUMINACIÓN*,SIN CAMBIOS,Iluminación reduce en 1 la precisión del rival.,,473
+Liepard,,+6,+22,+10,,+10,+14,508,SIN CAMBIOS,IRREVERENCIA,Mejoría general de estadísticas para Liepard.,,508
+Pansage,,+10,+17,,+10,,,353,SIN CAMBIOS,SIN CAMBIOS,Mejoría en salud y ambos ataques.,,353
+Simisage,,SIN CAMBIOS,,,,,,,PODER SABIO (HA),SIN CAMBIOS,Poder Sabio: +50% ata. esp. pero encierra en un ataque.,,
+Pansear,,+10,+10,,+17,,,353,SIN CAMBIOS,SIN CAMBIOS,Mejoría en salud y ambos ataques.,,353
+Simisear,,SIN CAMBIOS,,,,,,,PODER SABIO (HA),SIN CAMBIOS,Poder Sabio: +50% ata. esp. pero encierra en un ataque.,,
+Panpour,,+10,+10,,+17,,,353,SIN CAMBIOS,AGUA FRÍA,Mejoría en salud y ambos ataques.,,353
+Simipour,,SIN CAMBIOS,,,,,,,PODER SABIO (HA),AGUA FRÍA,Poder Sabio: +50% ata. esp. pero encierra en un ataque.,,
+Munna,,SIN CAMBIOS,,,,,,,NEBULOGÉNESIS (HA),SIN CAMBIOS,Nebulogénesis: Invoca campo hada al salir.,,
+Musharna,,SIN CAMBIOS,,,,,,,NEBULOGÉNESIS (HA),CAUTIVAPOR,Nebulogénesis: Invoca campo hada al salir.,,
+Pidove,,,-19,,+19,,,264,SIN CAMBIOS,SIN CAMBIOS,Pidove pasa a ser atacante especial.,,264
+Tranquill,,,-27,,+27,,,358,SIN CAMBIOS,SIN CAMBIOS,Tranquill pasa a ser atacante especial.,,358
+Unfezant,,,-50,,+50,,,488,SIN CAMBIOS,VOZARRÓN/ V.CORTANTE*,V. Cortante se lanza en un solo turno. No recarga.,,488
+Blitzle,,SIN CAMBIOS,,,,,,,AUDAZ,SIN CAMBIOS,Audaz: Ataques que dañan al usuario son más fuertes.,,
+Zebstrika,,+10,+10,,,,,517,AUDAZ,PLACAJE ELÉCTRICO/ PATADA ÍGNEA,Audaz: Ataques que dañan al usuario son más fuertes.,,517
+Boldore,,+10,,,,+20,,420,SIN CAMBIOS,SIN CAMBIOS,Aumento de salud y defensa especial para Boldore.,,420
+Gigalith,,+10,,,,,,525,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de puntos de salud.,,525
+Swoobat,,,+10,,+23,+10,,468,SIN CAMBIOS,ALA AURAL,Aumento de ambos ataques y defensa especial.,,468
+Excadrill,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,HIPERTALADRO,Movimiento interesante nuevo.,,
+Audino,,-23,,,+30,,,452,PRIMER AUXILIO,ESTRUENDO,Audino tiene la mega como evolución permanente.,,452
+Mega- Audino,,-3,,-40,+30,-30,,502,PRIMER AUXILIO/ REGENERACIÓN,SIN CAMBIOS,Mega-Audino es evolución permanente de Audino.,,502
+Seismitoad,,,,,+5,,,514,SIN CAMBIOS,PUÑO JET,Ligero aumento de ataque especial y mov. nuevo.,,514
+Leavanny,,,+7,,,,,507,CORTANTE/SILVANO,SIN CAMBIOS,Silvano: Mayor daño si campo hierba está activo.,,507
+Scolipede,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,QUEMARRUEDA,Nueva cobertura interesante para Scolipede.,,
+Whimsicott,,,,,+20,,,500,SIN CAMBIOS,SIN CAMBIOS,Aumento de ataque especial.,,500
+Lilligant Hisui,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,TRUCO FLORAL,Nueva cobertura interesante para Lilligant Hisui.,,
+Darmanitan,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,ERUPCIÓN DE IRA,Movimiento poderoso de tipo Fuego para Darmanitan.,,
+Darmanitan Galar,,SIN CAMBIOS,,,,,,,ADAPTABLE,ERUPCIÓN DE IRA,Adaptable: El stab pasa a ser x2 en vez de 1.5,,
+Maractus,,,,+10,,+10,,481,SIN CAMBIOS,TRUCO FLORAL,Aumento en ambas defensas para Maractus.,,481
+Crustle,,,,+10,,,,495,CORAZA IRA (HA),MARTILLAZO,Coraza Ira: Sube ataques y velocidad si pierde 50% de HP,,495
+Sigilyph,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,ALA AURAL,Nueva cobertura interesante para Sigilyph.,,
+Trubbish,,+15,,,+10,,,354,CORROSIÓN (HA),SIN CAMBIOS,Corrosión: Permite envenenar a Veneno y Acero.,,354
+Garbodor,,+20,,,+25,,-20,499,CORROSIÓN (HA),PUÑO METEORO,Corrosión: Permite envenenar a Veneno y Acero.,,499
+Mega- Garbodor,,+20,+30,+30,+35,+30,-20,599,IMÁN,PUÑO METEORO,"En Galar los Gigamax no aumentan stats, aquí sí.",,599
+Zoroark Hisui,,+5,+5,,-5,,-5,510,SIN CAMBIOS,SIN CAMBIOS,Zoroark Hisui conserva las estadísticas del normal.,,510
+Ducklett,,,+20,+5,+20,+5,,355,SIN CAMBIOS,SIN CAMBIOS,Mejora de ataques y defensas para Ducklett.,,355
+Swanna,,,,,+20,,,493,VOZ FLUIDA,VOZARRÓN,Voz Fluida: Ataques de sonido pasan a ser de agua.,,493
+Vanillite,,SIN CAMBIOS,,,,,,,PODER GÉLIDO (HA),SIN CAMBIOS,"Poder Gélido: +1 Atk, AtkEsp y Vel si hay clima nevado.",,
+Vanillish,,SIN CAMBIOS,,,,,,,PODER GÉLIDO (HA),BESO DRENAJE,"Poder Gélido: +1 Atk, AtkEsp y Vel si hay clima nevado.",,
+Vanilluxe,,,-20,,+20,,,535,PODER GÉLIDO (HA),BRILLO MÁGICO,"Poder Gélido: +1 Atk, AtkEsp y Vel si hay clima nevado.",,535
+Sawsbuck,,,+15,,,,+10,500,SILVANO (HA),FURIA TAURINA,Silvano: Mayor daño si campo hierba está activo.,,500
+Emolga,,,+20,,+20,,+7,475,SIN CAMBIOS,AMPLIFICADOR/ ELECTROPALMAS,Aumento de ambos ataques y velocidad para Emolga.,,475
+Karrablast,,,+10,+10,,+10,,345,SIN CAMBIOS,SIN CAMBIOS,Aumento ataque físico y ambas defensas.,,345
+Escavalier,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,HIPERTALADRO/ CHUPAVIDAS,Nuevos movimientos interesantes para Escavalier.,,
+Foongus,,+6,,+5,,+5,,310,SIN CAMBIOS,SIN CAMBIOS,Aumento en salud y ambas defensas para Foongus.,,310
+Jellicent,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,ESCALOFRÍO,Nuevo movimiento interesante para Jellicent.,,
+Alomomola,,,,,+35,,,505,SIN CAMBIOS,SIN CAMBIOS,Alomomola pasa a ser mixto con ese aumento.,,505
+Joltik,,+5,,,+10,,+10,344,SIN CAMBIOS,SIN CAMBIOS,"Más saludable, ágil y letal es Joltik.",,344
+Klinklang,,SIN CAMBIOS,,,,,,,LEVITACIÓN,SIN CAMBIOS,Levitación: Al usuario no le afectan ataques tierra.,,
+Eelektross,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,ELECTROPICO,Nuevo ataque tipo Eléctrico físico muy potente.,,
+Beheeyem,,,,+10,,,,495,SIN CAMBIOS,LÁSER DOBLE,Mejoría en defensa física para nuestro alien.,,495
+Litwick,,,+20,,,+10,,305,SIN CAMBIOS,SIN CAMBIOS,Mejoría en ataque físico y defensa especial.,,305
+Lampent,,,+15,+5,,+5,,395,SIN CAMBIOS,SIN CAMBIOS,Mejoría en ataque físico y ambas defensas.,,395
+Cubchoo,,+10,+20,+10,,+10,,355,POTENCIA BRUTA,SIN CAMBIOS,Potencia bruta: Ataques con efectos secundarios + daño.,,355
+Beartic,,SIN CAMBIOS,,,,,,,POTENCIA BRUTA,VIENTO CARÁMBANO,Potencia bruta: Ataques con efectos secundarios + daño.,,
+Cryogonal,,SIN CAMBIOS,,,,,,,PODER GÉLIDO (HA),ESCALOFRÍO/     RENCOR REPRIMIDO,"Poder Gélido: +1 Atk, AtkEsp y Vel si hay clima nevado.",,
+Shelmet,,+10,,,+20,,,335,SIN CAMBIOS,SIN CAMBIOS,Mejoría en salud y en ataque especial.,,335
+Accelgor,,SIN CAMBIOS,,,,,,,PIEL SECA,MAQUINACIÓN,Piel Seca: Absorbe los ataques de agua.,,
+Stunfisk,,SIN CAMBIOS,,,,,,,COLECTOR,SIN CAMBIOS,Colector: Inmune al agua y +1 de ataque especial.,,
+Golett,,+10,,+10,,+10,,333,SIN CAMBIOS,SIN CAMBIOS,Aumento en salud y ambas defensas para Golett.,,333
+Golurk,,+5,,+5,,,,493,SIN CAMBIOS,PUÑO JET/           PUÑO SOMBRA*,Puño Sombra está subido de potencia en este juego.,,493
+Bouffalant,,SIN CAMBIOS,,,,,,,ACOMETIDA (HA),FURIA TAURINA/ TESTARAZO,"Acometida: En el 1º turno, aumenta ataque y velocidad.",,
+Heatmor,,,+13,+20,-10,+20,,527,SIN CAMBIOS,SIN CAMBIOS,Mejoría en ataque físico y ambas defensas.,,527
+Deino,,SIN CAMBIOS,,,,,,,INTIMIDACIÓN,SIN CAMBIOS,Deino gana intimidación en lugar de entusiasmo.,,
+Zweilous,,SIN CAMBIOS,,,,,,,INTIMIDACIÓN,SIN CAMBIOS,Zweilous gana intimidación en lugar de entusiasmo.,,
+Larvesta,,+20,,,+35,,+10,425,SIN CAMBIOS,SIN CAMBIOS,"Mejoría en salud, ataque especial y velocidad.",,425
+Chespin,,+5,,,,,,318,AFORTUNADO (HA),BOFETÓN LODO,Afortunado: Aumenta en 1 el índice de crítico.,,318
+Quilladin,,+35,+10,,,,,450,AFORTUNADO (HA),SIN CAMBIOS,Gana el tipo que tendrá Chesnaught Z.,,450
+Fennekin,,+5,+10,,,,,322,ELECTRICIDAD ESTÁTICA (HA),MOFLETE ESTÁTICO/ ONDA VOLTIO,Elec. Estática: Puede paralizar si le atacan físico.,,322
+Braixen,,+25,+31,,-15,,,450,ELECTRICIDAD ESTÁTICA (HA),COLMILLO RAYO,Gana el tipo que tendrá Delphox Z.,,450
+Froakie,,+5,,,,,,319,EXPERTO (HA),CONFUSIÓN/  PSICORRAYO,Experto: Potencia ataques de potencia 60 o menos.,,319
+Frogadier,,+25,+5,,+15,,,450,EXPERTO (HA),PSICORRAYO/ PARANORMAL,Gana el tipo que tendrá Greninja Z.,,450
+Bunnelby,,,+19,,,,,256,SIN CAMBIOS,SIN CAMBIOS,Aumento considerable de ataque físico.,,256
+Talonflame,,,+9,,,,,508,SIN CAMBIOS,SEMILLADORA,Aumento ligero de ataque físico.,,508
+Spewpa,,,+33,,+28,,,274,CROMOLENTE,SIN CAMBIOS,Cromolente: Potencia ataques poco eficaces.,,274
+Vivillon,,,,,+15,+20,,446,CROMOLENTE (HA),SIN CAMBIOS,Cromolente: Potencia ataques poco eficaces.,,446
+Litleo,,SIN CAMBIOS,,,,,,,INTIMIDACIÓN (HA),SIN CAMBIOS,Intimidación: -1 de ataque al rival al salir al campo.,,
+Pyroar,,,,,+6,,,513,INTIMIDACIÓN (HA),ESTRUENDO/       CANTO ARDIENTE,Intimidación: -1 de ataque al rival al salir al campo.,,513
+Flabebe,,SIN CAMBIOS,,,,,,,FLORACIÓN/ HERBOGÉNESIS (HA),SIN CAMBIOS,Floración: Los ataques de planta tienen +50% de daño.,,
+Floette,,SIN CAMBIOS,,,,,,,FLORACIÓN/ HERBOGÉNESIS (HA),SIN CAMBIOS,Floración: Los ataques de planta tienen +50% de daño.,,
+Florges,,SIN CAMBIOS,,,,,,,FLORACIÓN/ HERBOGÉNESIS (HA),VOZARRÓN/        CAÑÓN FLORAL,Floración: Los ataques de planta tienen +50% de daño.,,
+Skiddo,,SIN CAMBIOS,,,,,,,ACOMETIDA/PIEL HERBÁCEA (HA),SIN CAMBIOS,"Acometida: En el 1º turno, aumenta ataque y velocidad.",,
+Gogoat,,SIN CAMBIOS,,,,,,,ACOMETIDA/PIEL HERBÁCEA (HA),FURIA TAURINA,Piel Herbácea: Los ataques normales son plantas (+20%),,
+Furfrou (Corazón),,+10,+20,,,,,502,SIN CAMBIOS,CARANTOÑA,"Mejoría de salud, ataque físico, nuevo tipo y mov.",,502.0
+Furfrou (Estrella),,+10,+20,,,,,502,SIN CAMBIOS,ACRÓBATA,"Mejoría de salud, ataque físico, nuevo tipo y mov.",,502.0
+Furfrou (Rombo),,+10,+20,,,,,502,SIN CAMBIOS,AVALANCHA,"Mejoría de salud, ataque físico, nuevo tipo y mov.",,502.0
+Furfrou (Señorita),,+10,+20,,,,,502,SIN CAMBIOS,VOLTIO CRUEL,"Mejoría de salud, ataque físico, nuevo tipo y mov.",,502.0
+Furfrou (Dama),,+10,+20,,,,,502,SIN CAMBIOS,CABEZAZO ZEN,"Mejoría de salud, ataque físico, nuevo tipo y mov.",,502.0
+Furfrou (Caballero),,+10,+20,,,,,502,SIN CAMBIOS,BOMBA GERMEN,"Mejoría de salud, ataque físico, nuevo tipo y mov.",,502.0
+Furfrou(Aris-tócrata),,+10,+20,,,,,502,SIN CAMBIOS,CHUZOS,"Mejoría de salud, ataque físico, nuevo tipo y mov.",,502.0
+Furfrou (Kabuki),,+10,+20,,,,,502,SIN CAMBIOS,ENVITE ÍGNEO,"Mejoría de salud, ataque físico, nuevo tipo y mov.",,502.0
+Furfrou (Faraón),,+10,+20,,,,,502,SIN CAMBIOS,ACUA COLA,"Mejoría de salud, ataque físico, nuevo tipo y mov.",,502.0
+Espurr,,SIN CAMBIOS,,,,,,,POT.BRUTA/F.CEREBRAL/BROMISTA (HA),SIN CAMBIOS,Fuerza Cerebral: Ataques supereficaces hacen + daño.,,
+Meowstic,,,,,+20,,,486,POT.BRUTA/ F.CEREBRAL,SIN CAMBIOS,Potencia bruta: Ataques con efectos secundarios + daño.,,486
+Spritzee,,SIN CAMBIOS,,,,,,,CURA NATURAL/ REGENERACIÓN (HA),SIN CAMBIOS,Cura Natural: Se recupera de estados al ser cambiado.,,
+Aromatisse,,SIN CAMBIOS,,,,,,,CURA NATURAL/ REGENERACIÓN (HA),SIN CAMBIOS,Regeneración: Recupera salud al ser cambiado.,,
+Swirlix,,SIN CAMBIOS,,,,,,,GULA,SIN CAMBIOS,Gula: Usa las bayas cuando pierde el 50% de la vida.,,
+Slurpuff,,+5,,,,,,485,GULA,SIN CAMBIOS,Gula: Usa las bayas cuando pierde el 50% de la vida.,,485
+Malamar,,,+8,,,+10,,500,SIN CAMBIOS,TAJO ACUÁTICO,Aumento en ataque físico y defensa especial.,,500
+Binacle,,SIN CAMBIOS,,,,,,,CORAZA IRA (HA),SALAZÓN,Coraza Ira: Sube ataques y velocidad si pierde 50% de HP,,
+Barbaracle,,SIN CAMBIOS,,,,,,,CORAZA IRA (HA),TAJO ACUÁTICO/ SALAZÓN/ACUA COLA,Coraza Ira: Sube ataques y velocidad si pierde 50% de HP,,
+Clawitzer,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,DISPARO CERTERO/ CAÑÓN ARMADURA,Disparo Certero se beneficia de Megadisparador.,,
+Heliolisk,,,,,+6,,,487,SIN CAMBIOS,AMPLIFICADOR,Ligera mejoría en el ataque especial de Heliolisk.,,487
+Amaura,,SIN CAMBIOS,,,,,,,ESCAMA DE HIELO (HA),SIN CAMBIOS,Escama de Hielo: Los ataques especiales le hacen -50%.,,
+Aurorus,,SIN CAMBIOS,,,,,,,ESCAMA DE HIELO (HA),SIN CAMBIOS,Escama de Hielo: Los ataques especiales le hacen -50%.,,
+Sylveon,,SIN CAMBIOS,,,,,,,CURA NATURAL (HA),SIN CAMBIOS,Cura Natural: Se recupera de estados al ser cambiado.,,
+Hawlucha,,-5,,-5,,-5,,485,SIN CAMBIOS,SIN CAMBIOS,"Tiene evolución regional, por eso el nerf.",,485
+Dedenne,,,,,+19,+18,,468,ELECTROGÉNESIS/ PIEL FEÉRICA (HA),TRIATAQUE/  MAQUINACIÓN,Electrogénesis: Crea campo eléctrico al salir.,,468
+Carbink,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,TORMENTA DE DIAMANTES,Poderoso movimiento que obtiene Carbink.,,
+Sliggoo Hisui,,+10,,,,,,462,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de salud para Sliggoo Hisui.,,462
+Phantump,,SIN CAMBIOS,,,,,,,CUERPO MALDITO (HA),SIN CAMBIOS,Cuerpo Maldito: 30% de desactivar el ataque rival,,
+Trevenant,,,,+10,,,,484,CUERPO MALDITO (HA),SIN CAMBIOS,Cuerpo Maldito: 30% de desactivar el ataque rival,,484
+Pumpkaboo,,SIN CAMBIOS,,,,,,,CUERPO LLAMA (HA),SIN CAMBIOS,Cuerpo Llama: Puede quemar al rival si hay contacto.,,
+Gourgeist,,SIN CAMBIOS,,,,,,,ABS. FUEGO/CUERPO LLAMA (HA),SIN CAMBIOS,Absorber fuego: Es inmune a movs. ígneos.,,
+Avalugg,,SIN CAMBIOS,,,,,,,PODER GÉLIDO,MARTILLO HIELO/ ROMPEHIELOS,"Poder Gélido: +1 Atk, AtkEsp y Vel si hay clima nevado.",,
+Noibat,,+20,+35,+20,+20,+10,+25,375,SIN CAMBIOS,SIN CAMBIOS,Mejoría en todas las estadísticas para Noibat.,,375
+Noivern,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,AMPLIFICADOR,Ataque muy interesante nuevo para Noivern.,,
+Diancie,,SIN CAMBIOS,,,,,,,ESPEJO MÁGICO,SIN CAMBIOS,Para compensar que no tiene mega recibe la hab. de ella.,,
+Hoopa,,SIN CAMBIOS,,,,,,,ESPEJO MÁGICO,SIN CAMBIOS,Habilidad más útil que la original para Hoopa.,,
+Volcanion,,SIN CAMBIOS,,,,,,,ABSORBER FUEGO,SIN CAMBIOS,"Junto a Abs. Agua consigue Abs. Fuego, ambas útiles.",,
+Rowlet,,+5,,,,,,325,FRANCOTIRADOR (HA),SIN CAMBIOS,Francotirador: Los golpes críticos son más fuertes.,,325
+Dartrix,,+20,+10,+5,,+5,,460,FRANCOTIRADOR (HA),SIN CAMBIOS,Su evolución es ahora al nivel 45.,,460
+Decidueye,,+10,,,-20,-15,+35,540,PENETRANTE (HA),PUNTADA SOMBRÍA*,Puntada Sombría ahora tiene alto índice de crítico.,,540
+Litten,,+5,,,,,,325,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de salud.,,325
+Torracat,,+20,+10,+5,,+5,,460,SIN CAMBIOS,SIN CAMBIOS,Su evolución es ahora al nivel 45.,,460
+Incineroar,,+10,,,,,,540,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de salud.,,540
+Popplio,,+5,,,,,,325,SIN CAMBIOS,SIN CAMBIOS,Gran encanto: Posibilidad de enamorar por contacto.,,325
+Brionne,,+20,,+5,+10,+5,,460,SIN CAMBIOS,SIN CAMBIOS,Su evolución es ahora al nivel 45.,,460
+Primarina,,+10,,,,,,540,SIN CAMBIOS,CAUTIVAPOR,Ligero aumento de salud.,,540
+Toucannon,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,HIPERTALADRO,Movimiento interesante nuevo.,,
+Yungoos,,+8,,,,,,253,INTIMIDACIÓN/ IGNORANTE (HA),SIN CAMBIOS,Intimidación: -1 de ataque al rival al salir al campo.,,253
+Gumshoos,,,,,,,+40,458,SIN CAMBIOS,SIN CAMBIOS,Gumshoos es mucho más rápido de lo normal.,,458
+Charjabug,,SIN CAMBIOS,,,,,,,ELECTRICIDAD ESTÁTICA,SIN CAMBIOS,Electricidad Estática: Puede paralizar si le golpean físico.,,
+Crabo- minable,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,PUÑO JET,Movimiento interesante nuevo con prioridad.,,
+Oricorio,,SIN CAMBIOS,,,,,,,RITMO PROPIO,SIN CAMBIOS,Ritmo Propio: Evita quedarse confundido.,,
+Cutiefly,,SIN CAMBIOS,,,,,,,CROMOLENTE,SIN CAMBIOS,Cromolente: Potencia ataques poco eficaces.,,
+Ribombee,,,,,,+5,,469,CROMOLENTE,SIN CAMBIOS,Cromolente: Potencia ataques poco eficaces.,,469
+Wishiwashi,,+50,+70,+60,+60,+60,,475,LLOVIZNA,SIN CAMBIOS,"No tiene la forma banco, pero recibe estadísticas.",,475
+Mudsdale,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,ARREMETIDA,Movimiento interesante nuevo para Mudsdale.,,
+Araquanid,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,TAJO ACUÁTICO,Movimiento interesante nuevo para Araquanid.,,
+Fomantis,,SIN CAMBIOS,,,,,,,CLOROFILA (HA),SIN CAMBIOS,Clorofila: Doble de velocidad si hay clima de Sol.,,
+Lurantis,,,+5,,-5,,,300,ADAPTABLE/ CLOROFILA (HA),ATRAPABICHO/    TRUCO FLORAL,Adaptable: El stab pasa a ser x2 en vez de x1.5,,300
+Morelull,,+15,,,,,,300,ILUMINACIÓN*,SIN CAMBIOS,Iluminación reduce en 1 la precisión del rival.,,300
+Shiinotic,,+15,,,,,,420,ILUMINACIÓN*,SIN CAMBIOS,Iluminación reduce en 1 la precisión del rival.,,420
+Salazzle,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,CAUTIVAPOR/      CANTO ARDIENTE,Ataques interesantes nuevos para Salazzle.,,
+Tsareena,,SIN CAMBIOS,,,,,,,CAMORRISTA,SIN CAMBIOS,Camorrista: Las patadas son un 20% más fuerte.,,
+Golisopod,,,,-30,,,,500,RETIRADA*,SIN CAMBIOS,Retirada funciona solo si usa movimiento tipo Bicho.,,500
+Pyukumuku,,SIN CAMBIOS,,,,,,,PUNTA ACERO,SIN CAMBIOS,Punta Acero: El rival recibe daño si usa movs. contacto.,,
+Silvally,,SIN CAMBIOS,,,,,,,ADAPTABLE,SIN CAMBIOS,No cambia de tipo pero pega más fuerte por stab.,,
+Minior,,SIN CAMBIOS,,,,,,,ARMADURA FRÁGIL,SIN CAMBIOS,Mantiene su forma defensiva pero gana vel. por su hab.,,
+Komala,,+10,,,,,,490,HERBÍVORO,SIN CAMBIOS,Komala gana una inmunidad al tipo planta.,,490
+Togedemaru,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,PLACAJE ELÉCTRICO,Movimiento muy poderoso para Togedemaru.,,
+Mimikyu,,,+15,,,,,491,SIN CAMBIOS,SIN CAMBIOS,Mejoría en la estadística ofensiva de Mimikyu.,,491
+Bruxish,,,+5,,,,+8,488,SIN CAMBIOS,ESCALOFRÍO,Mejora en el ataque físico y velocidad para Bruxish.,,488
+Drampa,,+7,,,,,,492,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de salud.,,492
+Nihilego,,-10,,,-10,-20,-10,520,LEVITACIÓN,SIN CAMBIOS,Hubo bajada a los Ultraentes para poder usarlos en lockes,,520
+Buzzwole,,-10,-10,-20,,,+10,540,PUÑO FÉRREO,SIN CAMBIOS,Hubo bajada a los Ultraentes para poder usarlos en lockes,,540
+Pheromosa,,,-10,,-20,,-20,520,AUDAZ,SIN CAMBIOS,Hubo bajada a los Ultraentes para poder usarlos en lockes,,520
+Xurkitree,,-10,,-10,-30,,,520,ABSORBER ELECTRICIDAD,SIN CAMBIOS,Hubo bajada a los Ultraentes para poder usarlos en lockes,,520
+Celesteela,,-10,-10,-10,-10,-10,,520,METAL PESADO,SIN CAMBIOS,Hubo bajada a los Ultraentes para poder usarlos en lockes,,520
+Kartana,,,-30,-20,,,,520,ARMADURA FRÁGIL,SIN CAMBIOS,Hubo bajada a los Ultraentes para poder usarlos en lockes,,520
+Guzzlord,,-50,,,,,,520,GULA,SIN CAMBIOS,Hubo bajada a los Ultraentes para poder usarlos en lockes,,520
+Magearna,,SIN CAMBIOS,,,,,,,PRESIÓN,SIN CAMBIOS,"Coránima está muy roto, se optó por un nerfeo.",,
+Poipole,,SIN CAMBIOS,,,,,,,ALLANAMIENTO,SIN CAMBIOS,Hubo bajada a los Ultraentes para poder usarlos en lockes,,
+Naganadel,,,,,-10,,,530,ALLANAMIENTO,SIN CAMBIOS,Hubo bajada a los Ultraentes para poder usarlos en lockes,,530
+Stakataka,,,-10,-30,,-10,,520,ROBUSTEZ,SIN CAMBIOS,Hubo bajada a los Ultraentes para poder usarlos en lockes,,520
+Blace- phalon,,,-30,,-10,-10,,520,BROMISTA,SIN CAMBIOS,Hubo bajada a los Ultraentes para poder usarlos en lockes,,520
+Grookey,,+5,,,,,,315,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de salud.,,315
+Thwackey,,+20,+20,+5,,+5,,470,SIN CAMBIOS,SIN CAMBIOS,Su evolución es ahora al nivel 45.,,470
+Rillaboom,,+10,,,,,+1,541,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de salud y velocidad.,,541
+Scorbunny,,+5,,,,,,315,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de salud.,,315
+Raboot,,+20,+10,+5,,+5,,460,CAMORRISTA,SIN CAMBIOS,Su evolución es ahora al nivel 45.,,460
+Cinderace,,+10,,,,,,540,CAMORRISTA,SIN CAMBIOS,Camorrista: Las patadas son un 20% más fuertes.,,540
+Sobble,,+5,,,,,,315,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de salud.,,315
+Drizzile,,+15,-10,+5,+10,+5,,445,SIN CAMBIOS,ALARIDO,Su evolución es ahora al nivel 45.,,445
+Inteleon,,+15,-5,,,,,540,SIN CAMBIOS,SIN CAMBIOS,Aumento de salud a cambio de perder ataque físico.,,540
+Mega- Corviknight,,,+30,+20,+20,+10,+20,595,AUDAZ,SIN CAMBIOS,"En Galar los Gigamax no aumentan stats, aquí sí.",,595
+Blipbug,,SIN CAMBIOS,,,,,,,FUERZA CEREBRAL (HA),SIN CAMBIOS,Fuerza Cerebral: Ataques supereficaces hacen + daño.,,
+Dottler,,SIN CAMBIOS,,,,,,,FUERZA CEREBRAL (HA),SIN CAMBIOS,Fuerza Cerebral: Ataques supereficaces hacen + daño.,,
+Orbeetle,,SIN CAMBIOS,,,,,,,FUERZA CEREBRAL /PSICOGÉNESIS (HA),SIN CAMBIOS,Psicogénesis: Invoca campo psíquico al salir.,,
+Mega- Orbeetle,,,+20,+20,+30,+20,+10,605,FUERZA CEREBRAL,SIN CAMBIOS,"En Galar los Gigamax no aumentan stats, aquí sí.",,605
+Nickit,,,,,+1,,,246,EXPERTO (HA),SIN CAMBIOS,Experto: Potencia ataques de potencia 60 o menos.,,246
+Thievul,,SIN CAMBIOS,,,,,,,EXPERTO (HA),SIN CAMBIOS,Experto: Potencia ataques de potencia 60 o menos.,,
+Eldegoss,,,,,+10,,,470,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de ataque especial para Eldegoss.,,470
+Dubwool,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,FURIA TAURINA,Ataque nuevo interesante con stab para Dubwool.,,
+Chewtle,,SIN CAMBIOS,,,,,,,INTIMIDACIÓN,SIN CAMBIOS,Intimidación: -1 de ataque al rival al salir al campo.,,
+Drednaw,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,TAJO ACUÁTICO,Ataque de tipo Agua nuevo para Drednaw.,,
+Mega- Drednaw,,,+30,+40,+10,+20,,585,ROCA SÓLIDA,TAJO ACUÁTICO,"En Galar los Gigamax no aumentan stats, aquí sí.",,585
+Yamper,,SIN CAMBIOS,,,,,,,ELECTRICIDAD ESTÁTICA,SIN CAMBIOS,"Yamper gana una habilidad útil, Recogebolas no lo era.",,
+Boltund,,SIN CAMBIOS,,,,,,,ELECTRICIDAD ESTÁTICA (HA),SIN CAMBIOS,"Boltund mantiene Static, aunque de habilidad oculta.",,
+Mega- Coalossal,,,+30,+20,+30,+20,,610,SIN CAMBIOS,SIN CAMBIOS,"En Galar los Gigamax no aumentan stats, aquí sí.",,610
+Flapple,,SIN CAMBIOS,,,,,,,LEVITACIÓN,HOJA AGUDA,Levitación: Al usuario no le afectan ataques tierra.,,
+Mega- Flapple,,+40,+15,+20,+5,+40,-20,585,SIN CAMBIOS,HOJA AGUDA,"En Galar los Gigamax no aumentan stats, aquí sí.",,585
+Mega- Appletun,,,+20,+20,+20,+20,+20,585,SIN CAMBIOS,SIN CAMBIOS,"En Galar los Gigamax no aumentan stats, aquí sí.",,585
+Mega-Sandaconda,,,+30,,+10,+10,+60,620,CHORRO ARENA,SIN CAMBIOS,"En Galar los Gigamax no aumentan stats, aquí sí.",,620
+Cramorant,,,,,+10,-10,,475,SIMPLE,SIN CAMBIOS,"Combinado con Reserva, la habilidad es muy buena.",,475
+Arrokuda,,SIN CAMBIOS,,,,,,,INTIMIDACIÓN (HA),SIN CAMBIOS,Intimidación: -1 de ataque al rival al salir al campo.,,
+Barras- kewda,,SIN CAMBIOS,,,,,,,PENETRANTE (HA),TAJO ACUÁTICO/ TRIPLE INMERSIÓN,Penetrante: Movimientos punzantes pueden retroceder,,
+Toxtricity,,SIN CAMBIOS,,,,,,,INSONORIZAR,ELECTROPALMAS,Insonorizar: El usuario es inmune a ataques sonoros.,,
+Mega- Toxtricity,,,+20,+20,+30,+10,+20,602,DESCARGA,ELECTROPALMAS,"En Galar los Gigamax no aumentan stats, aquí sí.",,602
+Mega-Centiskorch,,,+30,+30,+10,,+30,625,MAR LLAMAS,SIN CAMBIOS,"En Galar los Gigamax no aumentan stats, aquí sí.",,625
+Cloboppus,,+10,+10,+5,,,,335,SIN CAMBIOS,SIN CAMBIOS,"Mejora de salud, ataque y defensa para Cloboppus.",,335
+Hatterene,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,RECUPERACIÓN,Poderoso movimiento curativo para Hatterene.,,
+Mega- Hatterene,,,+20,+20,+20,+20,+20,610,SIN CAMBIOS,RECUPERACIÓN,"En Galar los Gigamax no aumentan stats, aquí sí.",,610
+Impidimp,,,,,-15,+10,,260,SIN CAMBIOS,SIN CAMBIOS,Aumento de la defensa especial para Impidimp.,,260
+Morgrem,,,,,-20,+15,,365,SIN CAMBIOS,SIN CAMBIOS,Aumento de la defensa especial para Morgrem.,,365
+Mega- Grimmsnarl,,,+40,+30,,+20,+30,630,POTENCIA BRUTA,SIN CAMBIOS,"En Galar los Gigamax no aumentan stats, aquí sí.",,630
+Obstagoon,,,+5,,,,,525,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento en el ataque físico para Obstagoon.,,525
+Cursola,,SIN CAMBIOS,,,,,,,CUERPO MALDITO (HA),SALAZÓN,Cuerpo Maldito: 30% de desactivar el ataque rival.,,
+Mr. Rime,,SIN CAMBIOS,,,,,,,EXPERTO/FILTRO/ PSICOGÉNESIS (HA),ESCALOFRÍO,Psicogénesis: Invoca campo psíquico al salir.,,
+Milcery,,SIN CAMBIOS,,,,,,,C.HORNEADO/REGENERACIÓN/C.NATURAL,SIN CAMBIOS,Cuerpo Horneado: Anula Fuego y se sube Defensa.,,
+Alcremie,,SIN CAMBIOS,,,,,,,C.HORNEADO/REGENERACIÓN/C.NATURAL,FUERZA LUNAR,Cuerpo Horneado: Anula Fuego y se sube Defensa.,,
+Mega- Alcremie,,,+20,+30,+20,+30,,595,REGENERACIÓN,FUERZA LUNAR,"En Galar los Gigamax no aumentan stats, aquí sí.",,595
+Falinks,,SIN CAMBIOS,,,,,,,ENCADENADO,SEMILLADORA/ EMPUJÓN/PEDRADA,Encadenado: Ataques multihits siempre dan 5.,,
+Pincurchin,,SIN CAMBIOS,,,,,,,ELECTRICIDAD ESTÁTICA (HA),ELECTROPICO,Electrogénesis pasa a ser su habilidad común. Static HA.,,
+Snom,,SIN CAMBIOS,,,,,,,NEVADA (HA),SIN CAMBIOS,Nevada: Invoca clima nevado al entrar al campo.,,
+Frosmoth,,SIN CAMBIOS,,,,,,,CROMOLENTE/ NEVADA (HA),ESCALOFRÍO,Nevada: Invoca clima nevado al entrar al campo.,,
+Stonjourner,,SIN CAMBIOS,,,,,,,ROBUSTEZ,SIN CAMBIOS,"Su habilidad original era inútil, mejor una hab. def.",,
+Eiscue,,,+30,,,,,500,CABEZA ROCA/ NEVADA,ROMPEHIELOS,Mantiene la forma con cara de hielo siempre.,,500
+Morpeko,,SIN CAMBIOS,,,,,,,ELEC. ESTÁTICA/ CARRILLO (HA),ELECTROPALMAS,Mantiene su forma base en todo momento.,,
+Mega- Copperajah,,,+20,+30,,,+50,600,SIN CAMBIOS,SIN CAMBIOS,"En Galar los Gigamax no aumentan stats, aquí sí.",,600
+Duraludon,,SIN CAMBIOS,,,,,,,CUERPO PURO (HA),SIN CAMBIOS,Cuerpo puro: El usuario no ve bajada sus estadísticas.,,
+Zacian,,,+10,,,,,670,PRESIÓN,SIN CAMBIOS,Ajuste en la habilidad de Zacian.,,670
+Zamazenta,,,+10,,,,,670,PRESIÓN,SIN CAMBIOS,Ajuste en la habilidad de Zamazenta.,,670
+Eternatus,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,AZOTE,Eric estuvo gracioso e hizo que solo tuviera Azote.,,
+Urshifu,,SIN CAMBIOS,,,,,,,PUÑO FÉRREO,SIN CAMBIOS,Ajuste en la habilidad de Urshifu.,,
+Regieleki,,SIN CAMBIOS,,,,,,,PARARRAYOS,SIN CAMBIOS,Ajuste en la habilidad de Regieleki.,,
+Regidrago,,SIN CAMBIOS,,,,,,,GARRA DURA,SIN CAMBIOS,Ajuste en la habilidad de Regidrago.,,
+Glastrier,,SIN CAMBIOS,,,,,,,NERVIOSISMO,SIN CAMBIOS,Ajuste en la habilidad de Glastrier.,,
+Spectrier,,SIN CAMBIOS,,,,,,,NERVIOSISMO,SIN CAMBIOS,Ajuste en la habilidad de Spectrier.,,
+Wyrdeer,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,FURIA TAURINA,Movimiento interesante para Wyrdeer.,,
+Kleavor,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,ROCA VELOZ,Movimiento interesante de prioridad.,,
+Bascule- gion,,SIN CAMBIOS,,,,,,,AUDAZ,BRANQUIBOCADO,Audaz: Ataques que dañan al usuario son más fuertes.,,
+Sneasler,,SIN CAMBIOS,,,,,,,HURTO (HA),SIN CAMBIOS,Hurto: Roba objeto al rival al atacar físico.,,
+Overqwill,,SIN CAMBIOS,,,,,,,CAPA TÓXICA,SIN CAMBIOS,Capa Tóxica: Suelta púas tóxicas si es golpeado físico.,,
+Sprigatito,,+5,,,,,,315,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de salud.,,315
+Floragato,,+20,+10,+5,,+5,,450,SIN CAMBIOS,TAJO UMBRÍO,Su evolución es ahora al nivel 45.,,450
+Meow- scarada,,+10,,,,,,540,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de salud.,,540
+Fuecoco,,+5,,,,,,315,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de salud.,,315
+Crocalor,,+20,,+5,+10,+5,,451,SIN CAMBIOS,BOLA SOMBRA,Su evolución es ahora al nivel 45.,,451
+Skeledirge,,+10,,,,,,540,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de salud.,,540
+Quaxly,,+5,,,,,,315,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de salud.,,315
+Quaxwell,,+20,+10,+5,,+5,,450,SIN CAMBIOS,SIN CAMBIOS,Su evolución es ahora al nivel 45.,,450
+Quaquaval,,+10,,,,,,540,SIN CAMBIOS,SIN CAMBIOS,Ligero aumento de salud.,,540
+Lechonk,,SIN CAMBIOS,,,,,,,OLOR PORCINO,HIPNOSIS,Olor Porcino: -2 de evasión al enemigo si usa contacto.,,
+Oinkologne,,SIN CAMBIOS,,,,,,,OLOR PORCINO,HIPNOSIS/TERREMOTO,Olor Porcino: -2 de evasión al enemigo si usa contacto.,,
+Spidops,,+10,+21,,,,,435,EXPERTO/   ENJAMBRE (HA),SIN CAMBIOS,Experto: Potencia ataques de potencia 60 o menos.,,435
+Nymble,,+20,+18,+5,,+10,+10,270,SIN CAMBIOS,SIN CAMBIOS,Mejoría en casi todas las estadísticas para Nimble.,,270
+Lokix,,,+10,,,,,460,SIN CAMBIOS,PATADA SALTO ALTA/ TRITURAR,Subida de ataque físico para Lokix.,,460
+Pawmot,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,PLACAJE ELÉCTRICO,Poderoso movimiento que obtiene Pawmot.,,
+Tandemaus,,,+10,,,,,315,SIN CAMBIOS,SIN CAMBIOS,Subida de ataque físico para Tandemaus.,,315
+Maushold,,,,-10,,-10,,450,RITMO PROPIO (HA),PLUMERAZO,"Tiene evolución regional, por eso el nerf.",,450
+Dachsbun,,+5,,,,,,482,PELUCHE (HA),ENVITE ÍGNEO,Peluche: Ataques de contacto le hacen daño -50%.,,482
+Arboliva,,SIN CAMBIOS,,,,,,,HERBOGÉNESIS,SIN CAMBIOS,Herbogénesis: Crea campo hierba al salir.,,
+Squaw- kabilly,,,+10,,,+10,+10,447,SIN CAMBIOS,SIN CAMBIOS,"Ligera mejora en ataque, def. especial y velocidad.",,447
+Maschiff,,SIN CAMBIOS,,,,,,,ENTUSIASMO (HA),SIN CAMBIOS,Entusisamo: Ataque +50% pero Precisión -20%.,,
+Mabostiff,,SIN CAMBIOS,,,,,,,ENTUSIASMO (HA),SIN CAMBIOS,Entusisamo: Ataque +50% pero Precisión -20%.,,
+Grafaiai,,,+10,,,,,495,SIN CAMBIOS,SIN CAMBIOS,Ligera mejoría de ataque físico.,,495
+Bramblin,,SIN CAMBIOS,,,,,,,PIEL TOSCA,SIN CAMBIOS,"Piel Tosca: Si el rival usa mov. contacto, recibe daño.",,
+Bramble- ghast,,,,+10,,,+10,500,PIEL TOSCA,SIN CAMBIOS,"Piel Tosca: Si el rival usa mov. contacto, recibe daño.",,500
+Toedscruel,,SIN CAMBIOS,,,,,,,EFECTOESPORA/REGENERACIÓN/PIELSECA,SIN CAMBIOS,"Toedscruel es forma regional de Tentacruel, comparten nº",,
+Klawf,,+10,,,,,,460,SIN CAMBIOS,ROMPECORAZA,Mejoría en salud y ataque muy interesante.,,460
+Capsakid,,+10,+5,,+5,,,324,SIN CAMBIOS,SIN CAMBIOS,Aumento de salud y en ambos ataques.,,324
+Scovillain,,+10,+5,,+5,,,506,SIN CAMBIOS,LLAMA FINAL,Ataque nuevo junto a aumentos de salud y ataques.,,506
+Rellor,,+10,,,,+30,+10,290,SIN CAMBIOS,SIN CAMBIOS,"Aumento en salud, defensa especial y velocidad.",,290
+Espathra,,,,,,+10,,491,SIN CAMBIOS,SIN CAMBIOS,Aumento en la defensa especial para Espathra.,,491
+Tinkaton,,,+5,,,,,511,SIN CAMBIOS,MAZAZO/MARTILLAZO/MARTILLO DRAGÓN,Movimientos muy versátiles para Tinkaton.,,511
+Wugtrio,,,,+10,,,-10,425,FLEXIBILIDAD/ EXPERTO (HA),ROCA VELOZ,"Wugtrio es forma regional de Dugtrio, comparten número.",,425
+Bombirdier,,,+10,+10,,,,505,ENTUSIASMO (HA),TAJO UMBRÍO,Entusiasmo: Ataque +50% pero Precisión -20%.,,505
+Palafin,,SIN CAMBIOS,,,,,,,FLAQUEZA,SIN CAMBIOS,Aparece siempre en modo héroe pero hab. negativa.,,
+Revavroom,,,,,,,+10,510,SIN CAMBIOS,SIN CAMBIOS,Consigue una mejora ligera en velocidad.,,510
+Hound- stone,,,+10,,,,,498,SIN CAMBIOS,TERREMOTO/        AMOR PÓSTUMO,Amor Póstumo es Retribución de Fantasma.,,498
+Flamigo,,,,,,+10,,510,CAMORRISTA (HA),TRITURAR/PATADA SALTO ALTA,Camorrista: Las patadas son un 20% más fuertes.,,510
+Cetitan,,SIN CAMBIOS,,,,,,,SIN CAMBIOS,ROMPEHIELOS/VIENTO CARÁMBANO,Poderosos movimientos de tipo Hielo para Cetitan.,,
+Veluza,,,+10,,,,+30,518,SIN CAMBIOS,SIN CAMBIOS,Más fuerte y ágil es Veluza ahora.,,518
+Dondozo,,-50,,,,,,480,SIN CAMBIOS,SIN CAMBIOS,Aquí no vas a disfrutar tanto como en VGC con esta cosa.,,480
+Tatsugiri,,,,,,,+10,485,FLEXIBILIDAD,SIN CAMBIOS,Aquí no vas a disfrutar tanto como en VGC con esta cosa.,,485
+Annihilape,,SIN CAMBIOS,,,,,,,ACOMETIDA,SIN CAMBIOS,"Acometida: En el 1º turno, aumenta ataque y velocidad.",,
+Farigiraf,,SIN CAMBIOS,,,,,,,PSICOGÉNESIS,SIN CAMBIOS,Psicogénesis: Invoca campo psíquico al salir.,,
+Colmilargo,,-25,-1,-41,+7,+7,-17,500,ROBUSTEZ/ACOMETIDA/VELO ARENA (HA),QUEMARRUEDA,"Colmilargo es forma regional de Donphan, por eso el nerf.",,500
+Reptalada,,,,+26,-25,-40,+19,550,CUERPO LLAMA/ ENJAMBRE (HA),DANZA DRAGÓN/ MARTILLO DRAGÓN,"Reptalada es forma regional de Volcarona, por eso nerf.",,550
+Pelarena,,-15,-11,-17,-1,,+9,535,IMÁN/ROBUSTEZ/ CÁL. FINAL (HA),SIN CAMBIOS,"Pelarena es forma regional de Magnezone, por eso nerf.",,535
+Ferrosaco,,+4,,-29,-14,,-16,515,ENTUSIASMO/ESP. VITAL/INSOMNIO (HA),RENCOR REPRIMIDO,"Ferrosaco es forma regional de Delibird, por eso el nerf.",,515
+Ferro- palmas,,-10,-30,-18,-10,-18,-10,474,AGALLAS/STATIC/ELECTROMOTOR (HA),ARREMETIDA,"Ferropalmas es forma regional de Hariyama, nerf.",,474
+Frigibax,,SIN CAMBIOS,,,,,,,SEBO (HA),SIN CAMBIOS,Sebo: Resiste mejor hielo y fuego.,,
+Arctibax,,SIN CAMBIOS,,,,,,,SEBO (HA),SIN CAMBIOS,Sebo: Resiste mejor hielo y fuego.,,
+Baxcalibur,,SIN CAMBIOS,,,,,,,SEBO (HA),ROMPEHIELOS,Sebo: Resiste mejor hielo y fuego.,,
+Gholdengo,,SIN CAMBIOS,,,,,,,MURO MÁGICO,SIN CAMBIOS,Muro Mágico: Anula efectos de estados alterados.,,
+Wo-Chien,,SIN CAMBIOS,,,,,,,ESPANTO,SIN CAMBIOS,Espanto: Baja ataque especial en 1 al rival al salir al combate.,,
+Chien-Pao,,SIN CAMBIOS,,,,,,,ESPANTO,SIN CAMBIOS,,,
+Ting-Lu,,SIN CAMBIOS,,,,,,,ESPANTO,SIN CAMBIOS,,,
+Chi-Yu,,SIN CAMBIOS,,,,,,,ESPANTO,SIN CAMBIOS,,,
+Dipplin,,SIN CAMBIOS,,,,,,,BABA (HA),ÁCIDO MÁLICO,Baba: -1 vel al rival si le atacan con mov. contacto.,,
+Sinistcha,,SIN CAMBIOS,,,,,,,CUERPO MALDITO (HA),RECUPERACIÓN/ ROMPECORAZA,Cuerpo Maldito: 30% de desactivar el ataque rival.,,
+Okidogi,,SIN CAMBIOS,,,,,,,INTIMIDACIÓN (HA),CARANTOÑA,Intimidación: -1 de ataque al rival al salir al campo.,,
+Munkidori,,SIN CAMBIOS,,,,,,,CÓLERA (HA),SIN CAMBIOS,Cólera: +1 At.Esp si la salud es menos del 50%.,,
+Ogerpon,,SIN CAMBIOS,,,,,,,ROMPEMOLDES (HA),ENFADO/ A BOCAJARRO,"No tiene acceso a máscaras, pero tiene oculta de una.",,
+Archaludon,,SIN CAMBIOS,,,,,,,CUERPO PURO (HA),SIN CAMBIOS,Cuerpo puro: El usuario no ve bajada sus estadísticas.,,
+Hydrapple,,SIN CAMBIOS,,,,,,,BABA (HA),ÁCIDO MÁLICO/ CLOROFILÁSER,Baba: -1 vel al rival si le atacan con mov. contacto.,,

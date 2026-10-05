@@ -1,0 +1,1001 @@
+gen,c1,c2,c3
+1,001,Bulbasaur,Trade for a Gogoat at Café Bohemie (Óleo City)
+1,002,Ivysaur,Evolves from Bulbasaur at level 18
+1,003,Venusaur,Evolves from Ivysaur at level 45
+1,004,Charmander,Trade for a Rapidash at Café Bohemie (Óleo City)
+1,005,Charmeleon,Evolves from Charmander at level 18
+1,006,Charizard,Evolves from Charmeleon at level 45
+1,007,Squirtle,Trade for a Clawitzer at Café Bohemie (Óleo City)
+1,008,Wartortle,Evolves from Squirtle at level 18
+1,009,Blastoise,Evolves from Wartortle at level 45
+1,010,Caterpie,Obtainable by breeding Butterfree
+1,011,Metapod,Evolves from Caterpie at level 9
+1,012,Butterfree,Capturable in West Luminalia City
+1,013,Weedle,Obtainable by breeding Beedrill
+1,014,Kakuna,Evolves from Weedle at level 9
+1,015,Beedrill,Capturable in West Luminalia City
+1,016,Pidgey,Obtainable on Route 2
+1,017,Pidgeotto,Evolves from Pidgey at level 18
+1,018,Pidgeot,Obtainable at the Service Station or evolves from Pidgeotto at level 36
+1,019,Rattata,Obtainable in the Southern Catacombs
+1,020,Raticate,Evolves from Rattata at level 20
+1,021,Spearow,Obtainable on Route 4
+1,022,Fearow,Evolves from Spearow at level 20
+1,023,Ekans,Obtainable in Vinyl Town
+1,024,Arbok,Obtainable on Route 12 or evolves from Ekans at level 22
+1,025,Pikachu (Z),Obtainable on Route 3 or in Acrylic Town
+1,026,Raichu (Z),Evolves from Pikachu Z with a Thunder Stone
+1,027,Sandshrew,Obtainable on Route 5
+1,028,Sandslash,Evolves from Sandshrew at level 22
+1,029,Nidoran♀,Obtainable on Route 2
+1,030,Nidorina,Evolves from Nidoran♀ at level 16
+1,031,Nidoqueen,Evolves from Nidorina with a Moon Stone
+1,032,Nidoran♂,Obtainable on Route 2
+1,033,Nidorino,Evolves from Nidoran♂ at level 16
+1,034,Nidoking,Evolves from Nidorino with a Moon Stone
+1,035,Clefairy,Obtainable in Grisalla Cave
+1,036,Clefable,Evolves from Clefairy with a Moon Stone
+1,037,Vulpix,Obtainable on Route 7 (Part 2)
+1,038,Ninetales,Evolves from Vulpix with a Fire Stone
+1,039,Jigglypuff,Obtainable in Acrylic Town
+1,040,Wigglytuff,Capturable in Pokémon Villa or evolves from Jigglypuff with a Moon Stone
+1,041,Zubat,Obtainable in Grisalla Cave or Refulgent Cave
+1,042,Golbat,Capturable in Southern Catacombs or evolves from Zubat at level 22
+1,043,Oddish,Obtainable in Óleo City
+1,044,Gloom,Evolves from Oddish at level 21
+1,045,Vileplume,Evolves from Gloom with a Leaf Stone
+1,046,Paras (Z),Obtainable in Profane Swamp
+1,047,Parasect (Z),Capturable in Old Vanitas or evolves from Paras (Z) at level 22
+1,048,Venonat,Obtainable on Route 7 (Part 1)
+1,049,Venomoth,Evolves from Venonat at level 31
+1,050,Diglett,Obtainable by breeding Dugtrio
+1,051,Dugtrio,Capturable in Terminus Cave
+1,052,Meowth,Capturable in Novarte City
+1,053,Persian,Evolves from Meowth at level 28
+1,054,Psyduck,Capturable on Route 1 or Route 2
+1,055,Golduck,Evolves from Psyduck at level 30
+1,056,Mankey,Capturable in Vinyl Town
+1,057,Primeape,Evolves from Mankey at level 28
+1,058,Growlithe,Capturable in Kings’ Sanctuary
+1,059,Arcanine,Evolves from Growlithe with a Fire Stone
+1,060,Poliwag,Capturable on Route 1
+1,061,Poliwhirl,Capturable on Route 13 or evolves from Poliwag at level 22
+1,062,Poliwrath,Evolves from Poliwhirl with a Water Stone
+1,063,Abra,Capturable in Collage Town
+1,064,Kadabra,Capturable on Route 13 or evolves from Abra at level 16
+1,065,Alakazam,Capturable in Western Catacombs or evolves from Kadabra at level 45
+1,066,Machop,Capturable in Profane Town
+1,067,Machoke,Capturable in Profane Town or evolves from Machop at level 16
+1,068,Machamp,Evolves from Machoke at level 45
+1,069,Bellsprout,Capturable in Collage Town
+1,070,Weepinbell,Capturable on Route 15 or evolves from Bellsprout at level 21
+1,071,Victreebel,Evolves from Weepinbell with a Leaf Stone
+1,072,Tentacool,Capturable in Acrylic Town
+1,073,Tentacruel,Capturable in the Seafloor or evolves from Tentacool at level 30
+1,074,Geodude,Capturable in Gloomy Cave
+1,075,Graveler,Capturable in Gloomy Cave or evolves from Geodude at level 25
+1,076,Golem,Evolves from Graveler at level 45
+1,077,Ponyta,Capturable on Route 12
+1,078,Rapidash,Capturable on Route 12 or evolves from Ponyta at level 40
+1,079,Slowpoke,"Capturable in Grisalla Cave, Gloomy Cave, or Vinyl Town"
+1,080,Slowbro,Capturable on Route 19 or evolves from Slowpoke at level 37
+1,081,Magnemite,Capturable in Óleo City or Refulgent Cave
+1,082,Magneton,Evolves from Magnemite with a Thunder Stone
+1,083,Farfetch’d,"Obtainable on Route 13, Route 19, or Kings’ Sanctuary"
+1,084,Doduo,Obtainable by breeding Dodrio
+1,085,Dodrio,Capturable on Route 16
+1,086,Seel,Capturable on Route 18
+1,087,Dewgong,Evolves from Seel at level 34
+1,088,Grimer,Obtainable in Óleo City
+1,089,Muk,Evolves from Grimer at level 32
+1,090,Shellder,Obtainable in Canvas Town (Pueblo Lienzo)
+1,091,Cloyster,Evolves from Shellder with a Water Stone
+1,092,Gastly,Capturable in Southern Catacombs
+1,093,Haunter,"Profane Swamp, Route 5 cemetery event, or evolves from Gastly at level 25"
+1,094,Gengar,Capturable in Vanitas Bastion or evolves from Haunter at level 45
+1,095,Onix,Capturable in Grisalla Cave
+1,096,Drowzee,Capturable on Route 3
+1,097,Hypno,Capturable in Luminalia Crypts or evolves from Drowzee at level 26
+1,098,Krabby,Capturable in Canvas Town (Pueblo Lienzo)
+1,099,Kingler,Evolves from Krabby at level 28
+1,100,Voltorb,Capturable in the Poké Ball Factory
+1,101,Electrode,Capturable in the Poké Ball Factory or evolves from Voltorb at level 30
+1,102,Exeggcute,Obtainable on Route 9
+1,103,Exeggutor,Capturable on Montesanto Island or evolves from Exeggcute with a Leaf Stone
+1,104,Cubone (Z),Obtainable in Gloomy Cave
+1,105,Marowak (Z),Capturable in Gloomy Cave or evolves from Cubone (Z) at level 28
+1,106,Hitmonlee,Evolves from Tyrogue at level 23 if Attack > Defense
+1,107,Hitmonchan,Evolves from Tyrogue at level 23 if Attack < Defense
+1,108,Lickitung,Capturable on Route 21
+1,109,Koffing,Capturable in the Burned Workshop
+1,110,Weezing,Evolves from Koffing at level 30
+1,111,Rhyhorn,Capturable on Route 10
+1,112,Rhydon,Capturable at the Service Station or evolves from Rhyhorn at level 30
+1,113,Chansey,Capturable in Fractal City
+1,114,Tangela,Capturable on Route 5
+1,115,Kangaskhan,Capturable on Route 13
+1,116,Horsea,Capturable on Route 11
+1,117,Seadra,Evolves from Horsea at level 32
+1,118,Goldeen,Obtainable by breeding Seaking
+1,119,Seaking,Capturable on Route 16
+1,120,Staryu,Chateau Rosillon
+1,121,Starmie,Capturable in Fluxus City
+1,122,Mr. Mime,Capturable in Batik City and Óleo City
+1,123,Scyther,Capturable on Route 8
+1,124,Jynx,Capturable in Fractal City
+1,125,Electabuzz,Capturable in Storm Hill
+1,126,Magmar,Capturable in Burned Workshop
+1,127,Pinsir,Capturable on Route 8
+1,128,Tauros,Capturable on Route 21
+1,129,Magikarp,Diving in Fluxus City
+1,130,Gyarados,Route 24 or evolves from Magikarp at level 20
+1,131,Lapras,Capturable in Frozen Grotto
+1,132,Ditto,Capturable on Route 5
+1,133,Eevee,Pokémon Villa or obtained after returning the scarf to Isidora
+1,134,Vaporeon,Evolves from Eevee with a Water Stone
+1,135,Jolteon,Evolves from Eevee with a Thunder Stone
+1,136,Flareon,Evolves from Eevee with a Fire Stone
+1,137,Porygon (Z),Capturable in the Burned Workshop
+1,138,Omanyte,Obtain its fossil in Petro Cave and exchange it in Mosaic Town
+1,139,Omastar,Evolves from Omanyte at level 35
+1,140,Kabuto,Obtain its fossil in Petro Cave and exchange it in Mosaic Town
+1,141,Kabutops,Evolves from Kabuto at level 35
+1,142,Aerodactyl,Obtain its fossil in Petro Cave and exchange it in Mosaic Town
+1,143,Snorlax,Route 25 or evolves from Munchlax by friendship
+1,144,Articuno,Capturable in Kalos Pyrenees
+1,145,Zapdos,Capturable in Storm Hill
+1,146,Moltres,Capturable in Burning Abyss (Fiery Chasm / Sima Ardiente)
+1,147,Dratini,Capturable on Route 18
+1,148,Dragonair,Evolves from Dratini at level 30
+1,149,Dragonite,Route 23 or evolves from Dragonair at level 55
+1,150,Mewtwo,Capturable in the Flare Laboratory (see Legendaries & Locations)
+1,151,Mew,Capturable in Talasia Cave
+2,152,Chikorita,Trade for a Bellossom at Lechonk Restaurant (Bodegón Town)
+2,153,Bayleef,Evolves from Chikorita at level 18
+2,154,Meganium,Evolves from Bayleef at level 45
+2,155,Cyndaquil,Trade for a Rapidash at Lechonk Restaurant (Bodegón Town)
+2,156,Quilava,Evolves from Cyndaquil at level 18
+2,157,Typhlosion,Evolves from Quilava at level 45
+2,158,Totodile,Trade for a Ludicolo at Lechonk Restaurant (Bodegón Town)
+2,159,Croconaw,Evolves from Totodile at level 18
+2,160,Feraligatr,Evolves from Croconaw at level 45
+2,161,Sentret,Obtainable by breeding Furret
+2,162,Furret,Catchable on Route 21
+2,163,Hoothoot,Catchable on Route 3
+2,164,Noctowl,Evolves from Hoothoot at level 24
+2,165,Ledyba,Catchable in Grisalla City
+2,166,Ledian,Evolves from Ledyba at level 21
+2,167,Spinarak,Catchable in Southern Catacombs
+2,168,Ariados,Catchable in Northern Catacombs or evolves from Spinarak at level 21
+2,169,Crobat,Catchable in Bastion Vanitas or evolves from Golbat by friendship
+2,170,Chinchou,Catchable in Glittering Cave or Acrylic Town
+2,171,Lanturn,Evolves from Chinchou at level 27
+2,172,Pichu,Obtainable by breeding Pikachu/Raichu
+2,173,Cleffa,Obtainable by breeding Clefable
+2,174,Igglybuff,Obtainable by breeding Wigglytuff
+2,175,Togepi,Catchable behind the mercury-key sealed door in Lechonk Restaurant
+2,176,Togetic,Evolves from Togepi by happiness
+2,177,Natu,Catchable at Sanctuary of Kings
+2,178,Xatu,Evolves from Natu at level 28
+2,179,Mareep,Catchable on Route 1
+2,180,Flaaffy,Evolves from Mareep at level 15
+2,181,Ampharos,Evolves from Flaaffy at level 30
+2,182,Bellossom,Evolves from Gloom with Sun Stone
+2,183,Marill,Catchable in Vinyl Town
+2,184,Azumarill,Catchable in Earthbound Grotto or evolves from Marill at level 18
+2,185,Sudowoodo,Catchable in Wandering Forest
+2,186,Politoed,Catchable in Romantis City or evolve Poliwhirl by leveling up once with King’s Rock during the day
+2,187,Hoppip,Catchable in Vinyl Town or Novarte City
+2,188,Skiploom,Evolves from Hoppip at level 18
+2,189,Jumpluff,Evolves from Skiploom at level 27
+2,190,Aipom,Catchable in Profane Town
+2,191,Sunkern,Catchable on Route 5
+2,192,Sunflora,Catchable on Route 5 or evolves from Sunkern with Sun Stone
+2,193,Yanma,Catchable on Route 9
+2,194,Wooper,"Catchable on Route 3, Murky Cave, or Grisalla Cave"
+2,195,Quagsire,Catchable in Murky Cave or evolves from Wooper at level 20
+2,196,Espeon,Evolves from Eevee by happiness during the day
+2,197,Umbreon,Evolves from Eevee by happiness at night
+2,198,Murkrow,"Catchable in Hillside Forest, Old Vanitas, or Route 6"
+2,199,Slowking,Catchable in Azure Bay or evolves from Slowpoke with Water Stone
+2,200,Misdreavus,Catchable in Northern Catacombs
+2,201,Unown,Catchable in Western Catacombs
+2,202,Wobbuffet,Catchable in Earthbound Grotto
+2,203,Girafarig,Catchable on Route 6
+2,204,Pineco,Catchable on Route 4
+2,205,Forretress,Evolves from Pineco at level 31
+2,206,Dunsparce,Catchable in Grisalla City or Fractal City
+2,207,Gligar,"Catchable on Route 7 Part 1, Route 10, or Route 20"
+2,208,Steelix,Catchable in Fiery Chasm or evolves from Onix at level 42
+2,209,Snubbull,Catchable in Grisalla City
+2,210,Granbull,Evolves from Snubbull at level 23
+2,211,Qwilfish,Catchable on Route 13 and Route 14
+2,212,Scizor,Evolves from Scyther at level 42
+2,213,Shuckle,Catchable in Resolution Cave
+2,214,Heracross,Catchable on Route 15 or trade for a Scyther in South Luminalia
+2,215,Sneasel,Catchable on Route 6
+2,216,Teddiursa,Catchable on Route 6
+2,217,Ursaring,Catchable on Route 16 or evolves from Teddiursa at level 30
+2,218,Slugma,Obtainable by breeding Magcargo
+2,219,Magcargo,Catchable in Fiery Chasm
+2,220,Swinub,Catchable in Kalos Pyrenees
+2,221,Piloswine,Catchable in Kalos Pyrenees or evolves from Swinub at level 33
+2,222,Corsola,Catchable in Montesanto Island (Cave)
+2,223,Remoraid,Catchable in Certijo Island
+2,224,Octillery,Catchable in Earthbound Grotto or evolves from Remoraid at level 25
+2,225,Delibird,Catchable in Kalos Pyrenees or Frozen Grotto
+2,226,Mantine,Catchable on Route 11
+2,227,Skarmory,Catchable in Fractal City
+2,228,Houndour,Catchable on Route 3
+2,229,Houndoom,Evolves from Houndour at level 24
+2,230,Kingdra,Evolves from Seadra at level 50
+2,231,Phanpy,Catchable on Storm Hill
+2,232,Donphan,Evolves from Phanpy at level 25
+2,233,Porygon2 (Z),Evolves from Porygon (Z) at level 30
+2,234,Stantler,Catchable at Sanctuary of Kings
+2,235,Smeargle,Resolution Cave (Ginia Mission)
+2,236,Tyrogue,Barracks reward (3rd Delinquent)
+2,237,Hitmontop,Evolves from Tyrogue at level 23 if Attack = Defense
+2,238,Smoochum,Obtainable by breeding Jynx
+2,239,Elekid,Catchable in Novarte City
+2,240,Magby,Catchable in Burned Workshop
+2,241,Miltank,Catchable in Prosperity Sanctuary
+2,242,Blissey,Evolves from Chansey by friendship
+2,243,Raikou,Catchable in Glittering Cave (Surf required)
+2,244,Entei,Catchable in Grisalla Cave (Surf required)
+2,245,Suicune,Catchable in Murky Cave (Surf required)
+2,246,Larvitar,Catchable in Resolution Cave (Lower floor)
+2,247,Pupitar,Catchable in Resolution Cave or evolves from Larvitar at level 30
+2,248,Tyranitar,Evolves from Pupitar at level 55
+2,249,Lugia,In the Seafloor of Petroglifo
+2,250,Ho-Oh,Route 15 after Yantra
+2,251,Celebi,In Hillside Forest after Yantra
+3,252,Treecko,Trade a Whimsicott at Lechonk Restaurant (Bodegón Town)
+3,253,Grovyle,Evolve Treecko at Level 18
+3,254,Sceptile,Evolve Grovyle at Level 45
+3,255,Torchic,Trade an Arcanine at Lechonk Restaurant (Bodegón Town)
+3,256,Combusken,Evolve Torchic at Level 18
+3,257,Blaziken,Evolve Combusken at Level 45
+3,258,Mudkip,Trade a Gastrodon at Lechonk Restaurant (Bodegón Town)
+3,259,Marshtomp,Evolve Mudkip at Level 18
+3,260,Swampert,Evolve Marshtomp at Level 45
+3,261,Poochyena,Vinyl Town
+3,262,Mightyena,Route 15 or evolve Poochyena at Level 18
+3,263,Zigzagoon,Acrylic Town
+3,264,Linoone,Old Vanitas or evolve Zigzagoon at Level 20
+3,265,Wurmple,Breeding Beautifly/Dustox
+3,266,Silcoon,Evolve Wurmple at Level 7
+3,267,Beautifly,Wandering Forest
+3,268,Cascoon,Evolve Wurmple at Level 7
+3,269,Dustox,Wandering Forest
+3,270,Lotad,Route 2 or Hillside Forest
+3,271,Lombre,Route 5 or evolve Lotad at Level 14
+3,272,Ludicolo,Route 21 or evolve Lombre with Water Stone
+3,273,Seedot,Route 2
+3,274,Nuzleaf,Profane Town
+3,275,Shiftry,Evolve Nuzleaf with Leaf Stone
+3,276,Taillow,Route 8
+3,277,Swellow,Evolve Taillow at Level 22
+3,278,Wingull,Relief City
+3,279,Pelipper,Evolve Wingull at Level 25
+3,280,Ralts,Route 8 or Grisalla City
+3,281,Kirlia,Route 8 or evolve Ralts at Level 20
+3,282,Gardevoir,Evolve Kirlia at Level 30
+3,283,Surskit,Route 4 or Hillside Forest
+3,284,Masquerain,Old Vanitas or evolve Surskit at Level 25
+3,285,Shroomish,Collage Town
+3,286,Breloom,Evolve Shroomish at Level 23
+3,287,Slakoth,Breeding Vigoroth/Slaking
+3,288,Vigoroth,Wandering Forest
+3,289,Slaking,Evolve Vigoroth at Level 36
+3,290,Nincada,Chateau Rosillon Garden
+3,291,Ninjask,Evolve Nincada at Level 20
+3,292,Shedinja,Empty party slot + Poké Ball when Nincada evolves
+3,293,Whismur,Grisalla Cave (Lower Floor)
+3,294,Loudred,Evolve Whismur at Level 18
+3,295,Exploud,Route 25 or evolve Loudred at Level 40
+3,296,Makuhita,Breeding Hariyama
+3,297,Hariyama,Route 12
+3,298,Azurill,Breeding Marill/Azumarill
+3,299,Nosepass,Glittering Cave
+3,300,Skitty,Route 4
+3,301,Delcatty,Evolve Skitty with Moon Stone
+3,302,Sableye,Earthbound Grotto
+3,303,Mawile,Route 16 or Gloomy Cave
+3,304,Aron,Breeding Lairon
+3,305,Lairon,Terminus Cave
+3,306,Aggron,East Kalos Battle or evolve Lairon at Level 42
+3,307,Meditite,Batik City or Grisalla Cave
+3,308,Medicham,Batik City or evolve Meditite at Level 37
+3,309,Electrike,Route 9
+3,310,Manectric,Evolve Electrike at Level 26
+3,311,Plusle,Route 13 or Glittering Cave
+3,312,Minun,Route 13 or Glittering Cave
+3,313,Volbeat,Profane Swamp
+3,314,Illumise,Profane Swamp
+3,315,Roselia,Route 8 or evolve Budew at Level 20
+3,316,Gulpin,Acrylic Town
+3,317,Swalot,Route 13 or evolve Gulpin at Level 28
+3,318,Carvanha,Breeding Sharpedo
+3,319,Sharpedo,Route 23
+3,320,Wailmer (Z),Route 11
+3,321,Wailord (Z),Evolve Wailmer (Z) at Level 40
+3,322,Numel,Route 10
+3,323,Camerupt,Route 10 or evolve Numel at Level 33
+3,324,Torkoal,Route 19
+3,325,Spoink,Acrylic Town
+3,326,Grumpig,Route 18 or evolve Spoink at Level 32
+3,327,Spinda,Route 16
+3,328,Trapinch,Breeding Vibrava/Flygon
+3,329,Vibrava (Z),Wandering Forest
+3,330,Flygon (Z),Evolve Vibrava (Z) at Level 45
+3,331,Cacnea,Breeding Cacturne
+3,332,Cacturne,Prison of Oblivion
+3,333,Swablu,Route 2
+3,334,Altaria,Evolve Swablu at Level 35
+3,335,Zangoose,Relief City
+3,336,Seviper,Relief City
+3,337,Lunatone,Flooded Forge
+3,338,Solrock,Flooded Forge
+3,339,Barboach,Grisalla Cave
+3,340,Whiscash,Route 12 or evolve Barboach at Level 30
+3,341,Corphish,Route 6
+3,342,Crawdaunt,Bloodshore Coast or evolve Corphish at Level 30
+3,343,Baltoy,Breeding Claydol
+3,344,Claydol,Prison of Oblivion
+3,345,Lileep,Revive fossil in Mosaic Town
+3,346,Cradily,Evolve Lileep at Level 40
+3,347,Anorith,Revive fossil in Mosaic Town
+3,348,Armaldo,Evolve Anorith at Level 40
+3,349,Feebas,Chateau Rosillon
+3,350,Milotic,Yantra City or evolve Feebas at Level 37
+3,351,Castform,Route 18
+3,352,Kecleon,Chateau Rosillon Garden
+3,353,Shuppet,Storm Hill
+3,354,Banette,Pokémon Village or evolve Shuppet at Level 32
+3,355,Duskull,Breeding Dusclops
+3,356,Dusclops,Southern Catacombs
+3,357,Tropius,Route 11
+3,358,Chimecho,Earthbound Grotto
+3,359,Absol,Route 18 or Prosperity Sanctuary
+3,360,Wynaut,Breeding Wobbuffet
+3,361,Snorunt,Kalos Pyrenees
+3,362,Glalie,Kalos Pyrenees or evolve Snorunt at Level 42
+3,363,Spheal,Breeding Sealeo/Walrein
+3,364,Sealeo,Frozen Grotto
+3,365,Walrein,Route 18 or evolve Sealeo at Level 44
+3,366,Clamperl,Certijo Island
+3,367,Huntail,Seafloor or evolve Clamperl with Dusk Stone
+3,368,Gorebyss,Seafloor or evolve Clamperl with Water Stone
+3,369,Relicanth,Petroglifo Seafloor
+3,370,Luvdisc,Route 22
+3,371,Bagon,Relief City
+3,372,Shelgon,Evolve Bagon at Level 30
+3,373,Salamence,Evolve Shelgon at Level 50
+3,374,Beldum,South Luminalia Expansions
+3,375,Metang,Reflection Cave or evolve Beldum at Level 20
+3,376,Metagross,Reflection Cave or evolve Metang at Level 45
+3,377,Regirock,Terminus Cave
+3,378,Regice,Frozen Grotto
+3,379,Registeel,Scorched Chasm
+3,380,Latias,Prosperity Sanctuary after Yantra
+3,381,Latios,Prosperity Sanctuary after Yantra
+3,382,Kyogre,Fluxus City Lake after Yantra
+3,383,Groudon,Prison of Oblivion after Yantra
+3,384,Rayquaza,Route 23 Lighthouse
+3,385,Jirachi,Acrylic Town after Yantra
+3,386,Deoxys,Mysterious Place after Yantra
+4,387,Turtwig,Trade a Makuhita at South Luminalia Café
+4,388,Grotle,Evolve Turtwig at Level 18
+4,389,Torterra,Evolve Grotle at Level 45
+4,390,Chimchar,Trade a Misdreavus at South Luminalia Café
+4,391,Monferno,Evolve Chimchar at Level 18
+4,392,Infernape,Evolve Monferno at Level 45
+4,393,Piplup,Trade a Clamperl at South Luminalia Café
+4,394,Prinplup,Evolve Piplup at Level 18
+4,395,Empoleon,Evolve Prinplup at Level 45
+4,396,Starly,Breeding Staravia/Staraptor
+4,397,Staravia,Chateau Rosillon
+4,398,Staraptor,Evolve Staravia at Level 34
+4,399,Bidoof (Z),Route 1
+4,400,Bibarel (Z),Kalos Pyrenees or evolve Bidoof (Z) at Level 16
+4,401,Kricketot (Z),Hillside Forest
+4,402,Kricketune (Z),Evolve Kricketot (Z) at Level 17
+4,403,Shinx,Route 4
+4,404,Luxio,Relief City or evolve Shinx at Level 16
+4,405,Luxray,Evolve Luxio at Level 30
+4,406,Budew,Route 4
+4,407,Roserade,Evolve Roselia with Shiny Stone
+4,408,Cranidos,Revive fossil in Mosaic Town
+4,409,Rampardos,Evolve Cranidos at Level 30
+4,410,Shieldon,Revive fossil in Mosaic Town
+4,411,Bastiodon,Evolve Shieldon at Level 30
+4,412,Burmy,Egg from Wormadam
+4,413,Wormadam,Route 8
+4,414,Mothim,Evolve male Burmy at Level 20
+4,415,Combee,Collage Town
+4,416,Vespiquen,Evolve Combee at Level 21
+4,417,Pachirisu,Route 6
+4,418,Buizel,Route 6
+4,419,Floatzel,Mosaic Town or evolve Buizel at Level 26
+4,420,Cherubi,Route 1
+4,421,Cherrim,Evolve Cherubi at Level 18
+4,422,Shellos,Route 11
+4,423,Gastrodon,Route 11 or evolve Shellos at Level 30
+4,424,Ambipom,Evolve Aipom knowing Double Hit
+4,425,Drifloon,Acrylic Town
+4,426,Drifblim,Route 22 or evolve Drifloon at Level 28
+4,427,Buneary,Breeding Lopunny
+4,428,Lopunny,Route 8 (near Chateau Lanto)
+4,429,Mismagius,Evolve Misdreavus with Dusk Stone
+4,430,Honchkrow,Evolve Murkrow with Dusk Stone
+4,431,Glameow,West Luminalia City
+4,432,Purugly,Luminalia City or evolve Glameow at Level 28
+4,433,Chingling,Earthbound Grotto
+4,434,Stunky,Route 9 or Old Vanitas Sewers
+4,435,Skuntank,Evolve Stunky at Level 34
+4,436,Bronzor,Prosperity Sanctuary
+4,437,Bronzong,Evolve Bronzor at Level 33
+4,438,Bonsly,Breeding Sudowoodo
+4,439,Mime Jr.,Oleo City
+4,440,Happiny,Breeding Chansey/Blissey
+4,441,Chatot,Montesanto Island
+4,442,Spiritomb,Luminalia Crypts
+4,443,Gible,Breeding Gabite/Garchomp
+4,444,Gabite,South Luminalia Expansions
+4,445,Garchomp,Evolve Gabite at Level 48
+4,446,Munchlax,Vanitas Orchard event
+4,447,Riolu,Route 4
+4,448,Lucario,Friendship + Daytime level
+4,449,Hippopotas,Breeding Hippowdon
+4,450,Hippowdon,Prison of Oblivion
+4,451,Skorupi,Route 15
+4,452,Drapion,Bastion Vanitas or evolve Skorupi at Level 32
+4,453,Croagunk,Route 3
+4,454,Toxicroak,Evolve Croagunk at Level 33
+4,455,Carnivine,Profane Swamp
+4,456,Finneon,Breeding Lumineon
+4,457,Lumineon,Acrylic Town Seafloor
+4,458,Mantyke,Breeding Mantine
+4,459,Snover,Kalos Pyrenees
+4,460,Abomasnow,Kalos Pyrenees or evolve Snover at Level 40
+4,461,Weavile,Route 18 or evolve Sneasel at Level 38
+4,462,Magnezone,Evolve Magneton at Level 45
+4,463,Lickilicky,Evolve Lickitung knowing Rollout
+4,464,Rhyperior,Evolve Rhydon at Level 45
+4,465,Tangrowth,Evolve Tangela knowing Ancient Power
+4,466,Electivire,Evolve Electabuzz at Level 50
+4,467,Magmortar,Evolve Magmar at Level 50
+4,468,Togekiss,Evolve Togetic with Shiny Stone
+4,469,Yanmega,Evolve Yanma knowing Ancient Power
+4,470,Leafeon,Evolve Eevee with Leaf Stone
+4,471,Glaceon,Evolve Eevee with Dawn Stone
+4,472,Gliscor,Route 20 or evolve Gligar at Level 42
+4,473,Mamoswine,Kalos Pyrenees or evolve Piloswine knowing Ancient Power
+4,474,Porygon-Z (Z),Evolve Porygon2 (Z) at Level 50
+4,475,Gallade,Evolve Kirlia with Dawn Stone
+4,476,Probopass,Evolve Nosepass at Level 40
+4,477,Dusknoir,Evolve Dusclops at Level 45
+4,478,Froslass,Kalos Pyrenees or evolve female Snorunt with Dawn Stone
+4,479,Rotom,Romantis City (top-right)
+4,480,Uxie,Visit Psyche Cave then Route 15
+4,481,Mesprit,Visit Psyche Cave then Route 12
+4,482,Azelf,Visit Psyche Cave then Route 9 (upper area)
+4,483,Dialga,Wandering Forest after Yantra
+4,484,Palkia,East Luminalia Expansions after Yantra
+4,485,Heatran,Scorched Chasm
+4,486,Regigigas,Route 21 (requires the three Hoenn Regis)
+4,487,Giratina,Route 22 after Yantra
+4,488,Cresselia,Manorial Cathedral (sealed door)
+4,489,Phione,Breeding Manaphy
+4,490,Manaphy,Acrylic Town Ocean Floor
+4,491,Darkrai,Luminalia Crypts (sealed door)
+4,492,Shaymin,Wandering Forest after Yantra
+4,493,Arceus,Portal where you met Crisanto
+5,494,Victini,Fort Leviatan after Yantra
+5,495,Snivy,Trade a Wormadam at West Luminalia Café
+5,496,Servine,Evolve Snivy at Level 18
+5,497,Serperior,Evolve Servine at Level 45
+5,498,Tepig,Trade a Rapidash at West Luminalia Café
+5,499,Pignite,Evolve Tepig at Level 18
+5,500,Emboar,Evolve Pignite at Level 45
+5,501,Oshawott,Trade a Masquerain at West Luminalia Café
+5,502,Dewott,Evolve Oshawott at Level 18
+5,503,Samurott,Evolve Dewott at Level 45
+5,504,Patrat,Breeding from Watchog
+5,505,Watchog,Route 21
+5,506,Lillipup,Collage Town
+5,507,Herdier,Evolve Lillipup at Level 16
+5,508,Stoutland,Evolve Herdier at Level 32
+5,509,Purrloin,Southern Catacombs
+5,510,Liepard,Route 15
+5,511,Pansage,Hillside Forest
+5,512,Simisage,Use Leaf Stone
+5,513,Pansear,Hillside Forest
+5,514,Simisear,Use Fire Stone
+5,515,Panpour,Hillside Forest
+5,516,Simipour,Use Water Stone
+5,517,Munna,Route 8
+5,518,Musharna,Use Moon Stone
+5,519,Pidove,Breed from Tranquill
+5,520,Tranquill,Luminalia City
+5,521,Unfezant,Evolve Tranquill at Level 32
+5,522,Blitzle,Chateau Rosillon
+5,523,Zebstrika,Evolve Blitzle at Level 27
+5,524,Roggenrola,Grisalla Cave
+5,525,Boldore,Unity Cave or evolve at 23
+5,526,Gigalith,Reflection Cave or evolve at 40
+5,527,Woobat,Southern Catacombs or Dark Cave
+5,528,Swoobat,Dark Cave or friendship
+5,529,Drillbur,Grisalla Cave
+5,530,Excadrill,Terminus Cave or evolve at 31
+5,531,Audino,Route 21
+5,532,Timburr,Collage Town
+5,533,Gurdurr,Poké Ball Factory or evolve at 23
+5,534,Conkeldurr,Evolve Gurdurr at 45
+5,535,Tympole,Route 4
+5,536,Palpitoad,Route 14 or evolve at 21
+5,537,Seismitoad,Route 14 or evolve at 36
+5,538,Throh,Route 7 South
+5,539,Sawk,Route 7 South
+5,540,Sewaddle,Breed from Swadloon/Leavanny
+5,541,Swadloon,Route 16
+5,542,Leavanny,Friendship evolution
+5,543,Venipede,Breed from Whirlipede/Scolipede
+5,544,Whirlipede,Prosperity Sanctuary
+5,545,Scolipede,Prosperity Sanctuary or evolve at 30
+5,546,Cottonee,Olea City
+5,547,Whimsicott,Sun Stone
+5,548,Petilil,400 coins at Sanguine Casino
+5,549,Lilligant (Z),Sun Stone
+5,550,Basculin,Route 15
+5,551,Sandile,Breed from Krokorok/Krookodile
+5,552,Krokorok,Prison of Oblivion
+5,553,Krookodile,Evolve at 40
+5,554,Darumaka,Fiery Chasm
+5,555,Darmanitan,Fiery Chasm or evolve at 35
+5,556,Maractus,Prison of Oblivion
+5,557,Dwebble,Dark Cave
+5,558,Crustle,Dark Cave or evolve at 32
+5,559,Scraggy,Breed from Scrafty
+5,560,Scrafty,Route 22
+5,561,Sigilyph,Southern Catacombs
+5,562,Yamask (Z),Route 10
+5,563,Cofagrigus (Z),Evolve at 34
+5,564,Tirtouga,Fossil → Mosaic Town
+5,565,Carracosta,Evolve at 37
+5,566,Archen,Fossil → Mosaic Town
+5,567,Archeops,Evolve at 37
+5,568,Trubbish,Breed from Garbodor
+5,569,Garbodor,Luminalia Crypts or Old Vanitas
+5,570,Zorua,Breed from Zoroark
+5,571,Zoroark,Sanguine Circus / Hillside Forest
+5,572,Minccino,Breed from Cinccino
+5,573,Cinccino,Route 19
+5,574,Gothita,Breed from Gothorita
+5,575,Gothorita,Route 14
+5,576,Gothitelle (Z),Evolve at 38
+5,577,Solosis (Z),Old Vanitas
+5,578,Duosion (Z),Old Vanitas or evolve at 25
+5,579,Reuniclus (Z),Route 20 or evolve at 38
+5,580,Ducklett,Grisalla City
+5,581,Swanna,Evolve at 30
+5,582,Vanillite,Route 17
+5,583,Vanillish,Route 17 or evolve at 25
+5,584,Vanilluxe,Evolve at 40
+5,585,Deerling,Route 6
+5,586,Sawsbuck,Evolve at 32
+5,587,Emolga,Olea City
+5,588,Karrablast,Profane Swamp
+5,589,Escavalier,Evolve at 32
+5,590,Foongus,Profane Swamp
+5,591,Amoonguss,Pokémon Villa or evolve at 36
+5,592,Frillish,Route 15
+5,593,Jellicent,Lake Depths or evolve at 35
+5,594,Alomomola,Route 16 Lake Depth
+5,595,Joltik,Ancient Library
+5,596,Galvantula,Evolve at 32
+5,597,Ferroseed,Breed from Ferrothorn
+5,598,Ferrothorn,Reflection Cave
+5,599,Klink,Luminous Cave
+5,600,Klang,Poké Ball Factory or evolve at 25
+5,601,Klinklang,Evolve at 40
+5,602,Tynamo,Luminous Cave
+5,603,Eelektrik,Old Flooded Forge or evolve at 30
+5,604,Eelektross,Thunder Stone
+5,605,Elgyem,Breeding
+5,606,Beheeyem,Route 23
+5,607,Litwick,Ancient Library
+5,608,Lampent,Old Vanitas or evolve at 34
+5,609,Chandelure,Dusk Stone
+5,610,Axew,Kings’ Sanctuary
+5,611,Fraxure,Evolve at 30
+5,612,Haxorus,Evolve at 48
+5,613,Cubchoo,Breed from Beartic
+5,614,Beartic,Route 17
+5,615,Cryogonal,Frozen Cave
+5,616,Shelmet,Profane Swamp
+5,617,Accelgor,Evolve at 32
+5,618,Stunfisk,Profane Town
+5,619,Mienfoo,Breed from Mienshao
+5,620,Mienshao,Route 23
+5,621,Druddigon,Terminus Cave
+5,622,Golett,Ancient Library
+5,623,Golurk,Old Flooded Forge or evolve at 35
+5,624,Pawniard,Kings’ Sanctuary
+5,625,Bisharp,Evolve at 30
+5,626,Bouffalant,Route 21
+5,627,Rufflet,Route 23
+5,628,Braviary,Route 23 or evolve at 35
+5,629,Vullaby,Prison of Oblivion
+5,630,Mandibuzz,Prison of Oblivion or evolve at 35
+5,631,Heatmor,Poké Ball Factory
+5,632,Durant,Poké Ball Factory
+5,633,Deino,Breed from Zweilous/Hydreigon
+5,634,Zweilous,Reflection Cave
+5,635,Hydreigon,Reflection Cave or Route 25
+5,636,Larvesta,Certijo Island
+5,637,Volcarona,Evolve at 55
+5,638,Cobalion,Poké Ball Factory (after event)
+5,639,Terrakion,Route 13 (after event)
+5,640,Virizion,Hillside Forest (after event)
+5,641,Tornadus,Dark Cave after Yantra
+5,642,Thundurus,Luminous Cave
+5,643,Reshiram,Chateau Rosillon after Yantra
+5,644,Zekrom,Chateau Lanto after Yantra
+5,645,Landorus,Grisalla Cave after Yantra
+5,646,Kyurem,Kalos Pyrenees
+5,647,Keldeo,Mosaic Town after event
+5,648,Meloetta,West Luminalia after Yantra
+5,649,Genesect,Burned Workshop after Yantra
+6,650,Chespin,Trade for a Stonjourner in Crómlech
+6,651,Quilladin,Evolves from Chespin at Lv. 18
+6,652,Chesnaught (Z),Evolves from Quilladin at Lv. 45
+6,653,Fennekin,Trade for an Annihilape in Crómlech
+6,654,Braixen,Evolves from Fennekin at Lv. 18
+6,655,Delphox (Z),Evolves from Braixen at Lv. 45
+6,656,Froakie,Trade for a Malamar in Crómlech
+6,657,Frogadier,Evolves from Froakie at Lv. 18
+6,658,Greninja (Z),Evolves from Frogadier at Lv. 45
+6,659,Bunnelby,Vinyl Town
+6,660,Diggersby,Evolves from Bunnelby at Lv. 20
+6,661,Fletchling,Route 1
+6,662,Fletchinder,Route 5 or evolve at Lv. 17
+6,663,Talonflame,Evolves at Lv. 35
+6,664,Scatterbug,Route 1
+6,665,Spewpa,Evolves at Lv. 9
+6,666,Vivillon,Evolves at Lv. 16
+6,667,Litleo,Route 2
+6,668,Pyroar,Route 13 or evolve at Lv. 30
+6,669,Flabébé,Grisalla City
+6,670,Floette,Evolves at Lv. 19
+6,671,Florges,Use Day Stone
+6,672,Skiddo,Route 2
+6,673,Gogoat,East Kalos Battle or evolve at Lv. 32
+6,674,Pancham,Acrylic Town
+6,675,Pangoro,Evolves at Lv. 32
+6,676,Furfrou,Route 8
+6,677,Espurr,Route 5 or Prosperity Sanctuary
+6,678,Meowstic,Prosperity Sanctuary or evolve at Lv. 25
+6,679,Honedge,South Watchtower
+6,680,Doublade,Evolves at Lv. 35
+6,681,Aegislash,East Kalos Battle or Night Stone
+6,682,Spritzee,Route 4
+6,683,Aromatisse,Evolves at Lv. 27
+6,684,Swirlix,Breed from Slurpuff
+6,685,Slurpuff,Trade for Aromatisse in West Luminalia
+6,686,Inkay,Breed from Malamar
+6,687,Malamar,Montesanto Island (Cave)
+6,688,Binacle,Route 11
+6,689,Barbaracle,Route 11 or evolve at Lv. 39
+6,690,Skrelp,Route 9
+6,691,Dragalge,Route 14 or evolve at Lv. 35
+6,692,Clauncher,Glittering Cave
+6,693,Clawitzer,Montesanto Island or evolve at Lv. 35
+6,694,Helioptile,Breed from Heliolisk
+6,695,Heliolisk,South Luminalia Expansions
+6,696,Tyrunt,Trade for Anorith in Mosaic Town
+6,697,Tyrantrum,Evolves at Lv. 39
+6,698,Amaura,Trade for Lileep in Mosaic Town
+6,699,Aurorus,Evolves at Lv. 39
+6,700,Sylveon,Use Day Stone
+6,701,Hawlucha,Route 10
+6,702,Dedenne,Route 9
+6,703,Carbink,Flooded Forge or Tierraunida Grotto
+6,704,Goomy,Profane Swamp
+6,705,Sliggoo,Route 14 or evolve at Lv. 30
+6,706,Goodra,Evolves at Lv. 50
+6,707,Klefki,Luminalia Crypts
+6,708,Phantump,Hillside Forest
+6,709,Trevenant,Route 16 or evolve at Lv. 38
+6,710,Pumpkaboo,Route 15 (Part 2)
+6,711,Gourgeist,Route 15 or evolve at Lv. 37
+6,712,Bergmite,"Route 17, Frost Cavern, or Kalos Pyrenees"
+6,713,Avalugg,Evolves at Lv. 37
+6,714,Noibat,Northern Catacombs
+6,715,Noivern,Evolves at Lv. 42
+6,716,Xerneas,Deep Spring (Postgame)
+6,717,Yveltal,Circus Nightmare (Postgame)
+6,718,Zygarde,Prism Tower (Postgame)
+6,719,Diancie,Reflection Cave
+6,720,Hoopa,1400 coins at Sanguine Casino
+6,721,Volcanion,West Luminalia Expansion Pokémon Center
+7,722,Rowlet,Trade for Tropius — Luminalia East Café
+7,723,Dartrix,Evolves from Rowlet (Lv. 18)
+7,724,Decidueye,Evolves from Dartrix (Lv. 45)
+7,725,Litten,Trade for Chandelure — Luminalia West Café
+7,726,Torracat,Evolves from Litten (Lv. 18)
+7,727,Incineroar,Evolves from Torracat (Lv. 45)
+7,728,Popplio,Trade for Sharpedo — Luminalia West Café
+7,729,Brionne,Evolves from Popplio (Lv. 18)
+7,730,Primarina,Evolves from Brionne (Lv. 45)
+7,731,Pikipek,Breeding from Toucannon
+7,732,Trumbeak,Evolves from Pikipek (Lv. 14)
+7,733,Toucannon,Isle Montesanto
+7,734,Yungoos,Breeding from Gumshoos
+7,735,Gumshoos,Isle Montesanto
+7,736,Grubbin,Route 5
+7,737,Charjabug,Evolves from Grubbin (Lv. 20)
+7,738,Vikavolt,Evolves from Charjabug (Lv. 36)
+7,739,Crabrawler,Route 11
+7,740,Crabominable,Evolves from Crabrawler (Lv. 36)
+7,741,Oricorio,Isle Montesanto
+7,742,Cutiefly,Trade in Novarte City for Flabébé
+7,743,Ribombee,Route 19
+7,744,Rockruff,Route 9
+7,745,Lycanroc,Evolves from Rockruff (Lv. 25)
+7,746,Wishiwashi,Isle Montesanto
+7,747,Mareanie,Breeding from Toxapex
+7,748,Toxapex,Isle Montesanto
+7,749,Mudbray,Route 9
+7,750,Mudsdale,Route 9 or Evolution
+7,751,Dewpider,Storm Hill or Grisalla City
+7,752,Araquanid,Route 22 or Evolution
+7,753,Formantis,Isle Montesanto
+7,754,Lurantis,Isle Montesanto or Evolution
+7,755,Morelull,Route 3 or Hillside Forest
+7,756,Shiinotic,Evolves from Morelull (Lv. 24)
+7,757,Salandit,Breeding from Salazzle
+7,758,Salazzle,Vanitas Town (Pokémon Bastion)
+7,759,Stufful,Route 22
+7,760,Bewear,Route 22 or Evolution
+7,761,Bounsweet,Breeding from Steenee/Tsareena
+7,762,Steenee,Route 16
+7,763,Tsareena,Evolves from Steenee knowing Stomp
+7,764,Comfey,Certijo Isle
+7,765,Oranguru,Certijo Isle
+7,766,Passimian,Certijo Isle
+7,767,Wimpod,Relieve City
+7,768,Golisopod,Isle Montesanto or Evolution
+7,769,Sandygast,Route 11
+7,770,Palossand,Sanguina Coast or Evolution
+7,771,Pyukumuku,Route 11
+7,772,Type: Null,Yantra Ranch (Route 24)
+7,773,Silvally,Friendship Evolution
+7,774,Minior,Reflection Cave
+7,775,Komala,Isle Montesanto
+7,776,Turtonator,Fiery Chasm
+7,777,Togedemaru,Burned Workshop
+7,778,Mimikyu,Profano Witch Event
+7,779,Bruxish,Fluxus City or Route 8
+7,780,Drampa,Route 9
+7,781,Dhelmise,Acrylic Town Seafloor
+7,782,Jangmo-o,Breeding from Hakamo-o
+7,783,Hakamo-o,Isle Montesanto or Service Station
+7,784,Kommo-o,Evolves from Hakamo-o (Lv. 45)
+7,785,Tapu Koko,Isle Montesanto (after Loto Event)
+7,786,Tapu Lele,Isle Montesanto (after Loto Event)
+7,787,Tapu Bulu,Isle Montesanto (after Loto Event)
+7,788,Tapu Fini,Isle Montesanto (after Loto Event)
+7,789,Cosmog,Certijo Isle or Old Vanitas (after Yantra)
+7,790,Cosmoem,Evolves from Cosmog (Lv. 45)
+7,791,Solgaleo,Evolves from Cosmoem (Day Stone)
+7,792,Lunala,Evolves from Cosmoem (Night Stone)
+7,793,Nihilego,Mysterious Place
+7,794,Buzzwole,Mysterious Place
+7,795,Pheromosa,Mysterious Place
+7,796,Xurkitree,Mysterious Place
+7,797,Celesteela,Mysterious Place
+7,798,Kartana,Mysterious Place
+7,799,Guzzlord,Mysterious Place
+7,800,Necrozma,Luminalia Crypts
+7,801,Magearna,Novarte City (after Mechanical Heart)
+7,802,Marshadow,Sanguina Coast (after Yantra)
+7,803,Poipole,Mysterious Place
+7,804,Naganadel,Evolves from Poipole (Dragon Pulse)
+7,805,Stakataka,Mysterious Place
+7,806,Blacephalon,Mysterious Place
+7,807,Zeraora,Service Station (upstairs)
+7,808,Meltan,Exchange for 700 coins — Sanguino Casino
+7,809,Melmetal,Friendship Evolution
+8,810,Grookey,Trade for a Victreebel in Fluxus Café.
+8,811,Thwackey,Evolves from Grookey at 18.
+8,812,Rillaboom,Evolves from Thwackey at 45.
+8,813,Scorbunny,Trade for a Heatmor in Fluxus Café.
+8,814,Raboot,Evolves from Scorbunny at 18.
+8,815,Cinderace,Evolves from Raboot at 45.
+8,816,Sobble,Trade for a Bruxish in Fluxus Café.
+8,817,Drizzile,Evolves from Sobble at 18.
+8,818,Inteleon,Evolves from Drizzile at 45.
+8,819,Skwovet,Obtainable by breeding Greedent.
+8,820,Greedent,Capturable on Route 16.
+8,821,Rookidee,Obtainable by breeding Corvisquire.
+8,822,Corvisquire,Capturable on Route 12.
+8,823,Corviknight,Evolves from Corvisquire at 38.
+8,824,Blipbug,Capturable in Hillside Forest.
+8,825,Dottler,Evolves from Blipbug at 10.
+8,826,Orbeetle,Evolves from Dottler at 30.
+8,827,Nickit,Capturable on Route 3.
+8,828,Thievul,Capturable in Profane Town or evolves from Nickit at 18.
+8,829,Gossifleur,Obtainable by breeding Eldegoss.
+8,830,Eldegoss,Capturable on Route 20.
+8,831,Wooloo,Capturable on Route 9.
+8,832,Dubwool,Capturable on Route 9 or evolves from Wooloo at 24.
+8,833,Chewtle,Capturable on Route 5.
+8,834,Drednaw,Capturable in Fresh Town or evolves from Chewtle at 24.
+8,835,Yamper,Capturable in Novarte City.
+8,836,Boltund,Evolves from Yamper at 25.
+8,837,Rolycoly,Capturable in Grisalla Cave.
+8,838,Carkol,Capturable in Dark Cave or evolves from Rolycoly at 18.
+8,839,Coalossal,Evolves from Carkol at 40.
+8,840,Applin,Capturable on Route 7 North.
+8,841,Flapple,Evolves from Applin with Leaf Stone.
+8,842,Appletun,Evolves from Applin with Sun Stone.
+8,843,Silicobra,Obtainable by breeding Sandaconda.
+8,844,Sandaconda,Capturable in Prison of Oblivion.
+8,845,Cramorant,Capturable on Route 23.
+8,846,Arrokuda,Obtainable by breeding Barraskewda.
+8,847,Barraskewda,Capturable in Petroglyph Town Seafloor.
+8,848,Toxel,Capturable on Route 5.
+8,849,Toxtricity,Evolves from Toxel at 30.
+8,850,Sizzlipede,Obtainable by breeding Centiskorch.
+8,851,Centiskorch,Capturable in Prison of Oblivion.
+8,852,Clobbopus,Capturable in Petroglyph Town.
+8,853,Grapploct,Evolves from Clobbopus at 40.
+8,854,Sinistea,Capturable in Old Library (Oleum City).
+8,855,Polteageist,Evolves from Sinistea with Night Stone.
+8,856,Hatenna,Obtainable by breeding Hattrem/Hatterene.
+8,857,Hattrem,Capturable on Route 6.
+8,858,Hatterene,Evolves from Hattrem at 42.
+8,859,Impidimp,Trade for a Tinkatuff in a house on Route 7.
+8,860,Morgrem,Capturable in Old Vanitas or evolves from Impidimp at 32.
+8,861,Grimmsnarl,Evolves from Morgrem at 42.
+8,862,Obstagoon,Evolves from Linoone at 35.
+8,863,Perrserker,Capturable on Route 25 or evolves from Meowth with Night Stone.
+8,864,Cursola,Evolves from Corsola with Night Stone.
+8,865,Sirfetch’d (Z),Evolves from Farfetch’d with Hard Bread.
+8,866,Mr. Rime,Capturable in Batik City or evolves from Mr. Mime with Dawn Stone.
+8,867,Runerigus,Capturable on Route 25 or evolves from Yamask with Night Stone.
+8,868,Milcery,Capturable on Route 8 (Chateau Lanto screen).
+8,869,Alcremie,Capturable on Route 8 or evolves from Milcery with Moon Stone.
+8,870,Falinks,Capturable on Certijo Island.
+8,871,Pincurchin,Capturable on Route 11.
+8,872,Snom,Capturable in Kalos Pyrenees.
+8,873,Frosmoth,Capturable in Kalos Pyrenees or Fractal City.
+8,874,Stonjourner,Capturable on Route 25.
+8,875,Eiscue,Trade for Morpeko in Sanguino Town.
+8,876,Indeedee,Capturable in South Luminalia Expansions.
+8,877,Morpeko,Capturable on Route 12.
+8,878,Cufant,Capturable in the Service Station.
+8,879,Copperajah,Capturable in the Service Station or evolves from Cufant at 34.
+8,880,Dracozolt,Tradeable in Mosaic City for Helix Fossil.
+8,881,Arctozolt,Tradeable in Mosaic City for Dome Fossil.
+8,882,Dracovish,Tradeable in Mosaic City for Root Fossil.
+8,883,Arctovish,Tradeable in Mosaic City for Claw Fossil.
+8,884,Duraludon,Capturable in South Luminalia Expansions.
+8,885,Dreepy,Capturable on Route 22.
+8,886,Drakloak,Evolves from Dreepy at 50.
+8,887,Dragapult,Evolves from Drakloak at 60.
+8,888,Zacian,In Kings’ Sanctuary after Yantra.
+8,889,Zamazenta,In Kings’ Sanctuary after Yantra.
+8,890,Eternatus,In Western Catacombs after its puzzle.
+8,891,Kubfu,Capturable in Yantra City.
+8,892,Urshifu,Evolves from Kubfu by friendship.
+8,893,Zarude,Route 20 after Yantra.
+8,894,Regieleki,In the Grand Exhibition after Yantra.
+8,895,Regidrago,On Route 17.
+8,896,Glastrier,In Fractal City.
+8,897,Spectrier,In the Dark Tower after Yantra.
+8,898,Calyrex,In Vanitas Orchard after Yantra.
+8,903,Kleavor,Evolves from Scyther if it knows Rock Smash.
+8,904,Wyrdeer,Evolves from Stantler at 40.
+8,905,Basculegion,Evolves from Basculin at 40.
+8,906,Overqwil,Evolves from Qwilfish if it knows Toxic Spikes.
+8,907,Sneasler,Evolves from Sneasel if it knows Poison Jab.
+8,994,Ursaluna,Evolves from Ursaring at 45.
+8,995,Enamorus,"In Petro Cave, after Yantra."
+9,909,Sprigatito,At Galanes Café for a Kecleon
+9,910,Floragato,Evolves from Sprigatito at 18
+9,911,Meowscarada,Evolves from Floragato at 45
+9,912,Fuecoco,At Galanes Café for a Scrafty
+9,913,Crocalor,Evolves from Fuecoco at 18
+9,914,Skeledirge,Evolves from Crocalor at 45
+9,915,Quaxly,At Galanes Café for a Heliolisk
+9,916,Quaxwell,Evolves from Quaxly at 18
+9,917,Quaquaval,Evolves from Quaxwell at 45
+9,918,Lechonk,Catchable on Route 9.
+9,919,Oinkologne,Catchable on Route 9 or evolves from Lechonk at 18.
+9,920,Dudunsparce,Catchable on Route 24 or evolves from Dunsparce at 37.
+9,921,Tarountula,Obtainable through breeding from Spidops.
+9,922,Spidops,Catchable in Hillside Forest.
+9,923,Nymble,Catchable in Hillside Forest.
+9,924,Lokix,Evolves from Nymble at 24.
+9,925,Rellor,Catchable on Route 6.
+9,926,Rabsca,Evolves from Rellor at 30.
+9,927,Greavard,Catchable on Route 6.
+9,928,Houndstone,Evolves from Greavard at 30.
+9,929,Flittle,Catchable on Route 3.
+9,930,Espathra,Evolves from Flittle at 35.
+9,931,Farigiraf,Evolves from Girafarig at 40.
+9,932,Dondozo,Catchable at the bottom of the lake on Route 16.
+9,933,Veluza,Catchable in the seabed of Petroglifo Town.
+9,934,Finizen,Catchable in the seabed of Acrílico Town.
+9,935,Palafin,Catchable in the seabed of Acrílico Town or evolves from Finizen at 38.
+9,936,Smoliv,Obtainable through breeding from Dolliv/Arboliva.
+9,937,Dolliv,Catchable on Route 8.
+9,938,Arboliva,Evolves from Dolliv at 35.
+9,939,Capsakid,Catchable in Kings’ Sanctuary.
+9,940,Scovillain,Evolves from Capsakid with Fire Stone.
+9,941,Tadbulb,Catchable in Shimmering Cave.
+9,942,Bellibolt,Evolves from Tadbulb with Thunder Stone.
+9,943,Varoom,Obtainable through breeding from Revaroom.
+9,944,Revaroom,Catchable in Poké Ball Factory.
+9,945,Orthworm,Catchable at the Service Station.
+9,946,Tandemaus,Zafra reward (after Restaurant).
+9,947,Maushold,Evolves from Tandemaus at 25.
+9,948,Cetoddle,Obtainable through breeding from Cetitan.
+9,949,Cetitan,Catchable in Frozen Grotto.
+9,950,Frigibax,Catchable in Frozen Grotto.
+9,951,Arctibax,Evolves from Frigibax at 35.
+9,952,Baxcalibur,Evolves from Arctibax at 54.
+9,953,Tatsugiri,Catchable at the bottom of the lake on Route 16.
+9,954,Cyclizar,Catchable at the Service Station.
+9,955,Pawmi,Catchable on Route 2.
+9,956,Pawmo,Evolves from Pawmi at 18.
+9,957,Pawmot,Evolves from Pawmo by friendship.
+9,958,Wattrel,Catchable in Novarte City or Route 11.
+9,959,Kilowattrel,Catchable on Route 11 or evolves from Wattrel at 25.
+9,960,Bombirdier,Catchable on Route 14.
+9,961,Squawkabilly,Trade for a Pidgeot in Romantis City.
+9,962,Flamingo,Catchable on Certijo Island.
+9,963,Klawf,Catchable on Route 10.
+9,964,Nacli,Breeding from Naclstack/Garganacl.
+9,965,Naclstack,Catchable at the Service Station.
+9,966,Garganacl,Catchable in East Kalos Battle or evolves from Naclstack at 38.
+9,967,Glimmet,Catchable in Northern Catacombs.
+9,968,Glimmora,Catchable in Northern Catacombs or evolves from Glimmet at 35.
+9,969,Shroodle,Obtainable through breeding from Grafaiai.
+9,970,Grafaiai,Catchable on Route 14.
+9,971,Fidough,Catchable on Route 2.
+9,972,Dachsbun,Evolves from Fidough at 26.
+9,973,Maschiff,Catchable on Storm Hill.
+9,974,Mabosstiff,Evolves from Maschiff at 30.
+9,975,Bramblin,Obtainable through breeding from Brambleghast
+9,976,Brambleghast,Catchable on Route 24
+9,977,Gimmighoul,Catchable on Route 8.
+9,978,Gholdengo,Evolves from Gimmighoul at 50.
+9,979,Tinkatink,Catchable on Route 5.
+9,980,Tinkatuff,Evolves from Tinkatink at 24.
+9,981,Tinkaton,Evolves from Tinkatuff at 38.
+9,982,Charcadet,Catchable on North Route 7.
+9,983,Armarouge,Evolves from Charcadet with Fire Stone.
+9,984,Ceruledge,Evolves from Charcadet with Dusk Stone.
+9,985,Kingambit,Evolves from Bisharp at 42.
+9,986,Clodsire,Catchable in Profane Swamp or evolves from Wooper if it knows Poison Jab.
+9,987,Annihilape,Evolves from Primeape at 45.
+9,988,Wo-Chien,In the Northern Catacombs
+9,989,Chien-Pao,In the Southern Catacombs.
+9,990,Ting-Lu,In the Eastern Catacombs
+9,991,Chi-Yu,In the Western Catacombs.
+9,992,Koraidon,In Prosperity Sanctuary inside the druidic cave
+9,993,Miraidon,In the Poké Ball Factory.
+9,999,Dipplin,Evolves from Applin at 28.
+9,1000,Okidogi,"In Profane Swamp, after Yantra"
+9,1001,Munkidori,"In Profane Swamp, after Yantra."
+9,1002,Fezandipiti,"In Profane Swamp, after Yantra."
+9,1003,Ogerpon,"On Route 16, after Yantra."
+9,1004,Sinistcha,Evolves from Sinistea with Leaf Stone.
+9,1005,Archaludon,Catchable in Luminalia Expansions or evolves from Duraludon at 55.
+9,1006,Hydrapple,Evolves from Dipplin at 50.
+9,1016,Terapagos,In the Abandoned Forge after Yantra
+9,1017,Pecharunt,"In Profane Swamp, on the tree, after Yantra"
