@@ -24,11 +24,15 @@
 <a class="skip-link" href="#main">Skip to content</a>
 <header class="sticky top-0 z-40 border-b border-ink-200/80 bg-parchment/85 backdrop-blur-md dark:border-ink-800 dark:bg-ink-950/85">
   <div class="mx-auto flex max-w-[1600px] items-center gap-3 px-4 py-2.5">
-    <a href="index.html" class="flex items-center gap-2 no-underline">
-      <span class="grid h-8 w-8 place-items-center rounded-lg bg-ember-500 text-base font-bold text-white">Z</span>
-      <span class="hidden font-sans text-sm font-semibold tracking-tight sm:block">Pokémon Z research</span>
+    <a href="index.html" class="flex items-center gap-2.5 no-underline">
+      <img src="assets/brand/z-logo.png" alt="Pokemon Z" width="180" height="126"
+        class="h-9 w-auto shrink-0 sm:h-10">
+      <span class="hidden font-sans leading-none lg:block">
+        <span class="block text-[10px] font-semibold uppercase tracking-[0.16em] text-ink-400 dark:text-ink-500">Fan research</span>
+        <span class="mt-1 block text-[10px] font-medium tracking-tight text-ink-300 dark:text-ink-600">Ancient Kalos, 300 years before X and Y</span>
+      </span>
     </a>
-    <nav class="ml-auto hidden items-center gap-1 md:flex" aria-label="Primary"><a href="index.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors bg-kalos-600 text-white">Overview</a><a href="document.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">The research</a><a href="dex.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">Pokédex</a><a href="data.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">Datasets</a><a href="sprites.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">Boss sprites</a></nav>
+    <nav class="ml-auto hidden items-center gap-1 md:flex" aria-label="Primary"><a href="index.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors bg-kalos-600 text-white">Overview</a><a href="guide.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">Guide</a><a href="document.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">Research</a><a href="dex.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">Pokédex</a><a href="types.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">Types</a><a href="data.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">Datasets</a><a href="sprites.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">Boss sprites</a></nav>
     <button id="theme-toggle" type="button" aria-label="Toggle dark mode"
       class="ml-auto rounded-lg border border-ink-200 p-2 text-ink-600 hover:bg-ink-100 md:ml-2 dark:border-ink-700 dark:text-ink-300 dark:hover:bg-ink-800">
       <svg class="h-4 w-4 dark:hidden" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M2 12h2M20 12h2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M19.1 4.9l-1.4 1.4M6.3 17.7l-1.4 1.4"/></svg>
@@ -39,8 +43,20 @@
       <svg class="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
     </button>
   </div>
-  <nav id="nav-mobile" class="hidden border-t border-ink-200 px-3 py-2 md:hidden dark:border-ink-800" aria-label="Primary mobile"><a href="index.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors bg-kalos-600 text-white">Overview</a><a href="document.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">The research</a><a href="dex.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">Pokédex</a><a href="data.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">Datasets</a><a href="sprites.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">Boss sprites</a></nav>
+  <nav id="nav-mobile" class="hidden border-t border-ink-200 px-3 py-2 md:hidden dark:border-ink-800" aria-label="Primary mobile"><a href="index.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors bg-kalos-600 text-white">Overview</a><a href="guide.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">Guide</a><a href="document.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">Research</a><a href="dex.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">Pokédex</a><a href="types.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">Types</a><a href="data.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">Datasets</a><a href="sprites.html" class="rounded-lg px-3 py-2 text-sm font-medium transition-colors text-ink-600 hover:bg-ink-100 hover:text-ink-950 dark:text-ink-300 dark:hover:bg-ink-800 dark:hover:text-white">Boss sprites</a></nav>
 </header>
+<div id="edge-nav" class="pointer-events-none fixed bottom-5 right-4 z-40 flex flex-col gap-2 opacity-0 transition-opacity duration-200" aria-hidden="true">
+  <button id="to-top" type="button" title="Back to top"
+    class="pointer-events-auto grid h-11 w-11 place-items-center rounded-full border border-ink-200 bg-white/95 text-ink-700 shadow-lg backdrop-blur hover:bg-white dark:border-ink-700 dark:bg-ink-900/95 dark:text-ink-200">
+    <svg class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 15 7-7 7 7"/></svg>
+    <span class="sr-only">Back to top</span>
+  </button>
+  <button id="to-bottom" type="button" title="Jump to the end"
+    class="pointer-events-auto grid h-11 w-11 place-items-center rounded-full border border-ink-200 bg-white/95 text-ink-700 shadow-lg backdrop-blur hover:bg-white dark:border-ink-700 dark:bg-ink-900/95 dark:text-ink-200">
+    <svg class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m5 9 7 7 7-7"/></svg>
+    <span class="sr-only">Jump to the end</span>
+  </button>
+</div>
 <main id="main">
 
 <div class="mx-auto max-w-6xl px-4 py-12 sm:py-20">
