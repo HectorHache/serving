@@ -14,6 +14,7 @@
   var dex = data.dex || [];
   var catchIndex = {};
   (data.catch || []).forEach(function (r) { catchIndex[r.species] = r; });
+  var evos = data.evos || {};
   var badges = data.badges || [];
 
   var q = document.getElementById('dex-search');
@@ -60,6 +61,28 @@
   var K_BADGES = 'pz-badges';
   var K_HIDE = 'pz-hide-caught';
   var K_FORMS = 'pz-forms';
+  var K_SQUIRTLE_SHADES = 'pz-squirtle-shades';
+
+  function isSquirtleShadesActive() {
+    return !!load(K_SQUIRTLE_SHADES, false);
+  }
+  function setSquirtleShadesActive(val) {
+    save(K_SQUIRTLE_SHADES, !!val);
+  }
+
+  function squirtleShadesSvg(isGrid, isVisible) {
+    var idAttr = isGrid ? '' : ' id="squirtle-shades"';
+    var displayStyle = (isVisible === false) ? 'display:none;' : 'display:block;';
+    return '<svg' + idAttr + ' class="pointer-events-none absolute filter drop-shadow-md" style="top:18px;left:18px;width:58px;height:26px;z-index:30;pointer-events:none;transform:rotate(-3deg);transform-origin:center center;' + displayStyle + '" viewBox="0 0 100 45">' +
+      '<polygon points="0,4 46,12 38,40 14,36" fill="#111827" stroke="#000" stroke-width="2.5" stroke-linejoin="round"/>' +
+      '<polygon points="54,12 100,4 86,36 62,40" fill="#111827" stroke="#000" stroke-width="2.5" stroke-linejoin="round"/>' +
+      '<line x1="45" y1="12" x2="55" y2="12" stroke="#111827" stroke-width="4.5" stroke-linecap="round"/>' +
+      '<polygon points="8,10 24,13 16,30 6,24" fill="#38bdf8" opacity="0.6"/>' +
+      '<polygon points="62,14 78,11 88,24 74,29" fill="#38bdf8" opacity="0.6"/>' +
+      '<polygon points="12,12 20,13 14,24 8,20" fill="#ffffff" opacity="0.85"/>' +
+      '<polygon points="66,13 74,12 82,21 72,25" fill="#ffffff" opacity="0.85"/>' +
+    '</svg>';
+  }
 
   function load(key, fallback) {
     try {
@@ -84,11 +107,25 @@
   function isCaught(name) { return !!caught[name]; }
   function formKey(base, form) { return base + '\u0001' + form; }
   function isFormCaught(base, form) { return !!formCaught[formKey(base, form)]; }
+  function formPillClass(kind, on) {
+    var BASE = 'rounded-full border px-1.5 py-0.5 font-sans text-[9px] font-semibold leading-none transition-colors';
+    if (on) {
+      return BASE + ' border-ember-500 bg-ember-500 text-white font-semibold';
+    }
+    var TONE = {
+      Z: 'border-kalos-400 text-kalos-700 dark:border-kalos-600 dark:text-kalos-300 bg-transparent',
+      Mega: 'border-ember-400 text-ember-700 dark:border-ember-600 dark:text-ember-400 bg-transparent',
+      other: 'border-ink-300 text-ink-500 dark:border-ink-700 dark:text-ink-400 bg-transparent'
+    }[kind] || 'border-ink-300 text-ink-500 dark:border-ink-700 dark:text-ink-400 bg-transparent';
+    return BASE + ' ' + TONE;
+  }
+
   function toggleForm(base, form) {
     var k = formKey(base, form);
     if (formCaught[k]) delete formCaught[k]; else formCaught[k] = 1;
     save(K_FORMS, formCaught);
     paintFormsCount();
+    refreshCard(base);
   }
   function formsDone(name) {
     var e = dexByName[name];
@@ -129,6 +166,111 @@
     });
   }
 
+  
+  /* ---------------------------------------------------- evolutions */
+  function renderEvolutions(p) {
+    var fam = evos[p.name];
+    if (!fam || !fam.tree || fam.tree.length <= 1) {
+      return '<div class="mt-2 rounded-xl border border-ink-200/80 bg-ink-50/50 p-3 text-xs text-ink-500 dark:border-ink-800/80 dark:bg-ink-900/50">This species does not evolve.</div>';
+    }
+
+    var stages = {};
+    var maxStage = 1;
+    fam.tree.forEach(function (node) {
+      var st = node.stage || 1;
+      if (st > maxStage) maxStage = st;
+      stages[st] = stages[st] || [];
+      stages[st].push(node);
+    });
+
+    var html = ['<div class="mt-2.5 flex flex-wrap items-center gap-2 overflow-x-auto pb-1 text-sm">'];
+
+    for (var s = 1; s <= maxStage; s++) {
+      var list = stages[s] || [];
+      if (!list.length) continue;
+
+      if (s > 1) {
+        html.push('<div class="flex items-center justify-center px-0.5 text-ink-300 dark:text-ink-600 font-bold text-base select-none">→</div>');
+      }
+
+      html.push('<div class="flex flex-col gap-2">');
+      list.forEach(function (node) {
+        var isCurrent = (node.name === p.name);
+        var targetSp = dexByName[node.name];
+        var imgId = node.id ? node.id : (targetSp ? targetSp.id : null);
+        var imgPath = imgId ? ('assets/dex/' + imgId + '.png') : 'assets/brand/z-logo.png';
+        var numLabel = node.id ? ('#' + String(node.id).padStart(4, '0')) : (node.custom ? 'Ancient Kalos (Z)' : '');
+        var methodBadge = node.method
+          ? '<div class="mt-1 inline-block rounded-md bg-kalos-100 px-2 py-0.5 text-[10.5px] font-semibold text-kalos-800 dark:bg-kalos-950 dark:text-kalos-300 max-w-[140px] truncate text-center" title="' + esc(node.method) + '">' + esc(node.method) + '</div>'
+          : '';
+
+        var activeClass = isCurrent
+          ? 'ring-2 ring-kalos-500 bg-kalos-50/80 dark:bg-kalos-950/60 border border-kalos-400 font-bold'
+          : 'border border-ink-200/80 bg-white hover:bg-ink-100 hover:border-ink-300 dark:border-ink-800/80 dark:bg-ink-900 dark:hover:bg-ink-800';
+
+        html.push(
+          '<button type="button" data-openevo="' + esc(node.name) + '" ' +
+            'class="group flex flex-col items-center rounded-xl p-2 transition-all text-center min-w-[95px] ' + activeClass + '">' +
+            '<img src="' + imgPath + '" alt="' + esc(node.label) + '" width="44" height="44" class="h-11 w-11 object-contain transition-transform group-hover:scale-105" onerror="this.style.opacity=0.3">' +
+            '<div class="mt-1 text-xs font-semibold leading-tight text-ink-900 dark:text-ink-100">' + esc(node.label) + '</div>' +
+            (numLabel ? '<div class="font-mono text-[10px] text-ink-400">' + esc(numLabel) + '</div>' : '') +
+            methodBadge +
+          '</button>'
+        );
+      });
+      html.push('</div>');
+    }
+
+    html.push('</div>');
+    return html.join('');
+  }
+
+  function getMaxStat(p, stat) {
+    var val = Number(p[stat]) || 0;
+    var maxVal = (stat === 'hp') ? 255 : 250;
+    var evo = evos[p.name];
+    if (evo && evo.tree && evo.tree.length) {
+      var peak = val;
+      evo.tree.forEach(function (node) {
+        var rel = dexByName[node.name];
+        if (rel && rel[stat] != null) {
+          var rVal = Number(rel[stat]) || 0;
+          if (rVal > peak) peak = rVal;
+        }
+      });
+      if (peak > val) return peak;
+    }
+    return maxVal;
+  }
+
+  function statBar(label, val, maxVal, barColorCls) {
+    var pct = Math.min(100, Math.max(6, Math.round((val / 250) * 100)));
+    return '<div class="flex items-center gap-2 text-xs font-mono">' +
+      '<span class="w-24 shrink-0 font-sans text-xs font-semibold text-ink-700 dark:text-ink-300">' + label + '</span>' +
+      '<span class="w-16 shrink-0 text-right font-mono text-xs tabular-nums text-ink-900 dark:text-white font-bold">' +
+        val + '<span class="text-ink-400 dark:text-ink-500 font-normal">/' + maxVal + '</span></span>' +
+      '<div class="h-2 flex-1 overflow-hidden rounded-full bg-ink-100 dark:bg-ink-800">' +
+        '<div class="h-full rounded-full ' + barColorCls + '" style="width:' + pct + '%"></div>' +
+      '</div>' +
+    '</div>';
+  }
+
+  function statPanel(p) {
+    return '<div class="mb-5 rounded-xl border border-ink-200 bg-ink-50/70 p-3.5 dark:border-ink-800 dark:bg-ink-950/60">' +
+      '<div class="mb-2.5 flex items-center justify-between font-sans text-xs">' +
+        '<span class="font-bold uppercase tracking-wide text-ink-500 dark:text-ink-400">Base stats distribution</span>' +
+        '<span class="rounded-full bg-ink-200 px-2.5 py-0.5 font-mono text-[11px] font-bold text-ink-900 dark:bg-ink-800 dark:text-ink-100">' + p.bst + ' BST</span>' +
+      '</div>' +
+      '<div class="grid gap-2 sm:grid-cols-2 sm:gap-x-4">' +
+        statBar('HP', p.hp, getMaxStat(p, 'hp'), 'stat-bar-hp') +
+        statBar('Attack', p.atk, getMaxStat(p, 'atk'), 'stat-bar-atk') +
+        statBar('Defense', p.def, getMaxStat(p, 'def'), 'stat-bar-def') +
+        statBar('Sp. Attack', p.spa, getMaxStat(p, 'spa'), 'stat-bar-spa') +
+        statBar('Sp. Defense', p.spd, getMaxStat(p, 'spd'), 'stat-bar-spd') +
+        statBar('Speed', p.spe, getMaxStat(p, 'spe'), 'stat-bar-spe') +
+      '</div>' +
+    '</div>';
+  }
   function openSheet(p) {
     var rec = catchIndex[p.name];
     var where = '';
@@ -151,32 +293,46 @@
         'or it only appears in a postgame or legendary table.</p>';
     }
 
+    var shadesActive = isSquirtleShadesActive();
+    var shadesBtnHtml = (p.name === 'squirtle')
+      ? '<button type="button" id="squirtle-shades-btn" title="Squirtle Squad Leader Shades!" class="rounded-full border ' +
+        (shadesActive
+          ? 'border-kalos-500 bg-kalos-600 text-white shadow-sm hover:bg-kalos-700'
+          : 'border-kalos-400 bg-kalos-50 text-kalos-700 hover:bg-kalos-100 dark:border-kalos-600 dark:bg-kalos-950 dark:text-kalos-300') +
+        ' px-2 py-0.5 text-[10px] font-bold">' +
+        (shadesActive ? '\u2728 Squad Active \u2713' : '\u2728 Squad Shades') + '</button>'
+      : '';
+
     sheet.innerHTML =
       '<div class="flex items-start gap-4 border-b border-ink-200 p-5 dark:border-ink-800">' +
-        '<img src="assets/dex/' + (p.img || p.id) + '.png" alt="" width="96" height="96" class="h-24 w-24 shrink-0 object-contain">' +
+        '<div class="relative shrink-0"><img id="sheet-p-img" src="assets/dex/' + (p.img || p.id) + '.png" alt="" width="96" height="96" class="h-24 w-24 object-contain">' +
+          (p.name === 'squirtle' ? squirtleShadesSvg(false, shadesActive) : '') +
+        '</div>' +
         '<div class="min-w-0">' +
           '<div class="font-mono text-xs text-ink-400">#' + String(p.id).padStart(4, '0') + ' \u00b7 ' + esc(p.genus || '') + '</div>' +
-          '<h2 class="mt-0.5 font-sans text-xl font-bold">' + esc(speciesLabel(p)) + '</h2>' +
+          '<div class="flex items-center gap-2">' +
+            '<h2 class="mt-0.5 font-sans text-xl font-bold">' + esc(speciesLabel(p)) + '</h2>' +
+            shadesBtnHtml +
+          '</div>' +
           '<div class="mt-1.5 flex flex-wrap gap-1">' + p.types.map(typeChip).join('') + '</div>' +
-          '<div class="mt-2 font-mono text-xs text-ink-400">HP ' + p.hp + ' \u00b7 Atk ' + p.atk + ' \u00b7 Def ' + p.def +
-            ' \u00b7 SpA ' + p.spa + ' \u00b7 SpD ' + p.spd + ' \u00b7 Spe ' + p.spe + ' \u00b7 <b>' + p.bst + ' BST</b></div>' +
           '<button id="sheet-caught" type="button" class="mt-3 rounded-lg px-3.5 py-2 font-sans text-sm font-medium ' +
             (isCaught(p.name)
               ? 'bg-ember-500 text-white hover:bg-ember-600'
               : 'border border-ink-200 bg-white text-ink-700 hover:bg-ink-100 dark:border-ink-700 dark:bg-ink-950 dark:text-ink-200') + '">' +
-            (isCaught(p.name) ? 'Caught \u2713  click to undo' : 'Mark as caught') + '</button>' +
+            (isCaught(p.name) ? 'Caught \u2713 \u00b7 Click to release' : 'Mark as caught') + '</button>' +
         '</div>' +
         '<button type="button" data-close class="ml-auto shrink-0 rounded-lg border border-ink-200 px-2 py-1 font-sans text-sm text-ink-500 hover:bg-ink-100 dark:border-ink-700 dark:text-ink-300 dark:hover:bg-ink-800">&times;</button>' +
       '</div>' +
       '<div class="p-5">' +
-        '<h3 class="font-sans text-xs font-bold uppercase tracking-[0.12em] text-ink-400">Where to get it</h3>' +
+        statPanel(p) +
+        '<h3 class="font-sans text-xs font-bold uppercase tracking-[0.12em] text-ink-400">Evolution line</h3>' + renderEvolutions(p) + '<h3 class="mt-5 font-sans text-xs font-bold uppercase tracking-[0.12em] text-ink-400">Where to get it</h3>' +
         where +
         (p.abilities && p.abilities.length && p.abilities[0]
           ? '<p class="mt-4 font-sans text-sm text-ink-600 dark:text-ink-300">Abilities: ' + esc(p.abilities.filter(Boolean).join(', ')) + '</p>'
           : '') +
         (p.forms && p.forms.length
           ? '<h3 class="mt-5 font-sans text-xs font-bold uppercase tracking-[0.12em] text-ink-400">Other forms in this game</h3>' +
-            '<p class="mt-1 font-sans text-xs text-ink-500 dark:text-ink-400">Tick each one separately. This game has no standalone Gigantamax: the creator turned those forms into Mega Stones, so they are listed here as Mega.</p>' +
+            '<p class="mt-1 font-sans text-xs text-ink-500 dark:text-ink-400">Mark each form as caught separately. This game has no standalone Gigantamax: the creator turned those forms into Mega Stones, so they are listed here as Mega.</p>' +
             '<ul class="mt-2 space-y-1.5">'.concat(p.forms.map(function (f) {
               var on = isFormCaught(p.name, f.name);
               return '<li class="flex items-start gap-2 rounded-lg border border-ink-200 p-2 dark:border-ink-800">' +
@@ -203,6 +359,31 @@
         openSheet(p);
       });
     });
+    sheet.querySelectorAll('[data-openevo]').forEach(function (b) {
+      b.addEventListener('click', function () {
+        var name = b.getAttribute('data-openevo');
+        if (dexByName[name]) {
+          openSheet(dexByName[name]);
+        }
+      });
+    });
+    var sBtn = sheet.querySelector('#squirtle-shades-btn');
+    if (sBtn) {
+      sBtn.addEventListener('click', function () {
+        var next = !isSquirtleShadesActive();
+        setSquirtleShadesActive(next);
+        var shades = sheet.querySelector('#squirtle-shades');
+        if (shades) {
+          shades.style.display = next ? 'block' : 'none';
+        }
+        sBtn.textContent = next ? '\u2728 Squad Active \u2713' : '\u2728 Squad Shades';
+        sBtn.className = 'rounded-full border px-2 py-0.5 text-[10px] font-bold ' +
+          (next
+            ? 'border-kalos-500 bg-kalos-600 text-white shadow-sm hover:bg-kalos-700'
+            : 'border-kalos-400 bg-kalos-50 text-kalos-700 hover:bg-kalos-100 dark:border-kalos-600 dark:bg-kalos-950 dark:text-kalos-300');
+        refreshCard('squirtle');
+      });
+    }
     sheet.querySelector('#sheet-caught').addEventListener('click', function () {
       toggleCaught(p.name);
       openSheet(p);
@@ -362,13 +543,18 @@
     a.setAttribute('data-name', p.name);
     a.setAttribute('data-rank', rank == null ? '' : String(rank));
     a.className = 'group relative flex flex-col overflow-hidden rounded-xl border border-ink-200 bg-white p-3 text-left no-underline transition-all hover:-translate-y-0.5 hover:border-kalos-400 hover:shadow-md dark:border-ink-800 dark:bg-ink-900 dark:hover:border-kalos-600';
+    var shadesOverlay = (p.name === 'squirtle' && isSquirtleShadesActive())
+      ? squirtleShadesSvg(true, true)
+      : '';
     var art = p.art
-      ? '<img src="assets/dex/' + (p.img || p.id) + '.png" alt="' + esc(speciesLabel(p)) + '" decoding="async" width="96" height="96" ' +
-        /* the first screenful wins the race, the other 1000 stay lazy */
-        (rank != null && rank < PRIORITY_N
-          ? 'loading="eager" fetchpriority="high"'
-          : 'loading="lazy" fetchpriority="low"') +
-        ' class="mx-auto h-24 w-24 object-contain' + (isCaught(p.name) ? '' : ' opacity-45 saturate-50') + '">'
+      ? '<div class="relative mx-auto h-24 w-24">' +
+          '<img src="assets/dex/' + (p.img || p.id) + '.png" alt="' + esc(speciesLabel(p)) + '" decoding="async" width="96" height="96" ' +
+          (rank != null && rank < PRIORITY_N
+            ? 'loading="eager" fetchpriority="high"'
+            : 'loading="lazy" fetchpriority="low"') +
+          ' class="h-24 w-24 object-contain' + (isCaught(p.name) ? '' : ' opacity-45 saturate-50') + '">' +
+          shadesOverlay +
+        '</div>'
       : '';
     /* The grid card carried no caught state of its own. The only signal was the
        art losing its opacity, and refreshCard looked for a [data-catch] button
@@ -403,12 +589,7 @@
           return '<button type="button" data-form="' + esc(p.name) + '\u0001' + esc(f.name) + '" ' +
             'data-kind="' + esc(f.kind) + '" ' +
             'aria-pressed="' + on + '" title="' + esc(f.name + (f.label ? ' (' + f.label + ')' : '')) + '" ' +
-            'class="rounded-full border px-1.5 py-0.5 font-sans text-[9px] font-semibold leading-none transition-colors ' +
-            (f.kind === 'Z' ? 'border-kalos-400 text-kalos-700 dark:border-kalos-600 dark:text-kalos-300'
-              : f.kind === 'Mega' ? 'border-ember-400 text-ember-700 dark:border-ember-600 dark:text-ember-400'
-              : 'border-ink-300 text-ink-500 dark:border-ink-700 dark:text-ink-400') +
-            (on ? ' border-ember-500 bg-ember-500 font-semibold text-white'
-                : ' bg-transparent') + '">' +
+            'class="' + formPillClass(f.kind, on) + '">' +
             esc(f.kind) + '</button>';
         }).join('') + '</div>' : '') +
       '<button type="button" data-catch="' + esc(p.name) + '" aria-pressed="' + isCaught(p.name) + '" ' +
@@ -532,13 +713,13 @@
       toggleForm(b.dataset.base, b.dataset.form);
       paintForms();
       document.getElementById('forms-count').textContent =
-        Object.keys(formCaught).length + ' ticked';
+        Object.keys(formCaught).length + ' caught';
       paintCaught();
       lastSig = '';
       apply();
     });
     document.getElementById('forms-q').addEventListener('input', pz.debounce(paintForms, 140));
-    document.getElementById('forms-count').textContent = Object.keys(formCaught).length + ' ticked';
+    document.getElementById('forms-count').textContent = Object.keys(formCaught).length + ' caught';
     paintForms();
   }
 
@@ -708,13 +889,7 @@
          back colourless. Rebuilding is idempotent, so repeated toggles cannot
          drift. */
       var kind = fbtn.getAttribute('data-kind') || 'other';
-      var TONE = {
-        Z: 'border-kalos-400 text-kalos-700 dark:border-kalos-600 dark:text-kalos-300',
-        Mega: 'border-ember-400 text-ember-700 dark:border-ember-600 dark:text-ember-400',
-        other: 'border-ink-300 text-ink-500 dark:border-ink-700 dark:text-ink-400'
-      }[kind] || 'border-ink-300 text-ink-500 dark:border-ink-700 dark:text-ink-400';
-      var BASE = 'rounded-full border px-1.5 py-0.5 font-sans text-[9px] font-semibold leading-none transition-colors';
-      fbtn.className = BASE + ' ' + (nowOn ? ON.join(' ') : 'bg-transparent ' + TONE);
+      fbtn.className = formPillClass(kind, nowOn);
       paintCaught();
       return;
     }
