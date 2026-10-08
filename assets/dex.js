@@ -73,14 +73,14 @@
   function squirtleShadesSvg(isGrid, isVisible) {
     var idAttr = isGrid ? '' : ' id="squirtle-shades"';
     var displayStyle = (isVisible === false) ? 'display:none;' : 'display:block;';
-    return '<svg' + idAttr + ' class="pointer-events-none absolute filter drop-shadow-md" style="top:18px;left:18px;width:58px;height:26px;z-index:30;pointer-events:none;transform:rotate(-3deg);transform-origin:center center;' + displayStyle + '" viewBox="0 0 100 45">' +
-      '<polygon points="0,4 46,12 38,40 14,36" fill="#111827" stroke="#000" stroke-width="2.5" stroke-linejoin="round"/>' +
-      '<polygon points="54,12 100,4 86,36 62,40" fill="#111827" stroke="#000" stroke-width="2.5" stroke-linejoin="round"/>' +
-      '<line x1="45" y1="12" x2="55" y2="12" stroke="#111827" stroke-width="4.5" stroke-linecap="round"/>' +
-      '<polygon points="8,10 24,13 16,30 6,24" fill="#38bdf8" opacity="0.6"/>' +
-      '<polygon points="62,14 78,11 88,24 74,29" fill="#38bdf8" opacity="0.6"/>' +
-      '<polygon points="12,12 20,13 14,24 8,20" fill="#ffffff" opacity="0.85"/>' +
-      '<polygon points="66,13 74,12 82,21 72,25" fill="#ffffff" opacity="0.85"/>' +
+    return '<svg' + idAttr + ' class="pointer-events-none absolute filter drop-shadow-md" style="top:11px;left:10px;width:46px;height:18px;z-index:30;pointer-events:none;' + displayStyle + '" viewBox="0 0 100 40">' +
+      '<polygon points="0,4 45,13 38,38 11,33" fill="#111827" stroke="#000" stroke-width="2.5" stroke-linejoin="round"/>' +
+      '<polygon points="55,13 100,4 89,33 62,38" fill="#111827" stroke="#000" stroke-width="2.5" stroke-linejoin="round"/>' +
+      '<line x1="44" y1="13" x2="56" y2="13" stroke="#111827" stroke-width="4.5" stroke-linecap="round"/>' +
+      '<polygon points="8,10 24,14 16,30 6,24" fill="#38bdf8" opacity="0.6"/>' +
+      '<polygon points="60,15 76,11 86,24 72,30" fill="#38bdf8" opacity="0.6"/>' +
+      '<polygon points="12,12 20,14 14,24 8,20" fill="#ffffff" opacity="0.85"/>' +
+      '<polygon points="64,14 72,12 80,21 70,26" fill="#ffffff" opacity="0.85"/>' +
     '</svg>';
   }
 
